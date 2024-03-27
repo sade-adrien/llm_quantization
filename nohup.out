@@ -3226,3 +3226,3821 @@
 5it [00:02,  2.27it/s][A
 6it [00:02,  2.36it/s][A
 7it [00:03,  2.25it/s][A
+8it [00:03,  2.26it/s][A
+9it [00:03,  2.31it/s][A
+10it [00:04,  2.34it/s][A
+11it [00:04,  2.37it/s][A
+12it [00:05,  2.35it/s][A
+13it [00:05,  2.37it/s][A
+14it [00:06,  2.39it/s][A
+15it [00:06,  2.28it/s][A
+16it [00:06,  2.31it/s][A
+17it [00:07,  2.35it/s][A
+18it [00:07,  2.35it/s][A
+19it [00:08,  2.25it/s][A
+20it [00:08,  2.28it/s][A
+21it [00:09,  2.32it/s][A
+22it [00:09,  2.32it/s][A
+23it [00:09,  2.33it/s][A
+24it [00:10,  2.34it/s][A
+25it [00:10,  2.35it/s][A
+26it [00:11,  2.37it/s][A
+27it [00:11,  2.37it/s][A
+28it [00:12,  2.23it/s][A
+29it [00:12,  2.34it/s][A
+30it [00:12,  2.37it/s][A
+31it [00:13,  2.39it/s][A
+32it [00:13,  2.40it/s][A
+33it [00:14,  2.41it/s][A
+34it [00:14,  2.42it/s][A
+35it [00:14,  2.40it/s][A
+36it [00:15,  2.39it/s][A
+37it [00:15,  2.39it/s][A
+38it [00:16,  2.40it/s][A
+39it [00:16,  2.41it/s][A
+40it [00:17,  2.42it/s][A
+41it [00:17,  2.40it/s][A
+42it [00:17,  2.27it/s][A
+43it [00:18,  2.23it/s][A
+44it [00:18,  2.43it/s][A
+45it [00:19,  2.43it/s][A
+46it [00:19,  2.42it/s][A
+47it [00:20,  2.42it/s][A
+48it [00:20,  2.64it/s][A
+49it [00:20,  2.74it/s][A
+50it [00:21,  2.45it/s][A
+51it [00:21,  2.27it/s][A
+52it [00:22,  2.30it/s][A
+53it [00:22,  2.19it/s][A
+54it [00:23,  2.26it/s][A
+55it [00:23,  2.32it/s][A
+56it [00:23,  2.33it/s][A
+57it [00:24,  2.35it/s][A
+58it [00:24,  2.37it/s][A
+59it [00:25,  2.38it/s][A
+60it [00:25,  2.38it/s][A
+61it [00:25,  2.40it/s][A
+62it [00:26,  2.40it/s][A
+63it [00:26,  2.41it/s][A
+64it [00:27,  2.42it/s][A
+65it [00:27,  2.42it/s][A
+66it [00:27,  2.42it/s][A
+67it [00:28,  2.41it/s][A
+68it [00:28,  2.40it/s][A
+69it [00:29,  2.41it/s][A
+70it [00:29,  2.41it/s][A
+71it [00:30,  2.43it/s][A
+72it [00:30,  2.42it/s][A
+73it [00:30,  2.41it/s][A
+74it [00:31,  2.42it/s][A
+75it [00:31,  2.39it/s][A
+76it [00:32,  2.37it/s][A
+77it [00:32,  2.38it/s][A
+78it [00:32,  2.40it/s][A
+79it [00:33,  2.41it/s][A
+80it [00:33,  2.42it/s][A
+81it [00:34,  2.40it/s][A
+82it [00:34,  2.41it/s][A
+83it [00:35,  2.31it/s][A
+84it [00:35,  2.35it/s][A
+85it [00:35,  2.37it/s][A
+86it [00:36,  2.38it/s][A
+87it [00:36,  2.39it/s][A
+88it [00:37,  2.39it/s][A
+89it [00:37,  2.39it/s][A
+90it [00:38,  2.40it/s][A
+91it [00:38,  2.41it/s][A
+92it [00:38,  2.42it/s][A
+93it [00:39,  2.41it/s][A
+94it [00:39,  2.41it/s][A
+95it [00:40,  2.41it/s][A
+96it [00:40,  2.42it/s][A
+97it [00:40,  2.42it/s][A
+98it [00:41,  2.26it/s][A
+99it [00:41,  2.30it/s][A
+100it [00:42,  2.32it/s][A
+101it [00:42,  2.33it/s][A
+102it [00:43,  2.35it/s][A
+103it [00:43,  2.37it/s][A
+104it [00:43,  2.38it/s][A
+105it [00:44,  2.36it/s][A
+106it [00:44,  2.37it/s][A
+107it [00:45,  2.39it/s][A
+108it [00:45,  2.40it/s][A
+109it [00:45,  2.41it/s][A
+110it [00:46,  2.42it/s][A
+111it [00:46,  2.42it/s][A
+112it [00:47,  2.32it/s][A
+113it [00:47,  2.22it/s][A
+114it [00:48,  2.26it/s][A
+115it [00:48,  2.19it/s][A
+116it [00:49,  2.24it/s][A
+117it [00:49,  2.28it/s][A
+118it [00:49,  2.33it/s][A
+119it [00:50,  2.36it/s][A
+120it [00:50,  2.33it/s][A
+121it [00:51,  2.22it/s][A
+122it [00:51,  2.28it/s][A
+123it [00:52,  2.32it/s][A
+124it [00:52,  2.33it/s][A
+125it [00:53,  2.23it/s][A
+126it [00:53,  2.28it/s][A
+127it [00:53,  2.31it/s][A
+128it [00:54,  2.34it/s][A
+129it [00:54,  2.37it/s][A
+130it [00:55,  2.39it/s][A
+131it [00:55,  2.38it/s][A
+132it [00:55,  2.40it/s][A
+133it [00:56,  2.47it/s][A
+134it [00:56,  2.42it/s][A
+135it [00:57,  2.41it/s][A
+136it [00:57,  2.42it/s][A
+137it [00:58,  2.42it/s][A
+138it [00:58,  2.46it/s][A
+139it [00:58,  2.45it/s][A
+140it [00:59,  2.76it/s][A
+141it [00:59,  2.63it/s][A
+142it [00:59,  2.71it/s][A
+143it [01:00,  2.60it/s][A
+144it [01:00,  2.54it/s][A
+145it [01:01,  2.51it/s][A
+146it [01:01,  2.48it/s][A
+147it [01:01,  2.45it/s][A
+148it [01:02,  2.44it/s][A
+149it [01:02,  2.44it/s][A
+150it [01:03,  2.43it/s][A
+151it [01:03,  2.43it/s][A
+152it [01:03,  2.41it/s][A
+153it [01:04,  2.41it/s][A
+154it [01:04,  2.42it/s][A
+155it [01:05,  2.40it/s][A
+156it [01:05,  2.39it/s][A
+157it [01:06,  2.40it/s][A
+158it [01:06,  2.40it/s][A
+159it [01:06,  2.39it/s][A
+160it [01:07,  2.40it/s][A
+161it [01:07,  2.37it/s][A
+162it [01:08,  2.39it/s][A
+163it [01:08,  2.40it/s][A
+164it [01:08,  2.41it/s][A
+165it [01:09,  2.42it/s][A
+166it [01:09,  2.42it/s][A
+167it [01:10,  2.41it/s][A
+168it [01:10,  2.56it/s][A
+169it [01:10,  2.50it/s][A
+170it [01:11,  2.48it/s][A
+171it [01:11,  2.44it/s][A
+172it [01:12,  2.49it/s][A
+173it [01:12,  2.57it/s][A
+174it [01:12,  2.50it/s][A
+175it [01:13,  2.36it/s][A
+176it [01:13,  2.38it/s][A
+177it [01:14,  2.39it/s][A
+178it [01:14,  2.40it/s][A
+179it [01:15,  2.40it/s][A
+180it [01:15,  2.28it/s][A
+181it [01:16,  2.31it/s][A
+182it [01:16,  2.34it/s][A
+183it [01:16,  2.37it/s][A
+184it [01:17,  2.38it/s][A
+185it [01:17,  2.38it/s][A
+186it [01:18,  2.39it/s][A
+187it [01:18,  2.40it/s][A
+188it [01:18,  2.39it/s][A
+189it [01:19,  2.40it/s][A
+190it [01:19,  2.39it/s][A
+191it [01:20,  2.39it/s][A
+192it [01:20,  2.39it/s][A
+193it [01:21,  2.40it/s][A
+194it [01:21,  2.41it/s][A
+195it [01:21,  2.42it/s][A
+196it [01:22,  2.41it/s][A
+197it [01:22,  2.41it/s][A
+198it [01:23,  2.38it/s][A
+199it [01:23,  2.37it/s][A
+200it [01:23,  2.38it/s][A
+201it [01:24,  2.39it/s][A
+202it [01:24,  2.40it/s][A0: ppl=tensor(3.5399, device='cuda:0')
+1: ppl=tensor(5.4299, device='cuda:0')
+2: ppl=tensor(3.4013, device='cuda:0')
+3: ppl=tensor(3.7382, device='cuda:0')
+4: ppl=tensor(3.9200, device='cuda:0')
+5: ppl=tensor(3.6074, device='cuda:0')
+6: ppl=tensor(4.9067, device='cuda:0')
+7: ppl=tensor(3.5722, device='cuda:0')
+8: ppl=tensor(5.0177, device='cuda:0')
+9: ppl=tensor(3.3703, device='cuda:0')
+10: ppl=tensor(3.8245, device='cuda:0')
+11: ppl=tensor(3.6842, device='cuda:0')
+12: ppl=tensor(3.9518, device='cuda:0')
+13: ppl=tensor(4.1650, device='cuda:0')
+14: ppl=tensor(4.5587, device='cuda:0')
+15: ppl=tensor(3.6793, device='cuda:0')
+16: ppl=tensor(3.9134, device='cuda:0')
+17: ppl=tensor(4.1999, device='cuda:0')
+18: ppl=tensor(5.9565, device='cuda:0')
+19: ppl=tensor(3.4520, device='cuda:0')
+20: ppl=tensor(4.7368, device='cuda:0')
+21: ppl=tensor(3.6810, device='cuda:0')
+22: ppl=tensor(3.8625, device='cuda:0')
+23: ppl=tensor(3.3670, device='cuda:0')
+24: ppl=tensor(3.8533, device='cuda:0')
+25: ppl=tensor(5.6126, device='cuda:0')
+26: ppl=tensor(5.4136, device='cuda:0')
+27: ppl=tensor(3.7992, device='cuda:0')
+28: ppl=tensor(4.6986, device='cuda:0')
+29: ppl=tensor(4.6552, device='cuda:0')
+30: ppl=tensor(4.2214, device='cuda:0')
+31: ppl=tensor(5.1568, device='cuda:0')
+32: ppl=tensor(4.4784, device='cuda:0')
+33: ppl=tensor(4.2306, device='cuda:0')
+34: ppl=tensor(4.2241, device='cuda:0')
+35: ppl=tensor(4.2879, device='cuda:0')
+36: ppl=tensor(4.7576, device='cuda:0')
+37: ppl=tensor(4.8365, device='cuda:0')
+38: ppl=tensor(4.2185, device='cuda:0')
+39: ppl=tensor(5.1436, device='cuda:0')
+40: ppl=tensor(4.4748, device='cuda:0')
+41: ppl=tensor(4.0982, device='cuda:0')
+42: ppl=tensor(4.5082, device='cuda:0')
+43: ppl=tensor(4.1828, device='cuda:0')
+44: ppl=tensor(4.4395, device='cuda:0')
+45: ppl=tensor(4.4718, device='cuda:0')
+46: ppl=tensor(4.2891, device='cuda:0')
+47: ppl=tensor(9.3575, device='cuda:0')
+48: ppl=tensor(4.8587, device='cuda:0')
+49: ppl=tensor(5.3124, device='cuda:0')
+50: ppl=tensor(4.3379, device='cuda:0')
+51: ppl=tensor(4.4909, device='cuda:0')
+52: ppl=tensor(5.0389, device='cuda:0')
+53: ppl=tensor(4.3402, device='cuda:0')
+54: ppl=tensor(4.1241, device='cuda:0')
+55: ppl=tensor(4.1850, device='cuda:0')
+56: ppl=tensor(4.5379, device='cuda:0')
+57: ppl=tensor(4.9438, device='cuda:0')
+58: ppl=tensor(4.9888, device='cuda:0')
+59: ppl=tensor(4.4218, device='cuda:0')
+60: ppl=tensor(4.6530, device='cuda:0')
+61: ppl=tensor(4.8187, device='cuda:0')
+62: ppl=tensor(4.4994, device='cuda:0')
+63: ppl=tensor(6.1651, device='cuda:0')
+64: ppl=tensor(5.4329, device='cuda:0')
+65: ppl=tensor(5.2392, device='cuda:0')
+66: ppl=tensor(4.7286, device='cuda:0')
+67: ppl=tensor(4.5437, device='cuda:0')
+68: ppl=tensor(4.2331, device='cuda:0')
+69: ppl=tensor(5.1863, device='cuda:0')
+70: ppl=tensor(5.7013, device='cuda:0')
+71: ppl=tensor(4.4459, device='cuda:0')
+72: ppl=tensor(4.6312, device='cuda:0')
+73: ppl=tensor(4.3741, device='cuda:0')
+74: ppl=tensor(4.7617, device='cuda:0')
+75: ppl=tensor(4.4366, device='cuda:0')
+76: ppl=tensor(4.7244, device='cuda:0')
+77: ppl=tensor(5.0099, device='cuda:0')
+78: ppl=tensor(6.0130, device='cuda:0')
+79: ppl=tensor(5.4292, device='cuda:0')
+80: ppl=tensor(4.5142, device='cuda:0')
+81: ppl=tensor(5.1749, device='cuda:0')
+82: ppl=tensor(4.2846, device='cuda:0')
+83: ppl=tensor(5.9843, device='cuda:0')
+84: ppl=tensor(5.0519, device='cuda:0')
+85: ppl=tensor(4.9551, device='cuda:0')
+86: ppl=tensor(4.6429, device='cuda:0')
+87: ppl=tensor(4.4883, device='cuda:0')
+88: ppl=tensor(4.7973, device='cuda:0')
+89: ppl=tensor(5.2459, device='cuda:0')
+90: ppl=tensor(5.2950, device='cuda:0')
+91: ppl=tensor(4.8192, device='cuda:0')
+92: ppl=tensor(5.0821, device='cuda:0')
+93: ppl=tensor(5.2165, device='cuda:0')
+94: ppl=tensor(4.7727, device='cuda:0')
+95: ppl=tensor(5.3960, device='cuda:0')
+96: ppl=tensor(5.3375, device='cuda:0')
+97: ppl=tensor(4.7393, device='cuda:0')
+98: ppl=tensor(4.9139, device='cuda:0')
+99: ppl=tensor(5.3271, device='cuda:0')
+100: ppl=tensor(5.2839, device='cuda:0')
+101: ppl=tensor(5.1376, device='cuda:0')
+102: ppl=tensor(4.7761, device='cuda:0')
+103: ppl=tensor(5.4258, device='cuda:0')
+104: ppl=tensor(4.9220, device='cuda:0')
+105: ppl=tensor(4.9914, device='cuda:0')
+106: ppl=tensor(4.7740, device='cuda:0')
+107: ppl=tensor(5.5882, device='cuda:0')
+108: ppl=tensor(5.7056, device='cuda:0')
+109: ppl=tensor(5.2281, device='cuda:0')
+110: ppl=tensor(5.3345, device='cuda:0')
+111: ppl=tensor(5.6804, device='cuda:0')
+112: ppl=tensor(5.1890, device='cuda:0')
+113: ppl=tensor(5.0000, device='cuda:0')
+114: ppl=tensor(5.5860, device='cuda:0')
+115: ppl=tensor(5.2956, device='cuda:0')
+116: ppl=tensor(5.6287, device='cuda:0')
+117: ppl=tensor(5.3406, device='cuda:0')
+118: ppl=tensor(5.6971, device='cuda:0')
+119: ppl=tensor(6.2316, device='cuda:0')
+120: ppl=tensor(5.7673, device='cuda:0')
+121: ppl=tensor(5.1410, device='cuda:0')
+122: ppl=tensor(4.8536, device='cuda:0')
+123: ppl=tensor(5.6037, device='cuda:0')
+124: ppl=tensor(5.2051, device='cuda:0')
+125: ppl=tensor(5.3819, device='cuda:0')
+126: ppl=tensor(5.7097, device='cuda:0')
+127: ppl=tensor(5.0308, device='cuda:0')
+128: ppl=tensor(4.9617, device='cuda:0')
+129: ppl=tensor(5.1501, device='cuda:0')
+130: ppl=tensor(5.0668, device='cuda:0')
+131: ppl=tensor(5.4347, device='cuda:0')
+132: ppl=tensor(6.7283, device='cuda:0')
+133: ppl=tensor(5.4887, device='cuda:0')
+134: ppl=tensor(5.3584, device='cuda:0')
+135: ppl=tensor(5.5714, device='cuda:0')
+136: ppl=tensor(5.4588, device='cuda:0')
+137: ppl=tensor(6.8349, device='cuda:0')
+138: ppl=tensor(5.1239, device='cuda:0')
+139: ppl=tensor(6.7087, device='cuda:0')
+140: ppl=tensor(5.6405, device='cuda:0')
+141: ppl=tensor(6.3094, device='cuda:0')
+142: ppl=tensor(5.3861, device='cuda:0')
+143: ppl=tensor(5.3899, device='cuda:0')
+144: ppl=tensor(5.9893, device='cuda:0')
+145: ppl=tensor(5.3243, device='cuda:0')
+146: ppl=tensor(5.7267, device='cuda:0')
+147: ppl=tensor(4.9009, device='cuda:0')
+148: ppl=tensor(6.1093, device='cuda:0')
+149: ppl=tensor(5.3755, device='cuda:0')
+150: ppl=tensor(5.8429, device='cuda:0')
+151: ppl=tensor(5.5981, device='cuda:0')
+152: ppl=tensor(5.8435, device='cuda:0')
+153: ppl=tensor(6.0558, device='cuda:0')
+154: ppl=tensor(5.6678, device='cuda:0')
+155: ppl=tensor(5.5133, device='cuda:0')
+156: ppl=tensor(5.3685, device='cuda:0')
+157: ppl=tensor(5.7560, device='cuda:0')
+158: ppl=tensor(6.2928, device='cuda:0')
+159: ppl=tensor(5.5074, device='cuda:0')
+160: ppl=tensor(5.5362, device='cuda:0')
+161: ppl=tensor(7.2341, device='cuda:0')
+162: ppl=tensor(6.1242, device='cuda:0')
+163: ppl=tensor(5.9279, device='cuda:0')
+164: ppl=tensor(6.0726, device='cuda:0')
+165: ppl=tensor(5.5524, device='cuda:0')
+166: ppl=tensor(6.8610, device='cuda:0')
+167: ppl=tensor(6.1230, device='cuda:0')
+168: ppl=tensor(6.6366, device='cuda:0')
+169: ppl=tensor(6.4432, device='cuda:0')
+170: ppl=tensor(6.3892, device='cuda:0')
+171: ppl=tensor(7.3861, device='cuda:0')
+172: ppl=tensor(5.7009, device='cuda:0')
+173: ppl=tensor(6.2844, device='cuda:0')
+174: ppl=tensor(5.7023, device='cuda:0')
+175: ppl=tensor(5.8470, device='cuda:0')
+176: ppl=tensor(6.0553, device='cuda:0')
+177: ppl=tensor(7.0902, device='cuda:0')
+178: ppl=tensor(5.8133, device='cuda:0')
+179: ppl=tensor(6.4527, device='cuda:0')
+180: ppl=tensor(5.7853, device='cuda:0')
+181: ppl=tensor(7.1517, device='cuda:0')
+182: ppl=tensor(6.3345, device='cuda:0')
+183: ppl=tensor(5.9538, device='cuda:0')
+184: ppl=tensor(6.4663, device='cuda:0')
+185: ppl=tensor(6.4714, device='cuda:0')
+186: ppl=tensor(5.9475, device='cuda:0')
+187: ppl=tensor(7.3919, device='cuda:0')
+188: ppl=tensor(5.7557, device='cuda:0')
+189: ppl=tensor(6.8226, device='cuda:0')
+190: ppl=tensor(5.5460, device='cuda:0')
+191: ppl=tensor(5.7779, device='cuda:0')
+192: ppl=tensor(6.0727, device='cuda:0')
+193: ppl=tensor(5.6853, device='cuda:0')
+194: ppl=tensor(5.7983, device='cuda:0')
+195: ppl=tensor(5.8168, device='cuda:0')
+196: ppl=tensor(5.9641, device='cuda:0')
+197: ppl=tensor(5.7760, device='cuda:0')
+198: ppl=tensor(6.4439, device='cuda:0')
+199: ppl=tensor(5.8339, device='cuda:0')
+200: ppl=tensor(6.2566, device='cuda:0')
+201: ppl=tensor(5.7616, device='cuda:0')
+
+203it [01:25,  2.40it/s][A
+204it [01:25,  2.39it/s][A
+205it [01:26,  2.40it/s][A
+206it [01:26,  2.41it/s][A
+207it [01:26,  2.42it/s][A
+208it [01:27,  2.42it/s][A
+209it [01:27,  2.43it/s][A
+210it [01:28,  2.42it/s][A
+211it [01:28,  2.42it/s][A
+212it [01:28,  2.40it/s][A
+213it [01:29,  2.46it/s][A
+214it [01:29,  2.33it/s][A
+215it [01:30,  2.36it/s][A
+216it [01:30,  2.37it/s][A
+217it [01:31,  2.39it/s][A
+218it [01:31,  2.46it/s][A
+219it [01:31,  2.45it/s][A
+220it [01:32,  2.42it/s][A
+221it [01:32,  2.43it/s][A
+222it [01:33,  2.43it/s][A
+223it [01:33,  2.43it/s][A
+224it [01:33,  2.42it/s][A
+225it [01:34,  2.41it/s][A
+226it [01:34,  2.41it/s][A
+227it [01:35,  2.46it/s][A
+228it [01:35,  2.74it/s][A
+229it [01:35,  2.64it/s][A
+230it [01:36,  2.43it/s][A
+231it [01:36,  2.35it/s][A
+232it [01:37,  2.37it/s][A
+233it [01:37,  2.25it/s][A
+234it [01:38,  2.30it/s][A
+235it [01:38,  2.33it/s][A
+236it [01:38,  2.30it/s][A
+237it [01:39,  2.32it/s][A
+238it [01:39,  2.32it/s][A
+239it [01:40,  2.34it/s][A
+240it [01:40,  2.46it/s][A
+241it [01:40,  2.45it/s][A
+242it [01:41,  2.44it/s][A
+243it [01:41,  2.43it/s][A
+244it [01:42,  2.43it/s][A
+245it [01:42,  2.39it/s][A
+246it [01:43,  2.37it/s][A
+247it [01:43,  2.37it/s][A
+248it [01:43,  2.39it/s][A
+249it [01:44,  2.40it/s][A
+250it [01:44,  2.33it/s][A
+251it [01:45,  2.42it/s][A
+252it [01:45,  2.39it/s][A
+253it [01:46,  2.31it/s][A
+254it [01:46,  2.35it/s][A
+255it [01:46,  2.34it/s][A
+256it [01:47,  2.35it/s][A
+257it [01:47,  2.35it/s][A
+258it [01:48,  2.37it/s][A
+259it [01:48,  2.36it/s][A
+260it [01:48,  2.37it/s][A
+261it [01:49,  2.39it/s][A
+262it [01:49,  2.40it/s][A
+263it [01:50,  2.40it/s][A
+264it [01:50,  2.40it/s][A
+265it [01:51,  2.39it/s][A
+266it [01:51,  2.40it/s][A
+267it [01:51,  2.39it/s][A
+268it [01:52,  2.39it/s][A
+269it [01:52,  2.40it/s][A
+270it [01:53,  2.41it/s][A
+271it [01:53,  2.42it/s][A
+272it [01:53,  2.42it/s][A
+273it [01:54,  2.43it/s][A
+274it [01:54,  2.43it/s][A
+275it [01:55,  2.42it/s][A
+276it [01:55,  2.41it/s][A
+277it [01:56,  2.42it/s][A
+278it [01:56,  2.40it/s][A
+279it [01:56,  2.40it/s][A
+280it [01:57,  2.41it/s][A
+281it [01:57,  2.40it/s][A
+282it [01:58,  2.42it/s][A
+283it [01:58,  2.42it/s][A
+284it [01:58,  2.41it/s][A
+285it [01:59,  2.41it/s][A
+286it [01:59,  2.42it/s][A
+287it [02:00,  2.58it/s][A
+288it [02:00,  2.54it/s][A
+289it [02:00,  2.50it/s][A
+290it [02:01,  2.47it/s][A
+291it [02:01,  2.41it/s][A
+292it [02:02,  2.41it/s][A
+293it [02:02,  2.41it/s][A
+294it [02:03,  2.41it/s][A
+295it [02:03,  2.41it/s][A
+296it [02:03,  2.42it/s][A
+297it [02:04,  2.40it/s][A
+298it [02:04,  2.41it/s][A
+299it [02:05,  2.32it/s][A
+300it [02:05,  2.18it/s][A300it [02:05,  2.39it/s]
+ 80%|████████  | 8/10 [07:37<02:47, 84.00s/it]202: ppl=tensor(6.3640, device='cuda:0')
+203: ppl=tensor(6.2851, device='cuda:0')
+204: ppl=tensor(5.5290, device='cuda:0')
+205: ppl=tensor(6.7968, device='cuda:0')
+206: ppl=tensor(6.7744, device='cuda:0')
+207: ppl=tensor(6.6882, device='cuda:0')
+208: ppl=tensor(7.0921, device='cuda:0')
+209: ppl=tensor(6.7282, device='cuda:0')
+210: ppl=tensor(6.5927, device='cuda:0')
+211: ppl=tensor(6.5203, device='cuda:0')
+212: ppl=tensor(6.4378, device='cuda:0')
+213: ppl=tensor(5.8782, device='cuda:0')
+214: ppl=tensor(7.2038, device='cuda:0')
+215: ppl=tensor(6.5629, device='cuda:0')
+216: ppl=tensor(8.3451, device='cuda:0')
+217: ppl=tensor(6.2187, device='cuda:0')
+218: ppl=tensor(6.3149, device='cuda:0')
+219: ppl=tensor(6.3590, device='cuda:0')
+220: ppl=tensor(7.0603, device='cuda:0')
+221: ppl=tensor(6.4565, device='cuda:0')
+222: ppl=tensor(6.1559, device='cuda:0')
+223: ppl=tensor(5.6776, device='cuda:0')
+224: ppl=tensor(6.0324, device='cuda:0')
+225: ppl=tensor(7.7783, device='cuda:0')
+226: ppl=tensor(7.3541, device='cuda:0')
+227: ppl=tensor(6.6500, device='cuda:0')
+228: ppl=tensor(5.9542, device='cuda:0')
+229: ppl=tensor(5.7407, device='cuda:0')
+230: ppl=tensor(6.7186, device='cuda:0')
+231: ppl=tensor(6.1117, device='cuda:0')
+232: ppl=tensor(10.1298, device='cuda:0')
+233: ppl=tensor(7.0146, device='cuda:0')
+234: ppl=tensor(5.9933, device='cuda:0')
+235: ppl=tensor(5.7323, device='cuda:0')
+236: ppl=tensor(6.0468, device='cuda:0')
+237: ppl=tensor(6.1115, device='cuda:0')
+238: ppl=tensor(6.7029, device='cuda:0')
+239: ppl=tensor(10.0543, device='cuda:0')
+240: ppl=tensor(7.6497, device='cuda:0')
+241: ppl=tensor(7.1572, device='cuda:0')
+242: ppl=tensor(6.6513, device='cuda:0')
+243: ppl=tensor(6.1666, device='cuda:0')
+244: ppl=tensor(6.4112, device='cuda:0')
+245: ppl=tensor(6.2885, device='cuda:0')
+246: ppl=tensor(6.6136, device='cuda:0')
+247: ppl=tensor(6.4280, device='cuda:0')
+248: ppl=tensor(7.4994, device='cuda:0')
+249: ppl=tensor(7.0969, device='cuda:0')
+250: ppl=tensor(6.5225, device='cuda:0')
+251: ppl=tensor(7.2391, device='cuda:0')
+252: ppl=tensor(7.0699, device='cuda:0')
+253: ppl=tensor(7.0534, device='cuda:0')
+254: ppl=tensor(8.5068, device='cuda:0')
+255: ppl=tensor(5.9124, device='cuda:0')
+256: ppl=tensor(7.0933, device='cuda:0')
+257: ppl=tensor(6.7422, device='cuda:0')
+258: ppl=tensor(7.6688, device='cuda:0')
+259: ppl=tensor(6.9449, device='cuda:0')
+260: ppl=tensor(5.9501, device='cuda:0')
+261: ppl=tensor(7.3402, device='cuda:0')
+262: ppl=tensor(6.2107, device='cuda:0')
+263: ppl=tensor(6.3533, device='cuda:0')
+264: ppl=tensor(5.8796, device='cuda:0')
+265: ppl=tensor(5.7578, device='cuda:0')
+266: ppl=tensor(6.7416, device='cuda:0')
+267: ppl=tensor(6.6089, device='cuda:0')
+268: ppl=tensor(6.4387, device='cuda:0')
+269: ppl=tensor(6.8280, device='cuda:0')
+270: ppl=tensor(6.6935, device='cuda:0')
+271: ppl=tensor(5.9151, device='cuda:0')
+272: ppl=tensor(8.1043, device='cuda:0')
+273: ppl=tensor(6.9199, device='cuda:0')
+274: ppl=tensor(7.2011, device='cuda:0')
+275: ppl=tensor(6.6332, device='cuda:0')
+276: ppl=tensor(5.8069, device='cuda:0')
+277: ppl=tensor(6.9121, device='cuda:0')
+278: ppl=tensor(6.8430, device='cuda:0')
+279: ppl=tensor(6.7111, device='cuda:0')
+280: ppl=tensor(7.6848, device='cuda:0')
+281: ppl=tensor(8.0749, device='cuda:0')
+282: ppl=tensor(6.4636, device='cuda:0')
+283: ppl=tensor(6.4858, device='cuda:0')
+284: ppl=tensor(5.8662, device='cuda:0')
+285: ppl=tensor(8.1287, device='cuda:0')
+286: ppl=tensor(7.6286, device='cuda:0')
+287: ppl=tensor(6.6319, device='cuda:0')
+288: ppl=tensor(7.7561, device='cuda:0')
+289: ppl=tensor(6.7798, device='cuda:0')
+290: ppl=tensor(6.8297, device='cuda:0')
+291: ppl=tensor(7.5524, device='cuda:0')
+292: ppl=tensor(6.9272, device='cuda:0')
+293: ppl=tensor(6.5206, device='cuda:0')
+294: ppl=tensor(7.4275, device='cuda:0')
+295: ppl=tensor(7.5921, device='cuda:0')
+296: ppl=tensor(7.5592, device='cuda:0')
+297: ppl=tensor(7.0306, device='cuda:0')
+298: ppl=tensor(7.3140, device='cuda:0')
+299: ppl=tensor(6.4121, device='cuda:0')
+
+0it [00:00, ?it/s][A
+1it [00:00,  2.83it/s][A
+2it [00:00,  3.35it/s][A
+3it [00:00,  3.32it/s][A
+4it [00:01,  3.47it/s][A
+5it [00:01,  3.13it/s][A
+6it [00:01,  3.25it/s][A
+7it [00:02,  3.02it/s][A
+8it [00:02,  3.22it/s][A
+9it [00:02,  3.47it/s][A
+10it [00:02,  3.65it/s][A
+11it [00:03,  3.80it/s][A
+12it [00:03,  3.82it/s][A
+13it [00:03,  3.92it/s][A
+14it [00:03,  4.00it/s][A
+15it [00:04,  3.47it/s][A
+16it [00:04,  3.64it/s][A
+17it [00:04,  3.79it/s][A
+18it [00:05,  3.85it/s][A
+19it [00:05,  3.36it/s][A
+20it [00:05,  3.53it/s][A
+21it [00:05,  3.68it/s][A
+22it [00:06,  3.73it/s][A
+23it [00:06,  3.80it/s][A
+24it [00:06,  3.86it/s][A
+25it [00:06,  3.93it/s][A
+26it [00:07,  3.71it/s][A
+27it [00:07,  3.80it/s][A
+28it [00:07,  3.28it/s][A
+29it [00:08,  3.38it/s][A
+30it [00:08,  3.60it/s][A
+31it [00:08,  3.76it/s][A
+32it [00:08,  3.88it/s][A
+33it [00:09,  3.97it/s][A
+34it [00:09,  4.03it/s][A
+35it [00:09,  4.03it/s][A
+36it [00:09,  4.02it/s][A
+37it [00:10,  4.05it/s][A
+38it [00:10,  4.07it/s][A
+39it [00:10,  4.11it/s][A
+40it [00:10,  4.14it/s][A
+41it [00:11,  4.09it/s][A
+42it [00:11,  3.49it/s][A
+43it [00:11,  3.23it/s][A
+44it [00:12,  3.55it/s][A
+45it [00:12,  3.71it/s][A
+46it [00:12,  3.82it/s][A
+47it [00:12,  3.93it/s][A
+48it [00:12,  4.23it/s][A
+49it [00:13,  4.29it/s][A
+50it [00:13,  3.54it/s][A
+51it [00:13,  3.13it/s][A
+52it [00:14,  3.35it/s][A
+53it [00:14,  3.05it/s][A
+54it [00:14,  3.32it/s][A
+55it [00:15,  3.33it/s][A
+56it [00:15,  3.50it/s][A
+57it [00:15,  3.64it/s][A
+58it [00:15,  3.79it/s][A
+59it [00:16,  3.89it/s][A
+60it [00:16,  3.93it/s][A
+61it [00:16,  4.01it/s][A
+62it [00:16,  4.06it/s][A
+63it [00:17,  4.10it/s][A
+64it [00:17,  4.12it/s][A
+65it [00:17,  4.13it/s][A
+66it [00:17,  4.15it/s][A
+67it [00:18,  4.10it/s][A
+68it [00:18,  4.08it/s][A
+69it [00:18,  4.11it/s][A
+70it [00:18,  4.13it/s][A
+71it [00:19,  4.18it/s][A
+72it [00:19,  4.16it/s][A
+73it [00:19,  4.12it/s][A
+74it [00:19,  4.14it/s][A
+75it [00:20,  4.10it/s][A
+76it [00:20,  4.03it/s][A
+77it [00:20,  4.04it/s][A
+78it [00:20,  4.09it/s][A
+79it [00:20,  4.12it/s][A
+80it [00:21,  4.14it/s][A
+81it [00:21,  4.10it/s][A
+82it [00:21,  4.13it/s][A
+83it [00:22,  3.58it/s][A
+84it [00:22,  3.49it/s][A
+85it [00:22,  3.66it/s][A
+86it [00:22,  3.79it/s][A
+87it [00:23,  3.91it/s][A
+88it [00:23,  3.94it/s][A
+89it [00:23,  3.99it/s][A
+90it [00:23,  4.05it/s][A
+91it [00:24,  4.09it/s][A
+92it [00:24,  4.12it/s][A
+93it [00:24,  4.09it/s][A
+94it [00:24,  4.10it/s][A
+95it [00:25,  4.13it/s][A
+96it [00:25,  4.15it/s][A
+97it [00:25,  4.15it/s][A
+98it [00:25,  3.45it/s][A
+99it [00:26,  3.64it/s][A
+100it [00:26,  3.74it/s][A
+101it [00:26,  3.82it/s][A
+102it [00:26,  3.88it/s][A
+103it [00:27,  3.97it/s][A
+104it [00:27,  4.01it/s][A
+105it [00:27,  3.95it/s][A
+106it [00:27,  4.00it/s][A
+107it [00:28,  4.06it/s][A
+108it [00:28,  4.10it/s][A
+109it [00:28,  4.12it/s][A
+110it [00:28,  4.15it/s][A
+111it [00:29,  4.16it/s][A
+112it [00:29,  3.62it/s][A
+113it [00:29,  3.22it/s][A
+114it [00:30,  3.41it/s][A
+115it [00:30,  3.13it/s][A
+116it [00:30,  3.33it/s][A
+117it [00:30,  3.54it/s][A
+118it [00:31,  3.71it/s][A
+119it [00:31,  3.84it/s][A
+120it [00:31,  3.54it/s][A
+121it [00:32,  3.18it/s][A
+122it [00:32,  3.43it/s][A
+123it [00:32,  3.61it/s][A
+124it [00:32,  3.72it/s][A
+125it [00:33,  3.29it/s][A
+126it [00:33,  3.51it/s][A
+127it [00:33,  3.65it/s][A
+128it [00:34,  3.80it/s][A
+129it [00:34,  3.91it/s][A
+130it [00:34,  3.99it/s][A
+131it [00:34,  3.99it/s][A
+132it [00:34,  4.07it/s][A
+133it [00:35,  3.94it/s][A
+134it [00:35,  3.92it/s][A
+135it [00:35,  3.96it/s][A
+136it [00:36,  4.03it/s][A
+137it [00:36,  4.06it/s][A
+138it [00:36,  3.88it/s][A
+139it [00:36,  3.97it/s][A
+140it [00:36,  4.52it/s][A
+141it [00:37,  4.36it/s][A
+142it [00:37,  4.33it/s][A
+143it [00:37,  4.23it/s][A
+144it [00:37,  4.20it/s][A
+145it [00:38,  4.20it/s][A
+146it [00:38,  4.19it/s][A
+147it [00:38,  4.14it/s][A
+148it [00:38,  4.16it/s][A
+149it [00:39,  4.16it/s][A
+150it [00:39,  4.15it/s][A
+151it [00:39,  4.17it/s][A
+152it [00:39,  4.12it/s][A
+153it [00:40,  4.11it/s][A
+154it [00:40,  4.14it/s][A
+155it [00:40,  4.10it/s][A
+156it [00:40,  4.06it/s][A
+157it [00:41,  4.10it/s][A
+158it [00:41,  4.10it/s][A
+159it [00:41,  4.08it/s][A
+160it [00:41,  4.09it/s][A
+161it [00:42,  4.02it/s][A
+162it [00:42,  4.07it/s][A
+163it [00:42,  4.11it/s][A
+164it [00:42,  4.14it/s][A
+165it [00:42,  4.15it/s][A
+166it [00:43,  4.16it/s][A
+167it [00:43,  4.11it/s][A
+168it [00:43,  4.22it/s][A
+169it [00:43,  4.16it/s][A
+170it [00:44,  4.15it/s][A
+171it [00:44,  4.11it/s][A
+172it [00:44,  3.94it/s][A
+173it [00:44,  3.95it/s][A
+174it [00:45,  3.97it/s][A
+175it [00:45,  3.48it/s][A
+176it [00:45,  3.64it/s][A
+177it [00:46,  3.77it/s][A
+178it [00:46,  3.89it/s][A
+179it [00:46,  3.96it/s][A0: ppl=tensor(1759674., device='cuda:0')
+1: ppl=tensor(5231682.5000, device='cuda:0')
+2: ppl=tensor(1944251.7500, device='cuda:0')
+3: ppl=tensor(7977956., device='cuda:0')
+4: ppl=tensor(315793.7500, device='cuda:0')
+5: ppl=tensor(1624909.1250, device='cuda:0')
+6: ppl=tensor(2913558.7500, device='cuda:0')
+7: ppl=tensor(348388., device='cuda:0')
+8: ppl=tensor(4936281., device='cuda:0')
+9: ppl=tensor(1346897.8750, device='cuda:0')
+10: ppl=tensor(291662.3438, device='cuda:0')
+11: ppl=tensor(426713.5312, device='cuda:0')
+12: ppl=tensor(592527.9375, device='cuda:0')
+13: ppl=tensor(533433.6250, device='cuda:0')
+14: ppl=tensor(3601530.5000, device='cuda:0')
+15: ppl=tensor(994690.8750, device='cuda:0')
+16: ppl=tensor(2009150.7500, device='cuda:0')
+17: ppl=tensor(1124620., device='cuda:0')
+18: ppl=tensor(7605137.5000, device='cuda:0')
+19: ppl=tensor(3053415.2500, device='cuda:0')
+20: ppl=tensor(2034688.2500, device='cuda:0')
+21: ppl=tensor(1500077.6250, device='cuda:0')
+22: ppl=tensor(1434882.8750, device='cuda:0')
+23: ppl=tensor(364664.8750, device='cuda:0')
+24: ppl=tensor(2203815., device='cuda:0')
+25: ppl=tensor(2944744.5000, device='cuda:0')
+26: ppl=tensor(2056951.5000, device='cuda:0')
+27: ppl=tensor(3211358., device='cuda:0')
+28: ppl=tensor(2280569., device='cuda:0')
+29: ppl=tensor(3082797.7500, device='cuda:0')
+30: ppl=tensor(1950567.8750, device='cuda:0')
+31: ppl=tensor(18271654., device='cuda:0')
+32: ppl=tensor(1006317.1250, device='cuda:0')
+33: ppl=tensor(1330382.3750, device='cuda:0')
+34: ppl=tensor(567612.4375, device='cuda:0')
+35: ppl=tensor(769988.2500, device='cuda:0')
+36: ppl=tensor(1111603.6250, device='cuda:0')
+37: ppl=tensor(1193555.1250, device='cuda:0')
+38: ppl=tensor(1688385., device='cuda:0')
+39: ppl=tensor(2077325.5000, device='cuda:0')
+40: ppl=tensor(2096619.2500, device='cuda:0')
+41: ppl=tensor(5975242., device='cuda:0')
+42: ppl=tensor(1600851.1250, device='cuda:0')
+43: ppl=tensor(1800536.1250, device='cuda:0')
+44: ppl=tensor(1265590.2500, device='cuda:0')
+45: ppl=tensor(362683.1250, device='cuda:0')
+46: ppl=tensor(1549808.7500, device='cuda:0')
+47: ppl=tensor(980187.1250, device='cuda:0')
+48: ppl=tensor(2274916.7500, device='cuda:0')
+49: ppl=tensor(1350787.7500, device='cuda:0')
+50: ppl=tensor(2016214.3750, device='cuda:0')
+51: ppl=tensor(1320741.8750, device='cuda:0')
+52: ppl=tensor(2624866.2500, device='cuda:0')
+53: ppl=tensor(698756.7500, device='cuda:0')
+54: ppl=tensor(478444.5938, device='cuda:0')
+55: ppl=tensor(1318791.1250, device='cuda:0')
+56: ppl=tensor(2007672.1250, device='cuda:0')
+57: ppl=tensor(1392205.1250, device='cuda:0')
+58: ppl=tensor(3109768.7500, device='cuda:0')
+59: ppl=tensor(3019788.2500, device='cuda:0')
+60: ppl=tensor(817759.5625, device='cuda:0')
+61: ppl=tensor(481026.3125, device='cuda:0')
+62: ppl=tensor(1639208.1250, device='cuda:0')
+63: ppl=tensor(2532843.2500, device='cuda:0')
+64: ppl=tensor(2688371.7500, device='cuda:0')
+65: ppl=tensor(1579866.6250, device='cuda:0')
+66: ppl=tensor(1120929.1250, device='cuda:0')
+67: ppl=tensor(1199996.7500, device='cuda:0')
+68: ppl=tensor(6680170., device='cuda:0')
+69: ppl=tensor(2157371.5000, device='cuda:0')
+70: ppl=tensor(4547844.5000, device='cuda:0')
+71: ppl=tensor(1209199.7500, device='cuda:0')
+72: ppl=tensor(1320098.5000, device='cuda:0')
+73: ppl=tensor(1617173.2500, device='cuda:0')
+74: ppl=tensor(534298.6250, device='cuda:0')
+75: ppl=tensor(925850.5625, device='cuda:0')
+76: ppl=tensor(1536912.3750, device='cuda:0')
+77: ppl=tensor(2852993.2500, device='cuda:0')
+78: ppl=tensor(2097369., device='cuda:0')
+79: ppl=tensor(35263764., device='cuda:0')
+80: ppl=tensor(1646003.6250, device='cuda:0')
+81: ppl=tensor(5276950.5000, device='cuda:0')
+82: ppl=tensor(5805166.5000, device='cuda:0')
+83: ppl=tensor(2555985., device='cuda:0')
+84: ppl=tensor(2960792.7500, device='cuda:0')
+85: ppl=tensor(941026.3125, device='cuda:0')
+86: ppl=tensor(3125017.2500, device='cuda:0')
+87: ppl=tensor(849639.0625, device='cuda:0')
+88: ppl=tensor(1400382.5000, device='cuda:0')
+89: ppl=tensor(2755533.5000, device='cuda:0')
+90: ppl=tensor(3912330., device='cuda:0')
+91: ppl=tensor(5414659.5000, device='cuda:0')
+92: ppl=tensor(1154982.5000, device='cuda:0')
+93: ppl=tensor(537418., device='cuda:0')
+94: ppl=tensor(8132848.5000, device='cuda:0')
+95: ppl=tensor(1310215.1250, device='cuda:0')
+96: ppl=tensor(3285911.2500, device='cuda:0')
+97: ppl=tensor(1282980.3750, device='cuda:0')
+98: ppl=tensor(310810.0938, device='cuda:0')
+99: ppl=tensor(1342277.7500, device='cuda:0')
+100: ppl=tensor(1385397.5000, device='cuda:0')
+101: ppl=tensor(11572179., device='cuda:0')
+102: ppl=tensor(1778995.8750, device='cuda:0')
+103: ppl=tensor(1569931.3750, device='cuda:0')
+104: ppl=tensor(1480487.3750, device='cuda:0')
+105: ppl=tensor(673786.5625, device='cuda:0')
+106: ppl=tensor(582030.2500, device='cuda:0')
+107: ppl=tensor(2035884., device='cuda:0')
+108: ppl=tensor(1512656.2500, device='cuda:0')
+109: ppl=tensor(2144432.2500, device='cuda:0')
+110: ppl=tensor(11722956., device='cuda:0')
+111: ppl=tensor(642609.8125, device='cuda:0')
+112: ppl=tensor(1110141.6250, device='cuda:0')
+113: ppl=tensor(886535.9375, device='cuda:0')
+114: ppl=tensor(1809887.6250, device='cuda:0')
+115: ppl=tensor(1362399.1250, device='cuda:0')
+116: ppl=tensor(4332760.5000, device='cuda:0')
+117: ppl=tensor(1681528.3750, device='cuda:0')
+118: ppl=tensor(769362.8750, device='cuda:0')
+119: ppl=tensor(2383128.5000, device='cuda:0')
+120: ppl=tensor(1199002.7500, device='cuda:0')
+121: ppl=tensor(3186275.7500, device='cuda:0')
+122: ppl=tensor(461745.6250, device='cuda:0')
+123: ppl=tensor(1514267.1250, device='cuda:0')
+124: ppl=tensor(2855151.5000, device='cuda:0')
+125: ppl=tensor(1185079.1250, device='cuda:0')
+126: ppl=tensor(1901639.8750, device='cuda:0')
+127: ppl=tensor(399582., device='cuda:0')
+128: ppl=tensor(580895.6875, device='cuda:0')
+129: ppl=tensor(1943955., device='cuda:0')
+130: ppl=tensor(1601324.5000, device='cuda:0')
+131: ppl=tensor(1207762.5000, device='cuda:0')
+132: ppl=tensor(5408358., device='cuda:0')
+133: ppl=tensor(5761429.5000, device='cuda:0')
+134: ppl=tensor(1582084.5000, device='cuda:0')
+135: ppl=tensor(937052.8750, device='cuda:0')
+136: ppl=tensor(933019.6250, device='cuda:0')
+137: ppl=tensor(3777796.2500, device='cuda:0')
+138: ppl=tensor(2923252.5000, device='cuda:0')
+139: ppl=tensor(7922177.5000, device='cuda:0')
+140: ppl=tensor(2000062.3750, device='cuda:0')
+141: ppl=tensor(2822528.5000, device='cuda:0')
+142: ppl=tensor(2456110., device='cuda:0')
+143: ppl=tensor(621453.3125, device='cuda:0')
+144: ppl=tensor(942644.8750, device='cuda:0')
+145: ppl=tensor(2524819.5000, device='cuda:0')
+146: ppl=tensor(1749985.8750, device='cuda:0')
+147: ppl=tensor(576039.8750, device='cuda:0')
+148: ppl=tensor(2955452.5000, device='cuda:0')
+149: ppl=tensor(4199619.5000, device='cuda:0')
+150: ppl=tensor(5712566.5000, device='cuda:0')
+151: ppl=tensor(1786486.6250, device='cuda:0')
+152: ppl=tensor(3310142.5000, device='cuda:0')
+153: ppl=tensor(2247978., device='cuda:0')
+154: ppl=tensor(1167073.3750, device='cuda:0')
+155: ppl=tensor(289887.9062, device='cuda:0')
+156: ppl=tensor(1023636.3750, device='cuda:0')
+157: ppl=tensor(3405307.7500, device='cuda:0')
+158: ppl=tensor(2285243.2500, device='cuda:0')
+159: ppl=tensor(826475.5000, device='cuda:0')
+160: ppl=tensor(1700224.1250, device='cuda:0')
+161: ppl=tensor(1515698.8750, device='cuda:0')
+162: ppl=tensor(1092796.1250, device='cuda:0')
+163: ppl=tensor(7910325., device='cuda:0')
+164: ppl=tensor(5563502., device='cuda:0')
+165: ppl=tensor(858328.8125, device='cuda:0')
+166: ppl=tensor(1484338.5000, device='cuda:0')
+167: ppl=tensor(1183464., device='cuda:0')
+168: ppl=tensor(2408425.5000, device='cuda:0')
+169: ppl=tensor(2944284., device='cuda:0')
+170: ppl=tensor(1322748.7500, device='cuda:0')
+171: ppl=tensor(3039548.2500, device='cuda:0')
+172: ppl=tensor(4039998.2500, device='cuda:0')
+173: ppl=tensor(3577786.2500, device='cuda:0')
+174: ppl=tensor(1108029.3750, device='cuda:0')
+175: ppl=tensor(2015914.5000, device='cuda:0')
+176: ppl=tensor(3635462.7500, device='cuda:0')
+177: ppl=tensor(2061839.8750, device='cuda:0')
+178: ppl=tensor(1538688.3750, device='cuda:0')
+
+180it [00:46,  3.42it/s][A
+181it [00:47,  3.59it/s][A
+182it [00:47,  3.73it/s][A
+183it [00:47,  3.86it/s][A
+184it [00:47,  3.94it/s][A
+185it [00:48,  3.96it/s][A
+186it [00:48,  4.03it/s][A
+187it [00:48,  4.06it/s][A
+188it [00:48,  4.05it/s][A
+189it [00:49,  4.07it/s][A
+190it [00:49,  4.05it/s][A
+191it [00:49,  4.07it/s][A
+192it [00:49,  4.05it/s][A
+193it [00:50,  4.08it/s][A
+194it [00:50,  4.11it/s][A
+195it [00:50,  4.14it/s][A
+196it [00:50,  4.12it/s][A
+197it [00:51,  4.12it/s][A
+198it [00:51,  4.03it/s][A
+199it [00:51,  4.02it/s][A
+200it [00:51,  4.05it/s][A
+201it [00:52,  4.07it/s][A
+202it [00:52,  4.09it/s][A
+203it [00:52,  4.10it/s][A
+204it [00:52,  4.07it/s][A
+205it [00:53,  4.11it/s][A
+206it [00:53,  4.13it/s][A
+207it [00:53,  4.15it/s][A
+208it [00:53,  4.16it/s][A
+209it [00:54,  4.17it/s][A
+210it [00:54,  4.16it/s][A
+211it [00:54,  4.15it/s][A
+212it [00:54,  4.11it/s][A
+213it [00:55,  3.96it/s][A
+214it [00:55,  3.45it/s][A
+215it [00:55,  3.64it/s][A
+216it [00:55,  3.76it/s][A
+217it [00:56,  3.88it/s][A
+218it [00:56,  3.82it/s][A
+219it [00:56,  3.91it/s][A
+220it [00:56,  3.93it/s][A
+221it [00:57,  4.01it/s][A
+222it [00:57,  4.06it/s][A
+223it [00:57,  4.08it/s][A
+224it [00:57,  4.09it/s][A
+225it [00:58,  4.10it/s][A
+226it [00:58,  4.10it/s][A
+227it [00:58,  3.92it/s][A
+228it [00:58,  4.40it/s][A
+229it [00:59,  4.33it/s][A
+230it [00:59,  3.63it/s][A
+231it [00:59,  3.36it/s][A
+232it [01:00,  3.33it/s][A
+233it [01:00,  3.06it/s][A
+234it [01:00,  3.32it/s][A
+235it [01:00,  3.51it/s][A
+236it [01:01,  3.32it/s][A
+237it [01:01,  3.51it/s][A
+238it [01:01,  3.61it/s][A
+239it [01:02,  3.73it/s][A
+240it [01:02,  3.81it/s][A
+241it [01:02,  3.90it/s][A
+242it [01:02,  3.97it/s][A
+243it [01:02,  4.03it/s][A
+244it [01:03,  4.05it/s][A
+245it [01:03,  3.99it/s][A
+246it [01:03,  3.96it/s][A
+247it [01:03,  3.97it/s][A
+248it [01:04,  4.04it/s][A
+249it [01:04,  4.07it/s][A
+250it [01:04,  3.61it/s][A
+251it [01:05,  3.65it/s][A
+252it [01:05,  3.45it/s][A
+253it [01:05,  3.23it/s][A
+254it [01:06,  3.46it/s][A
+255it [01:06,  3.33it/s][A
+256it [01:06,  3.52it/s][A
+257it [01:06,  3.65it/s][A
+258it [01:07,  3.80it/s][A
+259it [01:07,  3.56it/s][A
+260it [01:07,  3.71it/s][A
+261it [01:07,  3.84it/s][A
+262it [01:08,  3.94it/s][A
+263it [01:08,  4.00it/s][A
+264it [01:08,  4.03it/s][A
+265it [01:08,  4.02it/s][A
+266it [01:09,  4.07it/s][A
+267it [01:09,  4.05it/s][A
+268it [01:09,  4.04it/s][A
+269it [01:09,  4.08it/s][A
+270it [01:10,  4.12it/s][A
+271it [01:10,  4.14it/s][A
+272it [01:10,  4.14it/s][A
+273it [01:10,  3.86it/s][A
+274it [01:11,  3.94it/s][A
+275it [01:11,  3.99it/s][A
+276it [01:11,  4.03it/s][A
+277it [01:11,  4.07it/s][A
+278it [01:12,  4.05it/s][A
+279it [01:12,  4.04it/s][A
+280it [01:12,  4.08it/s][A
+281it [01:12,  3.79it/s][A
+282it [01:13,  3.90it/s][A
+283it [01:13,  3.99it/s][A
+284it [01:13,  3.71it/s][A
+285it [01:13,  3.84it/s][A
+286it [01:14,  3.94it/s][A
+287it [01:14,  4.10it/s][A
+288it [01:14,  4.12it/s][A
+289it [01:14,  4.14it/s][A
+290it [01:15,  4.13it/s][A
+291it [01:15,  4.01it/s][A
+292it [01:15,  4.04it/s][A
+293it [01:15,  4.06it/s][A
+294it [01:16,  4.08it/s][A
+295it [01:16,  4.08it/s][A
+296it [01:16,  4.11it/s][A
+297it [01:16,  4.08it/s][A
+298it [01:17,  4.09it/s][A
+299it [01:17,  3.59it/s][A
+300it [01:17,  3.15it/s][A300it [01:17,  3.86it/s]
+ 90%|█████████ | 9/10 [09:02<01:24, 84.26s/it]179: ppl=tensor(838781.5625, device='cuda:0')
+180: ppl=tensor(1938029.6250, device='cuda:0')
+181: ppl=tensor(26234710., device='cuda:0')
+182: ppl=tensor(1782587.7500, device='cuda:0')
+183: ppl=tensor(3736680., device='cuda:0')
+184: ppl=tensor(1867681.6250, device='cuda:0')
+185: ppl=tensor(4416792.5000, device='cuda:0')
+186: ppl=tensor(27715246., device='cuda:0')
+187: ppl=tensor(19586552., device='cuda:0')
+188: ppl=tensor(2056368.8750, device='cuda:0')
+189: ppl=tensor(28043654., device='cuda:0')
+190: ppl=tensor(2608963.5000, device='cuda:0')
+191: ppl=tensor(1800726.7500, device='cuda:0')
+192: ppl=tensor(2006363., device='cuda:0')
+193: ppl=tensor(26961140., device='cuda:0')
+194: ppl=tensor(4208167., device='cuda:0')
+195: ppl=tensor(2039134.7500, device='cuda:0')
+196: ppl=tensor(2512365.7500, device='cuda:0')
+197: ppl=tensor(533253.5625, device='cuda:0')
+198: ppl=tensor(631216.3125, device='cuda:0')
+199: ppl=tensor(5668765., device='cuda:0')
+200: ppl=tensor(1225065.7500, device='cuda:0')
+201: ppl=tensor(1511920.7500, device='cuda:0')
+202: ppl=tensor(3654149.5000, device='cuda:0')
+203: ppl=tensor(24075380., device='cuda:0')
+204: ppl=tensor(2549054.7500, device='cuda:0')
+205: ppl=tensor(2908936., device='cuda:0')
+206: ppl=tensor(2377471.5000, device='cuda:0')
+207: ppl=tensor(1130971., device='cuda:0')
+208: ppl=tensor(2455264.5000, device='cuda:0')
+209: ppl=tensor(824625.3750, device='cuda:0')
+210: ppl=tensor(3309842.5000, device='cuda:0')
+211: ppl=tensor(3240405.5000, device='cuda:0')
+212: ppl=tensor(2002299.2500, device='cuda:0')
+213: ppl=tensor(830433.8750, device='cuda:0')
+214: ppl=tensor(1188832.6250, device='cuda:0')
+215: ppl=tensor(430137.7812, device='cuda:0')
+216: ppl=tensor(4741587., device='cuda:0')
+217: ppl=tensor(3593756., device='cuda:0')
+218: ppl=tensor(2774522., device='cuda:0')
+219: ppl=tensor(3179018.5000, device='cuda:0')
+220: ppl=tensor(583239.3125, device='cuda:0')
+221: ppl=tensor(281581.9062, device='cuda:0')
+222: ppl=tensor(1228554.6250, device='cuda:0')
+223: ppl=tensor(502969.8125, device='cuda:0')
+224: ppl=tensor(2836974.5000, device='cuda:0')
+225: ppl=tensor(5403970.5000, device='cuda:0')
+226: ppl=tensor(4937599.5000, device='cuda:0')
+227: ppl=tensor(401962.3750, device='cuda:0')
+228: ppl=tensor(1036215.4375, device='cuda:0')
+229: ppl=tensor(2399331., device='cuda:0')
+230: ppl=tensor(2330433.5000, device='cuda:0')
+231: ppl=tensor(1658869.2500, device='cuda:0')
+232: ppl=tensor(2536725.5000, device='cuda:0')
+233: ppl=tensor(15920959., device='cuda:0')
+234: ppl=tensor(1277765.2500, device='cuda:0')
+235: ppl=tensor(4872006., device='cuda:0')
+236: ppl=tensor(1845257.2500, device='cuda:0')
+237: ppl=tensor(475366.9062, device='cuda:0')
+238: ppl=tensor(1407115., device='cuda:0')
+239: ppl=tensor(560886.1250, device='cuda:0')
+240: ppl=tensor(2743673., device='cuda:0')
+241: ppl=tensor(3526092., device='cuda:0')
+242: ppl=tensor(4736313., device='cuda:0')
+243: ppl=tensor(1388842.1250, device='cuda:0')
+244: ppl=tensor(682583.0625, device='cuda:0')
+245: ppl=tensor(718330.3750, device='cuda:0')
+246: ppl=tensor(1881481.1250, device='cuda:0')
+247: ppl=tensor(1041671.8750, device='cuda:0')
+248: ppl=tensor(1081465.3750, device='cuda:0')
+249: ppl=tensor(1018441.5000, device='cuda:0')
+250: ppl=tensor(722498.0625, device='cuda:0')
+251: ppl=tensor(2554542.2500, device='cuda:0')
+252: ppl=tensor(3655770.5000, device='cuda:0')
+253: ppl=tensor(1764873.8750, device='cuda:0')
+254: ppl=tensor(806334.5625, device='cuda:0')
+255: ppl=tensor(2255653.2500, device='cuda:0')
+256: ppl=tensor(1983727.6250, device='cuda:0')
+257: ppl=tensor(1124385.1250, device='cuda:0')
+258: ppl=tensor(3506284.2500, device='cuda:0')
+259: ppl=tensor(12399800., device='cuda:0')
+260: ppl=tensor(2534365.5000, device='cuda:0')
+261: ppl=tensor(6412895.5000, device='cuda:0')
+262: ppl=tensor(2092572.1250, device='cuda:0')
+263: ppl=tensor(2767088.7500, device='cuda:0')
+264: ppl=tensor(970321.9375, device='cuda:0')
+265: ppl=tensor(1525321.5000, device='cuda:0')
+266: ppl=tensor(2904467.5000, device='cuda:0')
+267: ppl=tensor(3667580.5000, device='cuda:0')
+268: ppl=tensor(1763590.1250, device='cuda:0')
+269: ppl=tensor(1998302.6250, device='cuda:0')
+270: ppl=tensor(3223582.5000, device='cuda:0')
+271: ppl=tensor(827927.8750, device='cuda:0')
+272: ppl=tensor(2067867.5000, device='cuda:0')
+273: ppl=tensor(9420217., device='cuda:0')
+274: ppl=tensor(2816704.2500, device='cuda:0')
+275: ppl=tensor(932052., device='cuda:0')
+276: ppl=tensor(1046751.6250, device='cuda:0')
+277: ppl=tensor(1778532.7500, device='cuda:0')
+278: ppl=tensor(4363616.5000, device='cuda:0')
+279: ppl=tensor(5152916., device='cuda:0')
+280: ppl=tensor(8129212., device='cuda:0')
+281: ppl=tensor(3778279.2500, device='cuda:0')
+282: ppl=tensor(302973.2812, device='cuda:0')
+283: ppl=tensor(858649.8125, device='cuda:0')
+284: ppl=tensor(2238161.2500, device='cuda:0')
+285: ppl=tensor(1707160.1250, device='cuda:0')
+286: ppl=tensor(1309219.7500, device='cuda:0')
+287: ppl=tensor(917919.6250, device='cuda:0')
+288: ppl=tensor(2836103.5000, device='cuda:0')
+289: ppl=tensor(3374753., device='cuda:0')
+290: ppl=tensor(916834.8125, device='cuda:0')
+291: ppl=tensor(2239226.5000, device='cuda:0')
+292: ppl=tensor(15302980., device='cuda:0')
+293: ppl=tensor(2319577.5000, device='cuda:0')
+294: ppl=tensor(1557026.5000, device='cuda:0')
+295: ppl=tensor(5548977.5000, device='cuda:0')
+296: ppl=tensor(2400349.5000, device='cuda:0')
+297: ppl=tensor(462223.2188, device='cuda:0')
+298: ppl=tensor(4166616., device='cuda:0')
+299: ppl=tensor(1348260.1250, device='cuda:0')
+
+0it [00:00, ?it/s][A
+1it [00:00,  2.73it/s][A
+2it [00:00,  3.16it/s][A
+3it [00:00,  3.15it/s][A
+4it [00:01,  3.30it/s][A
+5it [00:01,  2.99it/s][A
+6it [00:01,  3.10it/s][A
+7it [00:02,  2.89it/s][A
+8it [00:02,  3.07it/s][A
+9it [00:02,  3.28it/s][A
+10it [00:03,  3.44it/s][A
+11it [00:03,  3.57it/s][A
+12it [00:03,  3.58it/s][A
+13it [00:03,  3.67it/s][A
+14it [00:04,  3.73it/s][A
+15it [00:04,  3.28it/s][A
+16it [00:04,  3.43it/s][A
+17it [00:05,  3.55it/s][A
+18it [00:05,  3.60it/s][A
+19it [00:05,  3.19it/s][A
+20it [00:06,  3.34it/s][A
+21it [00:06,  3.47it/s][A
+22it [00:06,  3.51it/s][A
+23it [00:06,  3.57it/s][A
+24it [00:07,  3.62it/s][A
+25it [00:07,  3.68it/s][A
+26it [00:07,  3.50it/s][A
+27it [00:07,  3.57it/s][A
+28it [00:08,  3.12it/s][A
+29it [00:08,  3.22it/s][A
+30it [00:08,  3.40it/s][A
+31it [00:09,  3.54it/s][A
+32it [00:09,  3.64it/s][A
+33it [00:09,  3.72it/s][A
+34it [00:09,  3.77it/s][A
+35it [00:10,  3.76it/s][A
+36it [00:10,  3.76it/s][A
+37it [00:10,  3.78it/s][A
+38it [00:10,  3.81it/s][A
+39it [00:11,  3.84it/s][A
+40it [00:11,  3.86it/s][A
+41it [00:11,  3.82it/s][A
+42it [00:12,  3.30it/s][A
+43it [00:12,  3.07it/s][A
+44it [00:12,  3.38it/s][A
+45it [00:13,  3.50it/s][A
+46it [00:13,  3.59it/s][A
+47it [00:13,  3.68it/s][A
+48it [00:13,  3.97it/s][A
+49it [00:13,  4.03it/s][A
+50it [00:14,  3.37it/s][A
+51it [00:14,  3.00it/s][A
+52it [00:15,  3.19it/s][A
+53it [00:15,  2.92it/s][A
+54it [00:15,  3.16it/s][A
+55it [00:16,  3.18it/s][A
+56it [00:16,  3.32it/s][A
+57it [00:16,  3.44it/s][A
+58it [00:16,  3.57it/s][A
+59it [00:17,  3.65it/s][A
+60it [00:17,  3.68it/s][A
+61it [00:17,  3.75it/s][A
+62it [00:17,  3.79it/s][A
+63it [00:18,  3.82it/s][A
+64it [00:18,  3.84it/s][A
+65it [00:18,  3.85it/s][A
+66it [00:18,  3.87it/s][A
+67it [00:19,  3.82it/s][A
+68it [00:19,  3.80it/s][A
+69it [00:19,  3.83it/s][A
+70it [00:19,  3.85it/s][A
+71it [00:20,  3.88it/s][A
+72it [00:20,  3.87it/s][A
+73it [00:20,  3.83it/s][A
+74it [00:21,  3.84it/s][A
+75it [00:21,  3.81it/s][A
+76it [00:21,  3.75it/s][A
+77it [00:21,  3.78it/s][A
+78it [00:22,  3.82it/s][A
+79it [00:22,  3.85it/s][A
+80it [00:22,  3.86it/s][A
+81it [00:22,  3.83it/s][A
+82it [00:23,  3.85it/s][A
+83it [00:23,  3.38it/s][A
+84it [00:23,  3.31it/s][A
+85it [00:24,  3.46it/s][A
+86it [00:24,  3.56it/s][A
+87it [00:24,  3.66it/s][A
+88it [00:24,  3.69it/s][A
+89it [00:25,  3.73it/s][A
+90it [00:25,  3.78it/s][A
+91it [00:25,  3.82it/s][A
+92it [00:25,  3.84it/s][A
+93it [00:26,  3.80it/s][A
+94it [00:26,  3.81it/s][A
+95it [00:26,  3.84it/s][A
+96it [00:26,  3.86it/s][A
+97it [00:27,  3.87it/s][A
+98it [00:27,  3.26it/s][A
+99it [00:27,  3.43it/s][A
+100it [00:28,  3.51it/s][A
+101it [00:28,  3.58it/s][A
+102it [00:28,  3.63it/s][A
+103it [00:28,  3.71it/s][A
+104it [00:29,  3.74it/s][A
+105it [00:29,  3.69it/s][A
+106it [00:29,  3.73it/s][A
+107it [00:29,  3.78it/s][A
+108it [00:30,  3.82it/s][A
+109it [00:30,  3.84it/s][A
+110it [00:30,  3.86it/s][A
+111it [00:30,  3.87it/s][A
+112it [00:31,  3.40it/s][A
+113it [00:31,  3.06it/s][A
+114it [00:32,  3.23it/s][A
+115it [00:32,  2.98it/s][A
+116it [00:32,  3.17it/s][A
+117it [00:32,  3.34it/s][A
+118it [00:33,  3.50it/s][A
+119it [00:33,  3.61it/s][A
+120it [00:33,  3.35it/s][A
+121it [00:34,  3.04it/s][A
+122it [00:34,  3.25it/s][A
+123it [00:34,  3.41it/s][A
+124it [00:35,  3.50it/s][A
+125it [00:35,  3.13it/s][A
+126it [00:35,  3.31it/s][A
+127it [00:35,  3.44it/s][A
+128it [00:36,  3.56it/s][A
+129it [00:36,  3.66it/s][A
+130it [00:36,  3.73it/s][A
+131it [00:36,  3.73it/s][A
+132it [00:37,  3.80it/s][A
+133it [00:37,  3.70it/s][A
+134it [00:37,  3.68it/s][A
+135it [00:38,  3.72it/s][A
+136it [00:38,  3.78it/s][A
+137it [00:38,  3.80it/s][A
+138it [00:38,  3.66it/s][A
+139it [00:39,  3.73it/s][A
+140it [00:39,  4.23it/s][A
+141it [00:39,  4.07it/s][A
+142it [00:39,  4.06it/s][A
+143it [00:40,  3.96it/s][A
+144it [00:40,  3.93it/s][A
+145it [00:40,  3.92it/s][A
+146it [00:40,  3.91it/s][A
+147it [00:41,  3.86it/s][A
+148it [00:41,  3.87it/s][A
+149it [00:41,  3.87it/s][A
+150it [00:41,  3.85it/s][A
+151it [00:42,  3.87it/s][A
+152it [00:42,  3.83it/s][A
+153it [00:42,  3.83it/s][A
+154it [00:42,  3.85it/s][A
+155it [00:43,  3.82it/s][A
+156it [00:43,  3.80it/s][A
+157it [00:43,  3.82it/s][A
+158it [00:43,  3.83it/s][A
+159it [00:44,  3.80it/s][A
+160it [00:44,  3.81it/s][A
+161it [00:44,  3.75it/s][A
+162it [00:45,  3.80it/s][A
+163it [00:45,  3.83it/s][A
+164it [00:45,  3.85it/s][A
+165it [00:45,  3.86it/s][A
+166it [00:46,  3.88it/s][A
+167it [00:46,  3.83it/s][A
+168it [00:46,  3.94it/s][A
+169it [00:46,  3.87it/s][A
+170it [00:47,  3.86it/s][A
+171it [00:47,  3.83it/s][A
+172it [00:47,  3.70it/s][A
+173it [00:47,  3.72it/s][A
+174it [00:48,  3.73it/s][A
+175it [00:48,  3.31it/s][A
+176it [00:48,  3.45it/s][A
+177it [00:49,  3.56it/s][A
+178it [00:49,  3.65it/s][A
+179it [00:49,  3.71it/s][A
+180it [00:49,  3.25it/s][A
+181it [00:50,  3.39it/s][A
+182it [00:50,  3.51it/s][A
+183it [00:50,  3.62it/s][A
+184it [00:51,  3.68it/s][A
+185it [00:51,  3.70it/s][A
+186it [00:51,  3.76it/s][A
+187it [00:51,  3.77it/s][A
+188it [00:52,  3.76it/s][A
+189it [00:52,  3.78it/s][A
+190it [00:52,  3.77it/s][A
+191it [00:52,  3.79it/s][A
+192it [00:53,  3.78it/s][A
+193it [00:53,  3.80it/s][A
+194it [00:53,  3.83it/s][A
+195it [00:53,  3.85it/s][A
+196it [00:54,  3.85it/s][A0: ppl=tensor(270.9537, device='cuda:0')
+1: ppl=tensor(23.3029, device='cuda:0')
+2: ppl=tensor(176.0217, device='cuda:0')
+3: ppl=tensor(34.9164, device='cuda:0')
+4: ppl=tensor(15.6594, device='cuda:0')
+5: ppl=tensor(17.3913, device='cuda:0')
+6: ppl=tensor(31.9500, device='cuda:0')
+7: ppl=tensor(15.1547, device='cuda:0')
+8: ppl=tensor(84.4735, device='cuda:0')
+9: ppl=tensor(19.4691, device='cuda:0')
+10: ppl=tensor(13.3274, device='cuda:0')
+11: ppl=tensor(12.9120, device='cuda:0')
+12: ppl=tensor(16.7043, device='cuda:0')
+13: ppl=tensor(21.2103, device='cuda:0')
+14: ppl=tensor(7.9454, device='cuda:0')
+15: ppl=tensor(69.2983, device='cuda:0')
+16: ppl=tensor(143.2321, device='cuda:0')
+17: ppl=tensor(203.4363, device='cuda:0')
+18: ppl=tensor(10072.9551, device='cuda:0')
+19: ppl=tensor(138.0972, device='cuda:0')
+20: ppl=tensor(65.4318, device='cuda:0')
+21: ppl=tensor(267.3958, device='cuda:0')
+22: ppl=tensor(52.8233, device='cuda:0')
+23: ppl=tensor(9.3305, device='cuda:0')
+24: ppl=tensor(211.2411, device='cuda:0')
+25: ppl=tensor(410.6841, device='cuda:0')
+26: ppl=tensor(27.4013, device='cuda:0')
+27: ppl=tensor(10.1400, device='cuda:0')
+28: ppl=tensor(104.9177, device='cuda:0')
+29: ppl=tensor(17.8023, device='cuda:0')
+30: ppl=tensor(110.9376, device='cuda:0')
+31: ppl=tensor(132.0313, device='cuda:0')
+32: ppl=tensor(59.9731, device='cuda:0')
+33: ppl=tensor(274.8216, device='cuda:0')
+34: ppl=tensor(22.4417, device='cuda:0')
+35: ppl=tensor(226.0360, device='cuda:0')
+36: ppl=tensor(18.2982, device='cuda:0')
+37: ppl=tensor(98.8316, device='cuda:0')
+38: ppl=tensor(238.5540, device='cuda:0')
+39: ppl=tensor(105.9574, device='cuda:0')
+40: ppl=tensor(20.9184, device='cuda:0')
+41: ppl=tensor(411.4683, device='cuda:0')
+42: ppl=tensor(125.1545, device='cuda:0')
+43: ppl=tensor(45.2463, device='cuda:0')
+44: ppl=tensor(23.4559, device='cuda:0')
+45: ppl=tensor(8.2996, device='cuda:0')
+46: ppl=tensor(39.3977, device='cuda:0')
+47: ppl=tensor(44.4144, device='cuda:0')
+48: ppl=tensor(14.5890, device='cuda:0')
+49: ppl=tensor(100.9231, device='cuda:0')
+50: ppl=tensor(19.5652, device='cuda:0')
+51: ppl=tensor(128.2051, device='cuda:0')
+52: ppl=tensor(286.3277, device='cuda:0')
+53: ppl=tensor(23.0134, device='cuda:0')
+54: ppl=tensor(18.9148, device='cuda:0')
+55: ppl=tensor(287.8685, device='cuda:0')
+56: ppl=tensor(21.0362, device='cuda:0')
+57: ppl=tensor(67.1687, device='cuda:0')
+58: ppl=tensor(15.6268, device='cuda:0')
+59: ppl=tensor(24.4078, device='cuda:0')
+60: ppl=tensor(234.1794, device='cuda:0')
+61: ppl=tensor(30.7961, device='cuda:0')
+62: ppl=tensor(36.6914, device='cuda:0')
+63: ppl=tensor(28.9115, device='cuda:0')
+64: ppl=tensor(52.9415, device='cuda:0')
+65: ppl=tensor(24.2940, device='cuda:0')
+66: ppl=tensor(84.0586, device='cuda:0')
+67: ppl=tensor(306.9790, device='cuda:0')
+68: ppl=tensor(140.4102, device='cuda:0')
+69: ppl=tensor(32.8973, device='cuda:0')
+70: ppl=tensor(23.0541, device='cuda:0')
+71: ppl=tensor(21.8043, device='cuda:0')
+72: ppl=tensor(15.8773, device='cuda:0')
+73: ppl=tensor(493.9854, device='cuda:0')
+74: ppl=tensor(37.5434, device='cuda:0')
+75: ppl=tensor(41.9383, device='cuda:0')
+76: ppl=tensor(98.7317, device='cuda:0')
+77: ppl=tensor(278.3404, device='cuda:0')
+78: ppl=tensor(114.5007, device='cuda:0')
+79: ppl=tensor(27.6346, device='cuda:0')
+80: ppl=tensor(35.4973, device='cuda:0')
+81: ppl=tensor(57.8143, device='cuda:0')
+82: ppl=tensor(22.9021, device='cuda:0')
+83: ppl=tensor(111.2281, device='cuda:0')
+84: ppl=tensor(221.8368, device='cuda:0')
+85: ppl=tensor(31.8654, device='cuda:0')
+86: ppl=tensor(32.6462, device='cuda:0')
+87: ppl=tensor(16.4189, device='cuda:0')
+88: ppl=tensor(19.6447, device='cuda:0')
+89: ppl=tensor(27.1686, device='cuda:0')
+90: ppl=tensor(33.5180, device='cuda:0')
+91: ppl=tensor(17.8576, device='cuda:0')
+92: ppl=tensor(15.8363, device='cuda:0')
+93: ppl=tensor(32.6969, device='cuda:0')
+94: ppl=tensor(40.5545, device='cuda:0')
+95: ppl=tensor(39.0413, device='cuda:0')
+96: ppl=tensor(85.9271, device='cuda:0')
+97: ppl=tensor(384.0833, device='cuda:0')
+98: ppl=tensor(29.9614, device='cuda:0')
+99: ppl=tensor(101.4370, device='cuda:0')
+100: ppl=tensor(140.9575, device='cuda:0')
+101: ppl=tensor(197.0190, device='cuda:0')
+102: ppl=tensor(339.2814, device='cuda:0')
+103: ppl=tensor(41.9213, device='cuda:0')
+104: ppl=tensor(32.1570, device='cuda:0')
+105: ppl=tensor(93.0316, device='cuda:0')
+106: ppl=tensor(10.0243, device='cuda:0')
+107: ppl=tensor(53.7531, device='cuda:0')
+108: ppl=tensor(457.1280, device='cuda:0')
+109: ppl=tensor(22.6651, device='cuda:0')
+110: ppl=tensor(211.2764, device='cuda:0')
+111: ppl=tensor(69.7126, device='cuda:0')
+112: ppl=tensor(220.0431, device='cuda:0')
+113: ppl=tensor(93.4643, device='cuda:0')
+114: ppl=tensor(22.3226, device='cuda:0')
+115: ppl=tensor(16.9343, device='cuda:0')
+116: ppl=tensor(35.7673, device='cuda:0')
+117: ppl=tensor(42.1889, device='cuda:0')
+118: ppl=tensor(41.7874, device='cuda:0')
+119: ppl=tensor(83.7257, device='cuda:0')
+120: ppl=tensor(17.7100, device='cuda:0')
+121: ppl=tensor(172.7899, device='cuda:0')
+122: ppl=tensor(16.8666, device='cuda:0')
+123: ppl=tensor(41.0626, device='cuda:0')
+124: ppl=tensor(55.5808, device='cuda:0')
+125: ppl=tensor(186.7224, device='cuda:0')
+126: ppl=tensor(58.9379, device='cuda:0')
+127: ppl=tensor(216.5417, device='cuda:0')
+128: ppl=tensor(64.9954, device='cuda:0')
+129: ppl=tensor(25.6144, device='cuda:0')
+130: ppl=tensor(204.5651, device='cuda:0')
+131: ppl=tensor(23.8614, device='cuda:0')
+132: ppl=tensor(53.0875, device='cuda:0')
+133: ppl=tensor(24.4018, device='cuda:0')
+134: ppl=tensor(153.7932, device='cuda:0')
+135: ppl=tensor(23.8895, device='cuda:0')
+136: ppl=tensor(85.6637, device='cuda:0')
+137: ppl=tensor(174.5874, device='cuda:0')
+138: ppl=tensor(22.1364, device='cuda:0')
+139: ppl=tensor(54.1526, device='cuda:0')
+140: ppl=tensor(224.2664, device='cuda:0')
+141: ppl=tensor(109.9990, device='cuda:0')
+142: ppl=tensor(138.1355, device='cuda:0')
+143: ppl=tensor(43.8660, device='cuda:0')
+144: ppl=tensor(13.6950, device='cuda:0')
+145: ppl=tensor(21.7233, device='cuda:0')
+146: ppl=tensor(42.0051, device='cuda:0')
+147: ppl=tensor(48.0236, device='cuda:0')
+148: ppl=tensor(118.6952, device='cuda:0')
+149: ppl=tensor(26.6541, device='cuda:0')
+150: ppl=tensor(116.7822, device='cuda:0')
+151: ppl=tensor(20.8381, device='cuda:0')
+152: ppl=tensor(103.5459, device='cuda:0')
+153: ppl=tensor(24.6538, device='cuda:0')
+154: ppl=tensor(35.3108, device='cuda:0')
+155: ppl=tensor(9.9132, device='cuda:0')
+156: ppl=tensor(216.4845, device='cuda:0')
+157: ppl=tensor(91.1593, device='cuda:0')
+158: ppl=tensor(108.7913, device='cuda:0')
+159: ppl=tensor(17.8442, device='cuda:0')
+160: ppl=tensor(16.0309, device='cuda:0')
+161: ppl=tensor(20.5927, device='cuda:0')
+162: ppl=tensor(22.8402, device='cuda:0')
+163: ppl=tensor(125.6161, device='cuda:0')
+164: ppl=tensor(329.0175, device='cuda:0')
+165: ppl=tensor(86.8482, device='cuda:0')
+166: ppl=tensor(42.0028, device='cuda:0')
+167: ppl=tensor(24.2471, device='cuda:0')
+168: ppl=tensor(44.9224, device='cuda:0')
+169: ppl=tensor(20.8305, device='cuda:0')
+170: ppl=tensor(100.9171, device='cuda:0')
+171: ppl=tensor(32.6690, device='cuda:0')
+172: ppl=tensor(86.5414, device='cuda:0')
+173: ppl=tensor(23.2079, device='cuda:0')
+174: ppl=tensor(25.7176, device='cuda:0')
+175: ppl=tensor(28.9280, device='cuda:0')
+176: ppl=tensor(56.0875, device='cuda:0')
+177: ppl=tensor(24.6984, device='cuda:0')
+178: ppl=tensor(20.2298, device='cuda:0')
+179: ppl=tensor(67.8398, device='cuda:0')
+180: ppl=tensor(486.1027, device='cuda:0')
+181: ppl=tensor(190.8458, device='cuda:0')
+182: ppl=tensor(84.7098, device='cuda:0')
+183: ppl=tensor(36.8346, device='cuda:0')
+184: ppl=tensor(39.6295, device='cuda:0')
+185: ppl=tensor(45.3176, device='cuda:0')
+186: ppl=tensor(41.9941, device='cuda:0')
+187: ppl=tensor(36.0929, device='cuda:0')
+188: ppl=tensor(418.8460, device='cuda:0')
+189: ppl=tensor(55.9908, device='cuda:0')
+190: ppl=tensor(21.6092, device='cuda:0')
+191: ppl=tensor(26.8008, device='cuda:0')
+192: ppl=tensor(20.9731, device='cuda:0')
+193: ppl=tensor(61.5503, device='cuda:0')
+194: ppl=tensor(23.3731, device='cuda:0')
+195: ppl=tensor(230.2032, device='cuda:0')
+
+197it [00:54,  3.84it/s][A
+198it [00:54,  3.76it/s][A
+199it [00:54,  3.75it/s][A
+200it [00:55,  3.77it/s][A
+201it [00:55,  3.79it/s][A
+202it [00:55,  3.81it/s][A
+203it [00:56,  3.82it/s][A
+204it [00:56,  3.80it/s][A
+205it [00:56,  3.83it/s][A
+206it [00:56,  3.85it/s][A
+207it [00:57,  3.85it/s][A
+208it [00:57,  3.86it/s][A
+209it [00:57,  3.87it/s][A
+210it [00:57,  3.87it/s][A
+211it [00:58,  3.86it/s][A
+212it [00:58,  3.83it/s][A
+213it [00:58,  3.72it/s][A
+214it [00:59,  3.27it/s][A
+215it [00:59,  3.44it/s][A
+216it [00:59,  3.55it/s][A
+217it [00:59,  3.64it/s][A
+218it [01:00,  3.61it/s][A
+219it [01:00,  3.68it/s][A
+220it [01:00,  3.69it/s][A
+221it [01:00,  3.75it/s][A
+222it [01:01,  3.79it/s][A
+223it [01:01,  3.81it/s][A
+224it [01:01,  3.82it/s][A
+225it [01:01,  3.82it/s][A
+226it [01:02,  3.81it/s][A
+227it [01:02,  3.67it/s][A
+228it [01:02,  4.11it/s][A
+229it [01:02,  4.05it/s][A
+230it [01:03,  3.43it/s][A
+231it [01:03,  3.20it/s][A
+232it [01:03,  3.18it/s][A
+233it [01:04,  2.93it/s][A
+234it [01:04,  3.15it/s][A
+235it [01:04,  3.33it/s][A
+236it [01:05,  3.17it/s][A
+237it [01:05,  3.32it/s][A
+238it [01:05,  3.41it/s][A
+239it [01:06,  3.50it/s][A
+240it [01:06,  3.59it/s][A
+241it [01:06,  3.67it/s][A
+242it [01:06,  3.72it/s][A
+243it [01:07,  3.77it/s][A
+244it [01:07,  3.78it/s][A
+245it [01:07,  3.72it/s][A
+246it [01:07,  3.69it/s][A
+247it [01:08,  3.71it/s][A
+248it [01:08,  3.76it/s][A
+249it [01:08,  3.79it/s][A
+250it [01:09,  3.40it/s][A
+251it [01:09,  3.45it/s][A
+252it [01:09,  3.28it/s][A
+253it [01:10,  3.09it/s][A
+254it [01:10,  3.29it/s][A
+255it [01:10,  3.18it/s][A
+256it [01:10,  3.33it/s][A
+257it [01:11,  3.45it/s][A
+258it [01:11,  3.57it/s][A
+259it [01:11,  3.37it/s][A
+260it [01:12,  3.49it/s][A
+261it [01:12,  3.60it/s][A
+262it [01:12,  3.68it/s][A
+263it [01:12,  3.73it/s][A
+264it [01:13,  3.76it/s][A
+265it [01:13,  3.75it/s][A
+266it [01:13,  3.79it/s][A
+267it [01:13,  3.78it/s][A
+268it [01:14,  3.77it/s][A
+269it [01:14,  3.81it/s][A
+270it [01:14,  3.84it/s][A
+271it [01:14,  3.86it/s][A
+272it [01:15,  3.86it/s][A
+273it [01:15,  3.63it/s][A
+274it [01:15,  3.70it/s][A
+275it [01:16,  3.74it/s][A
+276it [01:16,  3.77it/s][A
+277it [01:16,  3.81it/s][A
+278it [01:16,  3.79it/s][A
+279it [01:17,  3.78it/s][A
+280it [01:17,  3.81it/s][A
+281it [01:17,  3.56it/s][A
+282it [01:17,  3.65it/s][A
+283it [01:18,  3.73it/s][A
+284it [01:18,  3.49it/s][A
+285it [01:18,  3.61it/s][A
+286it [01:18,  3.69it/s][A
+287it [01:19,  3.85it/s][A
+288it [01:19,  3.86it/s][A
+289it [01:19,  3.87it/s][A
+290it [01:20,  3.86it/s][A
+291it [01:20,  3.75it/s][A
+292it [01:20,  3.77it/s][A
+293it [01:20,  3.79it/s][A
+294it [01:21,  3.81it/s][A
+295it [01:21,  3.82it/s][A
+296it [01:21,  3.84it/s][A
+297it [01:21,  3.82it/s][A
+298it [01:22,  3.82it/s][A
+299it [01:22,  3.39it/s][A
+300it [01:22,  3.00it/s][A300it [01:22,  3.62it/s]
+100%|██████████| 10/10 [10:35<00:00, 86.98s/it]100%|██████████| 10/10 [10:35<00:00, 63.58s/it]
+196: ppl=tensor(300.7263, device='cuda:0')
+197: ppl=tensor(47.7531, device='cuda:0')
+198: ppl=tensor(22.4537, device='cuda:0')
+199: ppl=tensor(38.7073, device='cuda:0')
+200: ppl=tensor(56.5147, device='cuda:0')
+201: ppl=tensor(78.3101, device='cuda:0')
+202: ppl=tensor(21.0278, device='cuda:0')
+203: ppl=tensor(80.9500, device='cuda:0')
+204: ppl=tensor(36.3170, device='cuda:0')
+205: ppl=tensor(103.2561, device='cuda:0')
+206: ppl=tensor(29.5454, device='cuda:0')
+207: ppl=tensor(17.1118, device='cuda:0')
+208: ppl=tensor(554.3172, device='cuda:0')
+209: ppl=tensor(118.4755, device='cuda:0')
+210: ppl=tensor(84.2807, device='cuda:0')
+211: ppl=tensor(33.6056, device='cuda:0')
+212: ppl=tensor(67.8999, device='cuda:0')
+213: ppl=tensor(24.5625, device='cuda:0')
+214: ppl=tensor(23.9214, device='cuda:0')
+215: ppl=tensor(18.4017, device='cuda:0')
+216: ppl=tensor(60.7514, device='cuda:0')
+217: ppl=tensor(37.3588, device='cuda:0')
+218: ppl=tensor(16.2876, device='cuda:0')
+219: ppl=tensor(288.1947, device='cuda:0')
+220: ppl=tensor(15.7829, device='cuda:0')
+221: ppl=tensor(13.9182, device='cuda:0')
+222: ppl=tensor(48.7253, device='cuda:0')
+223: ppl=tensor(78.1378, device='cuda:0')
+224: ppl=tensor(63.8883, device='cuda:0')
+225: ppl=tensor(44.1549, device='cuda:0')
+226: ppl=tensor(25.1858, device='cuda:0')
+227: ppl=tensor(31.0272, device='cuda:0')
+228: ppl=tensor(23.8234, device='cuda:0')
+229: ppl=tensor(14.0476, device='cuda:0')
+230: ppl=tensor(35.9791, device='cuda:0')
+231: ppl=tensor(139.2814, device='cuda:0')
+232: ppl=tensor(175.9576, device='cuda:0')
+233: ppl=tensor(34.0649, device='cuda:0')
+234: ppl=tensor(17.8540, device='cuda:0')
+235: ppl=tensor(140.3951, device='cuda:0')
+236: ppl=tensor(27.5448, device='cuda:0')
+237: ppl=tensor(44.2102, device='cuda:0')
+238: ppl=tensor(22.9543, device='cuda:0')
+239: ppl=tensor(201.2188, device='cuda:0')
+240: ppl=tensor(199.6963, device='cuda:0')
+241: ppl=tensor(39.4491, device='cuda:0')
+242: ppl=tensor(212.4162, device='cuda:0')
+243: ppl=tensor(23.0171, device='cuda:0')
+244: ppl=tensor(105.8827, device='cuda:0')
+245: ppl=tensor(19.7544, device='cuda:0')
+246: ppl=tensor(24.0880, device='cuda:0')
+247: ppl=tensor(16.1759, device='cuda:0')
+248: ppl=tensor(52.6105, device='cuda:0')
+249: ppl=tensor(12.3468, device='cuda:0')
+250: ppl=tensor(29.7182, device='cuda:0')
+251: ppl=tensor(16.0842, device='cuda:0')
+252: ppl=tensor(187.5201, device='cuda:0')
+253: ppl=tensor(30.1269, device='cuda:0')
+254: ppl=tensor(25.9482, device='cuda:0')
+255: ppl=tensor(33.0524, device='cuda:0')
+256: ppl=tensor(18.4560, device='cuda:0')
+257: ppl=tensor(134.0117, device='cuda:0')
+258: ppl=tensor(18254.3828, device='cuda:0')
+259: ppl=tensor(199.6391, device='cuda:0')
+260: ppl=tensor(55.9298, device='cuda:0')
+261: ppl=tensor(171.7185, device='cuda:0')
+262: ppl=tensor(20.4762, device='cuda:0')
+263: ppl=tensor(259.3571, device='cuda:0')
+264: ppl=tensor(60.7064, device='cuda:0')
+265: ppl=tensor(222.3773, device='cuda:0')
+266: ppl=tensor(36.3881, device='cuda:0')
+267: ppl=tensor(117.1204, device='cuda:0')
+268: ppl=tensor(38.7068, device='cuda:0')
+269: ppl=tensor(71.0993, device='cuda:0')
+270: ppl=tensor(51.5879, device='cuda:0')
+271: ppl=tensor(31.1311, device='cuda:0')
+272: ppl=tensor(35.0169, device='cuda:0')
+273: ppl=tensor(46.7612, device='cuda:0')
+274: ppl=tensor(32.6221, device='cuda:0')
+275: ppl=tensor(20.8859, device='cuda:0')
+276: ppl=tensor(33.7198, device='cuda:0')
+277: ppl=tensor(35.1841, device='cuda:0')
+278: ppl=tensor(236.6727, device='cuda:0')
+279: ppl=tensor(210.3673, device='cuda:0')
+280: ppl=tensor(420.1933, device='cuda:0')
+281: ppl=tensor(70.1694, device='cuda:0')
+282: ppl=tensor(18.3277, device='cuda:0')
+283: ppl=tensor(10.6297, device='cuda:0')
+284: ppl=tensor(31.5906, device='cuda:0')
+285: ppl=tensor(107.6485, device='cuda:0')
+286: ppl=tensor(680.0713, device='cuda:0')
+287: ppl=tensor(3546.8250, device='cuda:0')
+288: ppl=tensor(69.6154, device='cuda:0')
+289: ppl=tensor(37.8914, device='cuda:0')
+290: ppl=tensor(29.4716, device='cuda:0')
+291: ppl=tensor(74.2651, device='cuda:0')
+292: ppl=tensor(55.0984, device='cuda:0')
+293: ppl=tensor(23.4683, device='cuda:0')
+294: ppl=tensor(16.1231, device='cuda:0')
+295: ppl=tensor(86.7403, device='cuda:0')
+296: ppl=tensor(117.2998, device='cuda:0')
+297: ppl=tensor(21.6503, device='cuda:0')
+298: ppl=tensor(192.3233, device='cuda:0')
+299: ppl=tensor(440.0017, device='cuda:0')
+  0%|          | 0/4 [00:00<?, ?it/s]INFO - The layer lm_head is not quantized.
+Some weights of the model checkpoint at Mistral-7B-Instruct-v0.2-GPTQ-4bit/model.safetensors were not used when initializing MistralForCausalLM: {'model.layers.24.self_attn.v_proj.bias', 'model.layers.20.self_attn.v_proj.bias', 'model.layers.25.self_attn.q_proj.bias', 'model.layers.11.mlp.gate_proj.bias', 'model.layers.31.mlp.down_proj.bias', 'model.layers.2.mlp.gate_proj.bias', 'model.layers.26.self_attn.q_proj.bias', 'model.layers.16.self_attn.k_proj.bias', 'model.layers.24.self_attn.k_proj.bias', 'model.layers.24.self_attn.q_proj.bias', 'model.layers.21.self_attn.q_proj.bias', 'model.layers.18.mlp.down_proj.bias', 'model.layers.17.self_attn.k_proj.bias', 'model.layers.1.self_attn.o_proj.bias', 'model.layers.11.self_attn.k_proj.bias', 'model.layers.21.self_attn.k_proj.bias', 'model.layers.10.mlp.up_proj.bias', 'model.layers.19.self_attn.o_proj.bias', 'model.layers.4.mlp.down_proj.bias', 'model.layers.20.self_attn.o_proj.bias', 'model.layers.10.self_attn.k_proj.bias', 'model.layers.14.self_attn.k_proj.bias', 'model.layers.11.mlp.up_proj.bias', 'model.layers.28.mlp.up_proj.bias', 'model.layers.5.mlp.up_proj.bias', 'model.layers.4.self_attn.o_proj.bias', 'model.layers.24.mlp.up_proj.bias', 'model.layers.29.self_attn.k_proj.bias', 'model.layers.9.mlp.gate_proj.bias', 'model.layers.26.self_attn.o_proj.bias', 'model.layers.0.mlp.gate_proj.bias', 'model.layers.23.self_attn.o_proj.bias', 'model.layers.27.mlp.down_proj.bias', 'model.layers.16.self_attn.q_proj.bias', 'model.layers.25.self_attn.v_proj.bias', 'model.layers.6.mlp.up_proj.bias', 'model.layers.25.mlp.down_proj.bias', 'model.layers.9.mlp.down_proj.bias', 'model.layers.2.self_attn.v_proj.bias', 'model.layers.25.self_attn.o_proj.bias', 'model.layers.13.mlp.gate_proj.bias', 'model.layers.11.self_attn.v_proj.bias', 'model.layers.15.self_attn.v_proj.bias', 'model.layers.15.mlp.down_proj.bias', 'model.layers.28.mlp.down_proj.bias', 'model.layers.27.mlp.up_proj.bias', 'model.layers.31.self_attn.v_proj.bias', 'model.layers.4.self_attn.q_proj.bias', 'model.layers.5.self_attn.v_proj.bias', 'model.layers.7.self_attn.v_proj.bias', 'model.layers.30.self_attn.k_proj.bias', 'model.layers.6.mlp.gate_proj.bias', 'model.layers.2.self_attn.k_proj.bias', 'model.layers.18.self_attn.o_proj.bias', 'model.layers.2.mlp.down_proj.bias', 'model.layers.2.self_attn.o_proj.bias', 'model.layers.23.mlp.down_proj.bias', 'model.layers.31.self_attn.o_proj.bias', 'model.layers.9.self_attn.o_proj.bias', 'model.layers.12.self_attn.k_proj.bias', 'model.layers.18.self_attn.k_proj.bias', 'model.layers.11.self_attn.q_proj.bias', 'model.layers.6.mlp.down_proj.bias', 'model.layers.0.self_attn.v_proj.bias', 'model.layers.28.self_attn.v_proj.bias', 'model.layers.22.self_attn.o_proj.bias', 'model.layers.30.mlp.down_proj.bias', 'model.layers.0.mlp.up_proj.bias', 'model.layers.26.self_attn.k_proj.bias', 'model.layers.5.self_attn.q_proj.bias', 'model.layers.4.mlp.up_proj.bias', 'model.layers.22.self_attn.v_proj.bias', 'model.layers.10.mlp.down_proj.bias', 'model.layers.13.self_attn.v_proj.bias', 'model.layers.17.mlp.up_proj.bias', 'model.layers.14.mlp.gate_proj.bias', 'model.layers.15.self_attn.q_proj.bias', 'model.layers.4.self_attn.v_proj.bias', 'model.layers.20.self_attn.q_proj.bias', 'model.layers.31.mlp.up_proj.bias', 'model.layers.8.self_attn.o_proj.bias', 'model.layers.23.self_attn.v_proj.bias', 'model.layers.0.self_attn.k_proj.bias', 'model.layers.7.mlp.down_proj.bias', 'model.layers.16.mlp.down_proj.bias', 'model.layers.0.mlp.down_proj.bias', 'model.layers.12.self_attn.q_proj.bias', 'model.layers.8.mlp.up_proj.bias', 'model.layers.13.self_attn.q_proj.bias', 'model.layers.9.self_attn.q_proj.bias', 'model.layers.9.self_attn.v_proj.bias', 'model.layers.19.mlp.down_proj.bias', 'model.layers.14.self_attn.v_proj.bias', 'model.layers.16.mlp.up_proj.bias', 'model.layers.12.mlp.up_proj.bias', 'model.layers.17.self_attn.o_proj.bias', 'model.layers.3.mlp.gate_proj.bias', 'model.layers.19.self_attn.q_proj.bias', 'model.layers.30.mlp.up_proj.bias', 'model.layers.5.self_attn.k_proj.bias', 'model.layers.8.self_attn.v_proj.bias', 'model.layers.29.self_attn.v_proj.bias', 'model.layers.12.self_attn.v_proj.bias', 'model.layers.18.self_attn.q_proj.bias', 'model.layers.25.mlp.up_proj.bias', 'model.layers.6.self_attn.o_proj.bias', 'model.layers.9.self_attn.k_proj.bias', 'model.layers.21.self_attn.o_proj.bias', 'model.layers.29.self_attn.o_proj.bias', 'model.layers.27.self_attn.v_proj.bias', 'model.layers.23.mlp.gate_proj.bias', 'model.layers.5.self_attn.o_proj.bias', 'model.layers.13.mlp.up_proj.bias', 'model.layers.22.mlp.gate_proj.bias', 'model.layers.6.self_attn.k_proj.bias', 'model.layers.31.self_attn.k_proj.bias', 'model.layers.3.self_attn.k_proj.bias', 'model.layers.28.self_attn.q_proj.bias', 'model.layers.3.mlp.up_proj.bias', 'model.layers.10.mlp.gate_proj.bias', 'model.layers.1.mlp.up_proj.bias', 'model.layers.13.mlp.down_proj.bias', 'model.layers.0.self_attn.q_proj.bias', 'model.layers.29.self_attn.q_proj.bias', 'model.layers.23.self_attn.k_proj.bias', 'model.layers.4.mlp.gate_proj.bias', 'model.layers.5.mlp.down_proj.bias', 'model.layers.10.self_attn.q_proj.bias', 'model.layers.15.self_attn.k_proj.bias', 'model.layers.19.self_attn.v_proj.bias', 'model.layers.24.mlp.down_proj.bias', 'model.layers.12.mlp.gate_proj.bias', 'model.layers.19.self_attn.k_proj.bias', 'model.layers.25.mlp.gate_proj.bias', 'model.layers.8.mlp.down_proj.bias', 'model.layers.14.self_attn.q_proj.bias', 'model.layers.16.self_attn.v_proj.bias', 'model.layers.20.mlp.down_proj.bias', 'model.layers.13.self_attn.o_proj.bias', 'model.layers.14.self_attn.o_proj.bias', 'model.layers.28.self_attn.o_proj.bias', 'model.layers.27.self_attn.q_proj.bias', 'model.layers.24.mlp.gate_proj.bias', 'model.layers.1.self_attn.q_proj.bias', 'model.layers.1.mlp.gate_proj.bias', 'model.layers.15.self_attn.o_proj.bias', 'model.layers.11.mlp.down_proj.bias', 'model.layers.7.mlp.up_proj.bias', 'model.layers.22.self_attn.q_proj.bias', 'model.layers.26.mlp.gate_proj.bias', 'model.layers.26.mlp.up_proj.bias', 'model.layers.25.self_attn.k_proj.bias', 'model.layers.19.mlp.gate_proj.bias', 'model.layers.12.self_attn.o_proj.bias', 'model.layers.30.self_attn.v_proj.bias', 'model.layers.26.self_attn.v_proj.bias', 'model.layers.0.self_attn.o_proj.bias', 'model.layers.8.self_attn.k_proj.bias', 'model.layers.17.mlp.gate_proj.bias', 'model.layers.27.mlp.gate_proj.bias', 'model.layers.30.self_attn.q_proj.bias', 'model.layers.7.self_attn.q_proj.bias', 'model.layers.21.mlp.down_proj.bias', 'model.layers.7.self_attn.o_proj.bias', 'model.layers.3.self_attn.q_proj.bias', 'model.layers.22.mlp.down_proj.bias', 'model.layers.15.mlp.up_proj.bias', 'model.layers.14.mlp.down_proj.bias', 'model.layers.31.mlp.gate_proj.bias', 'model.layers.4.self_attn.k_proj.bias', 'model.layers.5.mlp.gate_proj.bias', 'model.layers.20.self_attn.k_proj.bias', 'model.layers.29.mlp.down_proj.bias', 'model.layers.18.mlp.gate_proj.bias', 'model.layers.10.self_attn.v_proj.bias', 'model.layers.27.self_attn.o_proj.bias', 'model.layers.14.mlp.up_proj.bias', 'model.layers.22.self_attn.k_proj.bias', 'model.layers.24.self_attn.o_proj.bias', 'model.layers.7.self_attn.k_proj.bias', 'model.layers.26.mlp.down_proj.bias', 'model.layers.29.mlp.gate_proj.bias', 'model.layers.3.self_attn.o_proj.bias', 'model.layers.23.self_attn.q_proj.bias', 'model.layers.13.self_attn.k_proj.bias', 'model.layers.30.mlp.gate_proj.bias', 'model.layers.1.self_attn.v_proj.bias', 'model.layers.30.self_attn.o_proj.bias', 'model.layers.17.self_attn.v_proj.bias', 'model.layers.23.mlp.up_proj.bias', 'model.layers.12.mlp.down_proj.bias', 'model.layers.21.self_attn.v_proj.bias', 'model.layers.21.mlp.up_proj.bias', 'model.layers.17.self_attn.q_proj.bias', 'model.layers.18.mlp.up_proj.bias', 'model.layers.16.mlp.gate_proj.bias', 'model.layers.16.self_attn.o_proj.bias', 'model.layers.17.mlp.down_proj.bias', 'model.layers.8.self_attn.q_proj.bias', 'model.layers.3.self_attn.v_proj.bias', 'model.layers.1.self_attn.k_proj.bias', 'model.layers.21.mlp.gate_proj.bias', 'model.layers.2.self_attn.q_proj.bias', 'model.layers.31.self_attn.q_proj.bias', 'model.layers.28.self_attn.k_proj.bias', 'model.layers.11.self_attn.o_proj.bias', 'model.layers.10.self_attn.o_proj.bias', 'model.layers.27.self_attn.k_proj.bias', 'model.layers.3.mlp.down_proj.bias', 'model.layers.2.mlp.up_proj.bias', 'model.layers.1.mlp.down_proj.bias', 'model.layers.29.mlp.up_proj.bias', 'model.layers.20.mlp.gate_proj.bias', 'model.layers.20.mlp.up_proj.bias', 'model.layers.19.mlp.up_proj.bias', 'model.layers.7.mlp.gate_proj.bias', 'model.layers.28.mlp.gate_proj.bias', 'model.layers.8.mlp.gate_proj.bias', 'model.layers.15.mlp.gate_proj.bias', 'model.layers.18.self_attn.v_proj.bias', 'model.layers.6.self_attn.q_proj.bias', 'model.layers.9.mlp.up_proj.bias', 'model.layers.6.self_attn.v_proj.bias', 'model.layers.22.mlp.up_proj.bias'}. This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
+
+0it [00:00, ?it/s][A
+3it [00:00, 26.20it/s][A
+6it [00:00, 27.15it/s][A
+9it [00:00, 23.57it/s][A
+12it [00:00, 22.18it/s][A
+15it [00:00, 23.07it/s][A
+18it [00:00, 22.67it/s][A
+21it [00:00, 22.71it/s][A
+24it [00:01, 20.98it/s][A
+27it [00:01, 21.49it/s][A
+30it [00:01, 22.77it/s][A
+33it [00:01, 23.18it/s][A
+36it [00:01, 22.40it/s][A
+39it [00:01, 22.71it/s][A
+42it [00:01, 22.76it/s][A
+45it [00:01, 23.68it/s][A
+48it [00:02, 23.43it/s][A
+51it [00:02, 24.67it/s][A
+54it [00:02, 24.20it/s][A
+57it [00:02, 23.42it/s][A
+60it [00:02, 23.10it/s][A
+63it [00:02, 23.39it/s][A
+66it [00:02, 23.37it/s][A
+69it [00:02, 22.49it/s][A
+72it [00:03, 23.12it/s][A
+75it [00:03, 22.44it/s][A
+78it [00:03, 21.86it/s][A
+81it [00:03, 22.07it/s][A
+84it [00:03, 23.16it/s][A
+87it [00:03, 23.19it/s][A
+90it [00:03, 22.72it/s][A
+93it [00:04, 22.69it/s][A
+96it [00:04, 22.93it/s][A
+99it [00:04, 23.50it/s][A
+102it [00:04, 22.06it/s][A
+105it [00:04, 21.29it/s][A
+108it [00:04, 21.81it/s][A
+111it [00:04, 22.41it/s][A
+114it [00:04, 22.81it/s][A
+117it [00:05, 22.63it/s][A
+120it [00:05, 23.29it/s][A
+123it [00:05, 23.63it/s][A
+126it [00:05, 23.36it/s][A
+129it [00:05, 23.16it/s][A
+132it [00:05, 23.13it/s][A
+135it [00:05, 22.58it/s][A
+138it [00:06, 23.16it/s][A
+141it [00:06, 23.28it/s][A
+144it [00:06, 23.26it/s][A
+147it [00:06, 23.03it/s][A
+150it [00:06, 23.28it/s][A
+153it [00:06, 22.88it/s][A
+156it [00:06, 22.25it/s][A
+159it [00:06, 22.14it/s][A
+162it [00:07, 21.54it/s][A
+165it [00:07, 22.24it/s][A
+168it [00:07, 22.63it/s][A
+171it [00:07, 21.97it/s][A
+174it [00:07, 22.59it/s][A
+177it [00:07, 22.93it/s][A
+180it [00:07, 23.17it/s][A
+183it [00:08, 22.84it/s][A
+186it [00:08, 22.55it/s][A
+189it [00:08, 22.25it/s][A
+192it [00:08, 21.73it/s][A
+195it [00:08, 22.38it/s][A
+198it [00:08, 21.58it/s][A
+201it [00:08, 21.47it/s][A0: ppl=tensor(2.8362, device='cuda:0')
+1: ppl=tensor(3.2035, device='cuda:0')
+2: ppl=tensor(3.0199, device='cuda:0')
+3: ppl=tensor(2.8701, device='cuda:0')
+4: ppl=tensor(3.5661, device='cuda:0')
+5: ppl=tensor(3.4652, device='cuda:0')
+6: ppl=tensor(3.9872, device='cuda:0')
+7: ppl=tensor(3.3296, device='cuda:0')
+8: ppl=tensor(3.7591, device='cuda:0')
+9: ppl=tensor(3.1292, device='cuda:0')
+10: ppl=tensor(3.3432, device='cuda:0')
+11: ppl=tensor(3.5733, device='cuda:0')
+12: ppl=tensor(3.9648, device='cuda:0')
+13: ppl=tensor(3.6746, device='cuda:0')
+14: ppl=tensor(4.4687, device='cuda:0')
+15: ppl=tensor(3.5336, device='cuda:0')
+16: ppl=tensor(3.3385, device='cuda:0')
+17: ppl=tensor(4.0058, device='cuda:0')
+18: ppl=tensor(4.2862, device='cuda:0')
+19: ppl=tensor(3.2897, device='cuda:0')
+20: ppl=tensor(3.8541, device='cuda:0')
+21: ppl=tensor(3.5230, device='cuda:0')
+22: ppl=tensor(3.4751, device='cuda:0')
+23: ppl=tensor(3.2152, device='cuda:0')
+24: ppl=tensor(3.5853, device='cuda:0')
+25: ppl=tensor(5.0127, device='cuda:0')
+26: ppl=tensor(4.2935, device='cuda:0')
+27: ppl=tensor(3.7403, device='cuda:0')
+28: ppl=tensor(3.5149, device='cuda:0')
+29: ppl=tensor(3.9527, device='cuda:0')
+30: ppl=tensor(3.5061, device='cuda:0')
+31: ppl=tensor(4.9001, device='cuda:0')
+32: ppl=tensor(3.7283, device='cuda:0')
+33: ppl=tensor(3.9551, device='cuda:0')
+34: ppl=tensor(3.9122, device='cuda:0')
+35: ppl=tensor(3.9511, device='cuda:0')
+36: ppl=tensor(4.4555, device='cuda:0')
+37: ppl=tensor(4.3787, device='cuda:0')
+38: ppl=tensor(4.1793, device='cuda:0')
+39: ppl=tensor(3.9822, device='cuda:0')
+40: ppl=tensor(4.1394, device='cuda:0')
+41: ppl=tensor(3.6831, device='cuda:0')
+42: ppl=tensor(4.1014, device='cuda:0')
+43: ppl=tensor(4.4141, device='cuda:0')
+44: ppl=tensor(3.9886, device='cuda:0')
+45: ppl=tensor(4.1343, device='cuda:0')
+46: ppl=tensor(3.9184, device='cuda:0')
+47: ppl=tensor(4.7789, device='cuda:0')
+48: ppl=tensor(4.2874, device='cuda:0')
+49: ppl=tensor(4.3972, device='cuda:0')
+50: ppl=tensor(4.1693, device='cuda:0')
+51: ppl=tensor(4.2721, device='cuda:0')
+52: ppl=tensor(4.2427, device='cuda:0')
+53: ppl=tensor(3.9907, device='cuda:0')
+54: ppl=tensor(4.1005, device='cuda:0')
+55: ppl=tensor(4.0640, device='cuda:0')
+56: ppl=tensor(4.5312, device='cuda:0')
+57: ppl=tensor(4.8598, device='cuda:0')
+58: ppl=tensor(4.6593, device='cuda:0')
+59: ppl=tensor(4.2516, device='cuda:0')
+60: ppl=tensor(4.5055, device='cuda:0')
+61: ppl=tensor(4.2657, device='cuda:0')
+62: ppl=tensor(4.0085, device='cuda:0')
+63: ppl=tensor(5.1016, device='cuda:0')
+64: ppl=tensor(4.9025, device='cuda:0')
+65: ppl=tensor(4.8012, device='cuda:0')
+66: ppl=tensor(4.3474, device='cuda:0')
+67: ppl=tensor(4.1603, device='cuda:0')
+68: ppl=tensor(4.2366, device='cuda:0')
+69: ppl=tensor(4.6275, device='cuda:0')
+70: ppl=tensor(5.1039, device='cuda:0')
+71: ppl=tensor(4.0001, device='cuda:0')
+72: ppl=tensor(4.4387, device='cuda:0')
+73: ppl=tensor(4.2804, device='cuda:0')
+74: ppl=tensor(4.4157, device='cuda:0')
+75: ppl=tensor(4.3797, device='cuda:0')
+76: ppl=tensor(4.6303, device='cuda:0')
+77: ppl=tensor(4.6520, device='cuda:0')
+78: ppl=tensor(5.1935, device='cuda:0')
+79: ppl=tensor(4.7407, device='cuda:0')
+80: ppl=tensor(4.2953, device='cuda:0')
+81: ppl=tensor(4.9076, device='cuda:0')
+82: ppl=tensor(4.3622, device='cuda:0')
+83: ppl=tensor(5.2257, device='cuda:0')
+84: ppl=tensor(4.9152, device='cuda:0')
+85: ppl=tensor(4.4743, device='cuda:0')
+86: ppl=tensor(4.3734, device='cuda:0')
+87: ppl=tensor(4.4067, device='cuda:0')
+88: ppl=tensor(4.4816, device='cuda:0')
+89: ppl=tensor(4.8550, device='cuda:0')
+90: ppl=tensor(4.5180, device='cuda:0')
+91: ppl=tensor(4.6531, device='cuda:0')
+92: ppl=tensor(4.5850, device='cuda:0')
+93: ppl=tensor(4.8396, device='cuda:0')
+94: ppl=tensor(4.3909, device='cuda:0')
+95: ppl=tensor(4.8284, device='cuda:0')
+96: ppl=tensor(4.9003, device='cuda:0')
+97: ppl=tensor(4.4745, device='cuda:0')
+98: ppl=tensor(4.7129, device='cuda:0')
+99: ppl=tensor(4.8402, device='cuda:0')
+100: ppl=tensor(4.8769, device='cuda:0')
+101: ppl=tensor(4.5854, device='cuda:0')
+102: ppl=tensor(5.1472, device='cuda:0')
+103: ppl=tensor(4.8923, device='cuda:0')
+104: ppl=tensor(4.6259, device='cuda:0')
+105: ppl=tensor(4.7781, device='cuda:0')
+106: ppl=tensor(4.8023, device='cuda:0')
+107: ppl=tensor(4.8249, device='cuda:0')
+108: ppl=tensor(4.9184, device='cuda:0')
+109: ppl=tensor(4.2841, device='cuda:0')
+110: ppl=tensor(5.1315, device='cuda:0')
+111: ppl=tensor(4.8823, device='cuda:0')
+112: ppl=tensor(4.7460, device='cuda:0')
+113: ppl=tensor(4.5347, device='cuda:0')
+114: ppl=tensor(4.7838, device='cuda:0')
+115: ppl=tensor(4.9850, device='cuda:0')
+116: ppl=tensor(5.0799, device='cuda:0')
+117: ppl=tensor(4.9222, device='cuda:0')
+118: ppl=tensor(4.8365, device='cuda:0')
+119: ppl=tensor(5.8118, device='cuda:0')
+120: ppl=tensor(4.9660, device='cuda:0')
+121: ppl=tensor(4.8891, device='cuda:0')
+122: ppl=tensor(4.7963, device='cuda:0')
+123: ppl=tensor(4.9439, device='cuda:0')
+124: ppl=tensor(4.7424, device='cuda:0')
+125: ppl=tensor(5.1537, device='cuda:0')
+126: ppl=tensor(5.3143, device='cuda:0')
+127: ppl=tensor(5.0004, device='cuda:0')
+128: ppl=tensor(4.7971, device='cuda:0')
+129: ppl=tensor(5.2377, device='cuda:0')
+130: ppl=tensor(4.8532, device='cuda:0')
+131: ppl=tensor(4.8594, device='cuda:0')
+132: ppl=tensor(5.5647, device='cuda:0')
+133: ppl=tensor(4.8449, device='cuda:0')
+134: ppl=tensor(5.5331, device='cuda:0')
+135: ppl=tensor(5.3299, device='cuda:0')
+136: ppl=tensor(5.1863, device='cuda:0')
+137: ppl=tensor(6.0396, device='cuda:0')
+138: ppl=tensor(4.7515, device='cuda:0')
+139: ppl=tensor(7.0521, device='cuda:0')
+140: ppl=tensor(5.0608, device='cuda:0')
+141: ppl=tensor(5.5610, device='cuda:0')
+142: ppl=tensor(5.0459, device='cuda:0')
+143: ppl=tensor(4.7362, device='cuda:0')
+144: ppl=tensor(5.6113, device='cuda:0')
+145: ppl=tensor(5.3846, device='cuda:0')
+146: ppl=tensor(5.4575, device='cuda:0')
+147: ppl=tensor(4.7204, device='cuda:0')
+148: ppl=tensor(4.9889, device='cuda:0')
+149: ppl=tensor(5.2763, device='cuda:0')
+150: ppl=tensor(5.1628, device='cuda:0')
+151: ppl=tensor(5.1187, device='cuda:0')
+152: ppl=tensor(5.5180, device='cuda:0')
+153: ppl=tensor(6.1019, device='cuda:0')
+154: ppl=tensor(5.0675, device='cuda:0')
+155: ppl=tensor(5.3734, device='cuda:0')
+156: ppl=tensor(5.5074, device='cuda:0')
+157: ppl=tensor(5.3657, device='cuda:0')
+158: ppl=tensor(5.4599, device='cuda:0')
+159: ppl=tensor(5.2646, device='cuda:0')
+160: ppl=tensor(5.5094, device='cuda:0')
+161: ppl=tensor(6.2780, device='cuda:0')
+162: ppl=tensor(5.4146, device='cuda:0')
+163: ppl=tensor(6.0913, device='cuda:0')
+164: ppl=tensor(5.4295, device='cuda:0')
+165: ppl=tensor(5.8433, device='cuda:0')
+166: ppl=tensor(5.9139, device='cuda:0')
+167: ppl=tensor(5.3780, device='cuda:0')
+168: ppl=tensor(6.1392, device='cuda:0')
+169: ppl=tensor(5.6483, device='cuda:0')
+170: ppl=tensor(5.6479, device='cuda:0')
+171: ppl=tensor(5.8380, device='cuda:0')
+172: ppl=tensor(5.8079, device='cuda:0')
+173: ppl=tensor(5.8146, device='cuda:0')
+174: ppl=tensor(5.1387, device='cuda:0')
+175: ppl=tensor(5.7515, device='cuda:0')
+176: ppl=tensor(5.7309, device='cuda:0')
+177: ppl=tensor(5.8974, device='cuda:0')
+178: ppl=tensor(5.3596, device='cuda:0')
+179: ppl=tensor(5.9193, device='cuda:0')
+180: ppl=tensor(5.6901, device='cuda:0')
+181: ppl=tensor(5.3538, device='cuda:0')
+182: ppl=tensor(5.7953, device='cuda:0')
+183: ppl=tensor(5.4638, device='cuda:0')
+184: ppl=tensor(5.6105, device='cuda:0')
+185: ppl=tensor(5.7273, device='cuda:0')
+186: ppl=tensor(5.4851, device='cuda:0')
+187: ppl=tensor(5.8344, device='cuda:0')
+188: ppl=tensor(5.4813, device='cuda:0')
+189: ppl=tensor(5.5451, device='cuda:0')
+190: ppl=tensor(5.2708, device='cuda:0')
+191: ppl=tensor(5.6536, device='cuda:0')
+192: ppl=tensor(5.3739, device='cuda:0')
+193: ppl=tensor(4.8570, device='cuda:0')
+194: ppl=tensor(5.2713, device='cuda:0')
+195: ppl=tensor(5.9688, device='cuda:0')
+196: ppl=tensor(5.6326, device='cuda:0')
+197: ppl=tensor(5.5331, device='cuda:0')
+198: ppl=tensor(6.3707, device='cuda:0')
+199: ppl=tensor(5.6298, device='cuda:0')
+200: ppl=tensor(6.0775, device='cuda:0')
+201: ppl=tensor(5.2890, device='cuda:0')
+
+204it [00:08, 21.57it/s][A
+207it [00:09, 22.28it/s][A
+210it [00:09, 22.70it/s][A
+213it [00:09, 22.81it/s][A
+216it [00:09, 23.38it/s][A
+219it [00:09, 23.91it/s][A
+222it [00:09, 23.37it/s][A
+225it [00:09, 23.14it/s][A
+228it [00:10, 23.64it/s][A
+231it [00:10, 24.30it/s][A
+234it [00:10, 24.65it/s][A
+237it [00:10, 24.10it/s][A
+240it [00:10, 22.72it/s][A
+243it [00:10, 22.90it/s][A
+246it [00:10, 21.17it/s][A
+249it [00:10, 21.43it/s][A
+252it [00:11, 23.01it/s][A
+255it [00:11, 23.95it/s][A
+258it [00:11, 22.98it/s][A
+261it [00:11, 23.47it/s][A
+264it [00:11, 23.48it/s][A
+267it [00:11, 22.61it/s][A
+270it [00:11, 22.53it/s][A
+273it [00:11, 23.22it/s][A
+276it [00:12, 23.17it/s][A
+279it [00:12, 22.42it/s][A
+282it [00:12, 23.08it/s][A
+285it [00:12, 23.65it/s][A
+288it [00:12, 24.13it/s][A
+291it [00:12, 22.45it/s][A
+294it [00:12, 22.42it/s][A
+297it [00:13, 22.17it/s][A
+300it [00:13, 23.03it/s][A300it [00:13, 22.84it/s]
+ 25%|██▌       | 1/4 [00:15<00:45, 15.08s/it]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
+INFO - You passed a model that is compatible with the Marlin int4*fp16 GPTQ kernel but use_marlin is False. We recommend using `use_marlin=True` to use the optimized Marlin kernels for inference. Example: `model = AutoGPTQForCausalLM.from_quantized(..., use_marlin=True)`.
+INFO - The layer lm_head is not quantized.
+Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q4-GS128-DAF-TSF-RP2/gptq_model-4bit-128g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
+202: ppl=tensor(6.2523, device='cuda:0')
+203: ppl=tensor(5.5532, device='cuda:0')
+204: ppl=tensor(5.5087, device='cuda:0')
+205: ppl=tensor(6.5062, device='cuda:0')
+206: ppl=tensor(6.6986, device='cuda:0')
+207: ppl=tensor(6.2903, device='cuda:0')
+208: ppl=tensor(5.8859, device='cuda:0')
+209: ppl=tensor(5.8000, device='cuda:0')
+210: ppl=tensor(6.2752, device='cuda:0')
+211: ppl=tensor(5.8924, device='cuda:0')
+212: ppl=tensor(5.8079, device='cuda:0')
+213: ppl=tensor(5.8983, device='cuda:0')
+214: ppl=tensor(6.2510, device='cuda:0')
+215: ppl=tensor(5.9968, device='cuda:0')
+216: ppl=tensor(6.1259, device='cuda:0')
+217: ppl=tensor(6.9726, device='cuda:0')
+218: ppl=tensor(5.9062, device='cuda:0')
+219: ppl=tensor(5.7692, device='cuda:0')
+220: ppl=tensor(6.3444, device='cuda:0')
+221: ppl=tensor(5.8780, device='cuda:0')
+222: ppl=tensor(5.5537, device='cuda:0')
+223: ppl=tensor(5.6926, device='cuda:0')
+224: ppl=tensor(5.6616, device='cuda:0')
+225: ppl=tensor(5.8657, device='cuda:0')
+226: ppl=tensor(6.8756, device='cuda:0')
+227: ppl=tensor(6.2758, device='cuda:0')
+228: ppl=tensor(5.7112, device='cuda:0')
+229: ppl=tensor(5.3719, device='cuda:0')
+230: ppl=tensor(5.3256, device='cuda:0')
+231: ppl=tensor(5.6784, device='cuda:0')
+232: ppl=tensor(7.0841, device='cuda:0')
+233: ppl=tensor(6.3800, device='cuda:0')
+234: ppl=tensor(5.8533, device='cuda:0')
+235: ppl=tensor(5.6814, device='cuda:0')
+236: ppl=tensor(5.8887, device='cuda:0')
+237: ppl=tensor(5.9075, device='cuda:0')
+238: ppl=tensor(6.6127, device='cuda:0')
+239: ppl=tensor(8.1924, device='cuda:0')
+240: ppl=tensor(7.4378, device='cuda:0')
+241: ppl=tensor(5.8986, device='cuda:0')
+242: ppl=tensor(6.3220, device='cuda:0')
+243: ppl=tensor(6.0689, device='cuda:0')
+244: ppl=tensor(6.2627, device='cuda:0')
+245: ppl=tensor(5.8701, device='cuda:0')
+246: ppl=tensor(6.2213, device='cuda:0')
+247: ppl=tensor(6.0576, device='cuda:0')
+248: ppl=tensor(6.2383, device='cuda:0')
+249: ppl=tensor(6.1920, device='cuda:0')
+250: ppl=tensor(6.2745, device='cuda:0')
+251: ppl=tensor(7.2412, device='cuda:0')
+252: ppl=tensor(6.4048, device='cuda:0')
+253: ppl=tensor(6.6868, device='cuda:0')
+254: ppl=tensor(7.3435, device='cuda:0')
+255: ppl=tensor(5.8260, device='cuda:0')
+256: ppl=tensor(6.3994, device='cuda:0')
+257: ppl=tensor(6.3144, device='cuda:0')
+258: ppl=tensor(7.5067, device='cuda:0')
+259: ppl=tensor(5.7550, device='cuda:0')
+260: ppl=tensor(5.7730, device='cuda:0')
+261: ppl=tensor(5.7258, device='cuda:0')
+262: ppl=tensor(5.8549, device='cuda:0')
+263: ppl=tensor(6.2608, device='cuda:0')
+264: ppl=tensor(5.4743, device='cuda:0')
+265: ppl=tensor(5.6911, device='cuda:0')
+266: ppl=tensor(6.0568, device='cuda:0')
+267: ppl=tensor(6.3254, device='cuda:0')
+268: ppl=tensor(6.6519, device='cuda:0')
+269: ppl=tensor(6.4952, device='cuda:0')
+270: ppl=tensor(6.2399, device='cuda:0')
+271: ppl=tensor(5.9370, device='cuda:0')
+272: ppl=tensor(7.4124, device='cuda:0')
+273: ppl=tensor(6.6524, device='cuda:0')
+274: ppl=tensor(6.5946, device='cuda:0')
+275: ppl=tensor(5.7330, device='cuda:0')
+276: ppl=tensor(6.1929, device='cuda:0')
+277: ppl=tensor(6.3191, device='cuda:0')
+278: ppl=tensor(6.8493, device='cuda:0')
+279: ppl=tensor(6.4819, device='cuda:0')
+280: ppl=tensor(6.0751, device='cuda:0')
+281: ppl=tensor(6.6213, device='cuda:0')
+282: ppl=tensor(6.4135, device='cuda:0')
+283: ppl=tensor(6.0152, device='cuda:0')
+284: ppl=tensor(6.0859, device='cuda:0')
+285: ppl=tensor(7.6357, device='cuda:0')
+286: ppl=tensor(6.7472, device='cuda:0')
+287: ppl=tensor(6.7612, device='cuda:0')
+288: ppl=tensor(7.0876, device='cuda:0')
+289: ppl=tensor(6.4357, device='cuda:0')
+290: ppl=tensor(6.5437, device='cuda:0')
+291: ppl=tensor(6.2130, device='cuda:0')
+292: ppl=tensor(6.4235, device='cuda:0')
+293: ppl=tensor(6.1702, device='cuda:0')
+294: ppl=tensor(6.1848, device='cuda:0')
+295: ppl=tensor(6.7031, device='cuda:0')
+296: ppl=tensor(6.9871, device='cuda:0')
+297: ppl=tensor(7.8382, device='cuda:0')
+298: ppl=tensor(6.5605, device='cuda:0')
+299: ppl=tensor(6.1045, device='cuda:0')
+
+0it [00:00, ?it/s][A
+3it [00:00, 23.50it/s][A
+6it [00:00, 25.93it/s][A
+9it [00:00, 23.10it/s][A
+12it [00:00, 21.97it/s][A
+15it [00:00, 23.02it/s][A
+18it [00:00, 22.65it/s][A
+21it [00:00, 22.69it/s][A
+24it [00:01, 20.97it/s][A
+27it [00:01, 21.53it/s][A
+30it [00:01, 22.86it/s][A
+33it [00:01, 23.40it/s][A
+36it [00:01, 22.64it/s][A
+39it [00:01, 23.01it/s][A
+42it [00:01, 23.11it/s][A
+45it [00:01, 24.06it/s][A
+48it [00:02, 23.82it/s][A
+51it [00:02, 25.04it/s][A
+54it [00:02, 24.53it/s][A
+57it [00:02, 23.70it/s][A
+60it [00:02, 23.36it/s][A
+63it [00:02, 23.69it/s][A
+66it [00:02, 23.78it/s][A
+69it [00:02, 22.85it/s][A
+72it [00:03, 23.22it/s][A
+75it [00:03, 22.54it/s][A
+78it [00:03, 22.01it/s][A
+81it [00:03, 22.18it/s][A
+84it [00:03, 23.27it/s][A
+87it [00:03, 23.38it/s][A
+90it [00:03, 23.00it/s][A
+93it [00:04, 22.98it/s][A
+96it [00:04, 23.28it/s][A
+99it [00:04, 23.87it/s][A
+102it [00:04, 22.40it/s][A
+105it [00:04, 21.66it/s][A
+108it [00:04, 22.19it/s][A
+111it [00:04, 22.84it/s][A
+114it [00:04, 23.22it/s][A
+117it [00:05, 23.05it/s][A
+120it [00:05, 23.78it/s][A
+123it [00:05, 24.08it/s][A
+126it [00:05, 23.75it/s][A
+129it [00:05, 23.50it/s][A
+132it [00:05, 23.40it/s][A
+135it [00:05, 22.82it/s][A
+138it [00:05, 23.35it/s][A
+141it [00:06, 23.46it/s][A
+144it [00:06, 23.52it/s][A
+147it [00:06, 23.23it/s][A
+150it [00:06, 23.50it/s][A
+153it [00:06, 23.12it/s][A
+156it [00:06, 22.44it/s][A
+159it [00:06, 22.37it/s][A
+162it [00:07, 21.74it/s][A
+165it [00:07, 22.55it/s][A
+168it [00:07, 22.95it/s][A
+171it [00:07, 22.26it/s][A
+174it [00:07, 22.93it/s][A
+177it [00:07, 23.29it/s][A
+180it [00:07, 23.70it/s][A
+183it [00:07, 23.36it/s][A
+186it [00:08, 22.97it/s][A
+189it [00:08, 22.40it/s][A
+192it [00:08, 21.87it/s][A
+195it [00:08, 22.56it/s][A
+198it [00:08, 21.76it/s][A
+201it [00:08, 21.62it/s][A0: ppl=tensor(3.0631, device='cuda:0')
+1: ppl=tensor(3.3605, device='cuda:0')
+2: ppl=tensor(3.0043, device='cuda:0')
+3: ppl=tensor(3.2034, device='cuda:0')
+4: ppl=tensor(3.5086, device='cuda:0')
+5: ppl=tensor(3.3845, device='cuda:0')
+6: ppl=tensor(3.9741, device='cuda:0')
+7: ppl=tensor(3.4769, device='cuda:0')
+8: ppl=tensor(3.8330, device='cuda:0')
+9: ppl=tensor(3.1279, device='cuda:0')
+10: ppl=tensor(3.5836, device='cuda:0')
+11: ppl=tensor(3.5085, device='cuda:0')
+12: ppl=tensor(3.9815, device='cuda:0')
+13: ppl=tensor(3.8588, device='cuda:0')
+14: ppl=tensor(4.4461, device='cuda:0')
+15: ppl=tensor(3.5643, device='cuda:0')
+16: ppl=tensor(3.4922, device='cuda:0')
+17: ppl=tensor(3.9924, device='cuda:0')
+18: ppl=tensor(4.2707, device='cuda:0')
+19: ppl=tensor(3.2133, device='cuda:0')
+20: ppl=tensor(3.8501, device='cuda:0')
+21: ppl=tensor(3.5828, device='cuda:0')
+22: ppl=tensor(3.5714, device='cuda:0')
+23: ppl=tensor(3.2080, device='cuda:0')
+24: ppl=tensor(3.6253, device='cuda:0')
+25: ppl=tensor(4.7380, device='cuda:0')
+26: ppl=tensor(4.8035, device='cuda:0')
+27: ppl=tensor(3.8535, device='cuda:0')
+28: ppl=tensor(3.5792, device='cuda:0')
+29: ppl=tensor(4.2676, device='cuda:0')
+30: ppl=tensor(3.9031, device='cuda:0')
+31: ppl=tensor(4.6135, device='cuda:0')
+32: ppl=tensor(4.2103, device='cuda:0')
+33: ppl=tensor(3.9255, device='cuda:0')
+34: ppl=tensor(4.2399, device='cuda:0')
+35: ppl=tensor(4.1860, device='cuda:0')
+36: ppl=tensor(4.4363, device='cuda:0')
+37: ppl=tensor(4.2840, device='cuda:0')
+38: ppl=tensor(4.3425, device='cuda:0')
+39: ppl=tensor(3.9151, device='cuda:0')
+40: ppl=tensor(4.1289, device='cuda:0')
+41: ppl=tensor(4.3076, device='cuda:0')
+42: ppl=tensor(4.3919, device='cuda:0')
+43: ppl=tensor(4.4307, device='cuda:0')
+44: ppl=tensor(3.8739, device='cuda:0')
+45: ppl=tensor(4.0984, device='cuda:0')
+46: ppl=tensor(4.1783, device='cuda:0')
+47: ppl=tensor(6.8923, device='cuda:0')
+48: ppl=tensor(4.4952, device='cuda:0')
+49: ppl=tensor(4.0394, device='cuda:0')
+50: ppl=tensor(4.2591, device='cuda:0')
+51: ppl=tensor(4.2888, device='cuda:0')
+52: ppl=tensor(4.7293, device='cuda:0')
+53: ppl=tensor(4.0626, device='cuda:0')
+54: ppl=tensor(4.0384, device='cuda:0')
+55: ppl=tensor(3.9090, device='cuda:0')
+56: ppl=tensor(4.5880, device='cuda:0')
+57: ppl=tensor(4.7387, device='cuda:0')
+58: ppl=tensor(5.0284, device='cuda:0')
+59: ppl=tensor(4.3267, device='cuda:0')
+60: ppl=tensor(4.4029, device='cuda:0')
+61: ppl=tensor(4.3376, device='cuda:0')
+62: ppl=tensor(4.1053, device='cuda:0')
+63: ppl=tensor(5.0174, device='cuda:0')
+64: ppl=tensor(4.5734, device='cuda:0')
+65: ppl=tensor(4.9183, device='cuda:0')
+66: ppl=tensor(4.5033, device='cuda:0')
+67: ppl=tensor(4.2426, device='cuda:0')
+68: ppl=tensor(4.3294, device='cuda:0')
+69: ppl=tensor(4.6538, device='cuda:0')
+70: ppl=tensor(5.1917, device='cuda:0')
+71: ppl=tensor(4.2411, device='cuda:0')
+72: ppl=tensor(4.5133, device='cuda:0')
+73: ppl=tensor(4.4056, device='cuda:0')
+74: ppl=tensor(4.5961, device='cuda:0')
+75: ppl=tensor(4.4029, device='cuda:0')
+76: ppl=tensor(4.8896, device='cuda:0')
+77: ppl=tensor(4.9227, device='cuda:0')
+78: ppl=tensor(5.2417, device='cuda:0')
+79: ppl=tensor(4.9542, device='cuda:0')
+80: ppl=tensor(4.4141, device='cuda:0')
+81: ppl=tensor(4.8961, device='cuda:0')
+82: ppl=tensor(4.3647, device='cuda:0')
+83: ppl=tensor(4.8341, device='cuda:0')
+84: ppl=tensor(4.6201, device='cuda:0')
+85: ppl=tensor(4.6613, device='cuda:0')
+86: ppl=tensor(4.4624, device='cuda:0')
+87: ppl=tensor(4.4259, device='cuda:0')
+88: ppl=tensor(4.5815, device='cuda:0')
+89: ppl=tensor(4.8630, device='cuda:0')
+90: ppl=tensor(4.7290, device='cuda:0')
+91: ppl=tensor(4.5683, device='cuda:0')
+92: ppl=tensor(4.9295, device='cuda:0')
+93: ppl=tensor(4.9257, device='cuda:0')
+94: ppl=tensor(4.4197, device='cuda:0')
+95: ppl=tensor(5.0714, device='cuda:0')
+96: ppl=tensor(5.1318, device='cuda:0')
+97: ppl=tensor(4.3315, device='cuda:0')
+98: ppl=tensor(4.6610, device='cuda:0')
+99: ppl=tensor(4.8029, device='cuda:0')
+100: ppl=tensor(4.9197, device='cuda:0')
+101: ppl=tensor(4.9315, device='cuda:0')
+102: ppl=tensor(4.7095, device='cuda:0')
+103: ppl=tensor(5.0569, device='cuda:0')
+104: ppl=tensor(4.6945, device='cuda:0')
+105: ppl=tensor(4.9491, device='cuda:0')
+106: ppl=tensor(4.8316, device='cuda:0')
+107: ppl=tensor(5.1815, device='cuda:0')
+108: ppl=tensor(4.7872, device='cuda:0')
+109: ppl=tensor(4.6026, device='cuda:0')
+110: ppl=tensor(5.1574, device='cuda:0')
+111: ppl=tensor(5.2183, device='cuda:0')
+112: ppl=tensor(4.7668, device='cuda:0')
+113: ppl=tensor(4.6547, device='cuda:0')
+114: ppl=tensor(5.3099, device='cuda:0')
+115: ppl=tensor(5.3166, device='cuda:0')
+116: ppl=tensor(5.0132, device='cuda:0')
+117: ppl=tensor(5.1598, device='cuda:0')
+118: ppl=tensor(5.1828, device='cuda:0')
+119: ppl=tensor(5.9489, device='cuda:0')
+120: ppl=tensor(5.3825, device='cuda:0')
+121: ppl=tensor(4.8846, device='cuda:0')
+122: ppl=tensor(4.7439, device='cuda:0')
+123: ppl=tensor(5.4985, device='cuda:0')
+124: ppl=tensor(4.8330, device='cuda:0')
+125: ppl=tensor(5.1769, device='cuda:0')
+126: ppl=tensor(5.4436, device='cuda:0')
+127: ppl=tensor(4.9404, device='cuda:0')
+128: ppl=tensor(4.8913, device='cuda:0')
+129: ppl=tensor(5.2129, device='cuda:0')
+130: ppl=tensor(4.9287, device='cuda:0')
+131: ppl=tensor(4.9609, device='cuda:0')
+132: ppl=tensor(5.7318, device='cuda:0')
+133: ppl=tensor(4.8978, device='cuda:0')
+134: ppl=tensor(5.6465, device='cuda:0')
+135: ppl=tensor(5.3904, device='cuda:0')
+136: ppl=tensor(5.2322, device='cuda:0')
+137: ppl=tensor(5.2501, device='cuda:0')
+138: ppl=tensor(5.1804, device='cuda:0')
+139: ppl=tensor(8.1748, device='cuda:0')
+140: ppl=tensor(5.0632, device='cuda:0')
+141: ppl=tensor(5.6247, device='cuda:0')
+142: ppl=tensor(5.1691, device='cuda:0')
+143: ppl=tensor(5.0283, device='cuda:0')
+144: ppl=tensor(5.6939, device='cuda:0')
+145: ppl=tensor(5.4873, device='cuda:0')
+146: ppl=tensor(5.5485, device='cuda:0')
+147: ppl=tensor(4.9989, device='cuda:0')
+148: ppl=tensor(5.3174, device='cuda:0')
+149: ppl=tensor(5.1321, device='cuda:0')
+150: ppl=tensor(5.2658, device='cuda:0')
+151: ppl=tensor(5.3759, device='cuda:0')
+152: ppl=tensor(5.5955, device='cuda:0')
+153: ppl=tensor(5.6342, device='cuda:0')
+154: ppl=tensor(5.2310, device='cuda:0')
+155: ppl=tensor(5.3622, device='cuda:0')
+156: ppl=tensor(5.2767, device='cuda:0')
+157: ppl=tensor(5.2612, device='cuda:0')
+158: ppl=tensor(5.6639, device='cuda:0')
+159: ppl=tensor(5.0215, device='cuda:0')
+160: ppl=tensor(5.5153, device='cuda:0')
+161: ppl=tensor(6.2173, device='cuda:0')
+162: ppl=tensor(5.4541, device='cuda:0')
+163: ppl=tensor(6.0713, device='cuda:0')
+164: ppl=tensor(5.6616, device='cuda:0')
+165: ppl=tensor(5.8552, device='cuda:0')
+166: ppl=tensor(5.8499, device='cuda:0')
+167: ppl=tensor(6.0902, device='cuda:0')
+168: ppl=tensor(6.1083, device='cuda:0')
+169: ppl=tensor(5.8069, device='cuda:0')
+170: ppl=tensor(5.6663, device='cuda:0')
+171: ppl=tensor(6.1333, device='cuda:0')
+172: ppl=tensor(6.0725, device='cuda:0')
+173: ppl=tensor(6.0309, device='cuda:0')
+174: ppl=tensor(5.2072, device='cuda:0')
+175: ppl=tensor(5.7300, device='cuda:0')
+176: ppl=tensor(6.0290, device='cuda:0')
+177: ppl=tensor(6.3729, device='cuda:0')
+178: ppl=tensor(5.3652, device='cuda:0')
+179: ppl=tensor(5.6618, device='cuda:0')
+180: ppl=tensor(5.8077, device='cuda:0')
+181: ppl=tensor(5.5285, device='cuda:0')
+182: ppl=tensor(5.8048, device='cuda:0')
+183: ppl=tensor(5.6518, device='cuda:0')
+184: ppl=tensor(5.8173, device='cuda:0')
+185: ppl=tensor(5.9788, device='cuda:0')
+186: ppl=tensor(5.5155, device='cuda:0')
+187: ppl=tensor(5.7946, device='cuda:0')
+188: ppl=tensor(5.6983, device='cuda:0')
+189: ppl=tensor(5.7253, device='cuda:0')
+190: ppl=tensor(5.1729, device='cuda:0')
+191: ppl=tensor(6.0747, device='cuda:0')
+192: ppl=tensor(5.5645, device='cuda:0')
+193: ppl=tensor(5.1020, device='cuda:0')
+194: ppl=tensor(5.2667, device='cuda:0')
+195: ppl=tensor(6.2271, device='cuda:0')
+196: ppl=tensor(5.6550, device='cuda:0')
+197: ppl=tensor(5.6266, device='cuda:0')
+198: ppl=tensor(6.3985, device='cuda:0')
+199: ppl=tensor(5.5102, device='cuda:0')
+200: ppl=tensor(5.6781, device='cuda:0')
+201: ppl=tensor(5.3182, device='cuda:0')
+
+204it [00:08, 21.66it/s][A
+207it [00:09, 22.42it/s][A
+210it [00:09, 22.88it/s][A
+213it [00:09, 22.94it/s][A
+216it [00:09, 23.58it/s][A
+219it [00:09, 24.07it/s][A
+222it [00:09, 23.53it/s][A
+225it [00:09, 23.40it/s][A
+228it [00:09, 23.97it/s][A
+231it [00:10, 24.69it/s][A
+234it [00:10, 25.11it/s][A
+237it [00:10, 24.51it/s][A
+240it [00:10, 23.13it/s][A
+243it [00:10, 23.25it/s][A
+246it [00:10, 21.40it/s][A
+249it [00:10, 21.63it/s][A
+252it [00:10, 23.21it/s][A
+255it [00:11, 24.17it/s][A
+258it [00:11, 23.20it/s][A
+261it [00:11, 23.67it/s][A
+264it [00:11, 23.67it/s][A
+267it [00:11, 22.74it/s][A
+270it [00:11, 22.68it/s][A
+273it [00:11, 23.42it/s][A
+276it [00:11, 23.35it/s][A
+279it [00:12, 22.61it/s][A
+282it [00:12, 23.34it/s][A
+285it [00:12, 23.98it/s][A
+288it [00:12, 24.53it/s][A
+291it [00:12, 22.81it/s][A
+294it [00:12, 22.78it/s][A
+297it [00:12, 22.71it/s][A
+300it [00:12, 23.55it/s][A300it [00:12, 23.08it/s]
+ 50%|█████     | 2/4 [00:29<00:29, 14.92s/it]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
+INFO - The layer lm_head is not quantized.
+Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q3-GS32-DAF-TSF-RP2/gptq_model-3bit-32g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
+202: ppl=tensor(6.2049, device='cuda:0')
+203: ppl=tensor(5.7575, device='cuda:0')
+204: ppl=tensor(5.5655, device='cuda:0')
+205: ppl=tensor(6.2769, device='cuda:0')
+206: ppl=tensor(6.2530, device='cuda:0')
+207: ppl=tensor(6.3333, device='cuda:0')
+208: ppl=tensor(6.1915, device='cuda:0')
+209: ppl=tensor(5.8541, device='cuda:0')
+210: ppl=tensor(6.7688, device='cuda:0')
+211: ppl=tensor(6.0861, device='cuda:0')
+212: ppl=tensor(6.2809, device='cuda:0')
+213: ppl=tensor(5.4114, device='cuda:0')
+214: ppl=tensor(6.2936, device='cuda:0')
+215: ppl=tensor(6.1225, device='cuda:0')
+216: ppl=tensor(6.7579, device='cuda:0')
+217: ppl=tensor(6.3816, device='cuda:0')
+218: ppl=tensor(6.3444, device='cuda:0')
+219: ppl=tensor(5.7712, device='cuda:0')
+220: ppl=tensor(6.4775, device='cuda:0')
+221: ppl=tensor(6.1263, device='cuda:0')
+222: ppl=tensor(6.0408, device='cuda:0')
+223: ppl=tensor(5.6896, device='cuda:0')
+224: ppl=tensor(5.9140, device='cuda:0')
+225: ppl=tensor(6.2945, device='cuda:0')
+226: ppl=tensor(6.8459, device='cuda:0')
+227: ppl=tensor(7.2177, device='cuda:0')
+228: ppl=tensor(6.0361, device='cuda:0')
+229: ppl=tensor(5.6052, device='cuda:0')
+230: ppl=tensor(5.6287, device='cuda:0')
+231: ppl=tensor(5.8795, device='cuda:0')
+232: ppl=tensor(7.2867, device='cuda:0')
+233: ppl=tensor(6.3436, device='cuda:0')
+234: ppl=tensor(5.9737, device='cuda:0')
+235: ppl=tensor(5.7506, device='cuda:0')
+236: ppl=tensor(6.1363, device='cuda:0')
+237: ppl=tensor(6.0536, device='cuda:0')
+238: ppl=tensor(6.3331, device='cuda:0')
+239: ppl=tensor(8.4352, device='cuda:0')
+240: ppl=tensor(8.2147, device='cuda:0')
+241: ppl=tensor(6.7038, device='cuda:0')
+242: ppl=tensor(6.2943, device='cuda:0')
+243: ppl=tensor(5.9818, device='cuda:0')
+244: ppl=tensor(6.3556, device='cuda:0')
+245: ppl=tensor(5.7071, device='cuda:0')
+246: ppl=tensor(6.0653, device='cuda:0')
+247: ppl=tensor(6.2498, device='cuda:0')
+248: ppl=tensor(6.2863, device='cuda:0')
+249: ppl=tensor(6.6450, device='cuda:0')
+250: ppl=tensor(6.8549, device='cuda:0')
+251: ppl=tensor(7.3767, device='cuda:0')
+252: ppl=tensor(6.2977, device='cuda:0')
+253: ppl=tensor(6.8907, device='cuda:0')
+254: ppl=tensor(7.8184, device='cuda:0')
+255: ppl=tensor(5.7872, device='cuda:0')
+256: ppl=tensor(6.7913, device='cuda:0')
+257: ppl=tensor(6.4407, device='cuda:0')
+258: ppl=tensor(7.2804, device='cuda:0')
+259: ppl=tensor(6.1615, device='cuda:0')
+260: ppl=tensor(5.8584, device='cuda:0')
+261: ppl=tensor(6.4563, device='cuda:0')
+262: ppl=tensor(5.4587, device='cuda:0')
+263: ppl=tensor(6.3245, device='cuda:0')
+264: ppl=tensor(5.4245, device='cuda:0')
+265: ppl=tensor(6.1377, device='cuda:0')
+266: ppl=tensor(6.2658, device='cuda:0')
+267: ppl=tensor(6.5681, device='cuda:0')
+268: ppl=tensor(6.3325, device='cuda:0')
+269: ppl=tensor(6.3485, device='cuda:0')
+270: ppl=tensor(6.3419, device='cuda:0')
+271: ppl=tensor(6.3369, device='cuda:0')
+272: ppl=tensor(7.3512, device='cuda:0')
+273: ppl=tensor(6.8230, device='cuda:0')
+274: ppl=tensor(7.0177, device='cuda:0')
+275: ppl=tensor(6.1025, device='cuda:0')
+276: ppl=tensor(6.2308, device='cuda:0')
+277: ppl=tensor(6.3787, device='cuda:0')
+278: ppl=tensor(6.8302, device='cuda:0')
+279: ppl=tensor(6.2277, device='cuda:0')
+280: ppl=tensor(6.8565, device='cuda:0')
+281: ppl=tensor(6.6278, device='cuda:0')
+282: ppl=tensor(6.5284, device='cuda:0')
+283: ppl=tensor(6.0498, device='cuda:0')
+284: ppl=tensor(6.5118, device='cuda:0')
+285: ppl=tensor(7.5888, device='cuda:0')
+286: ppl=tensor(6.7091, device='cuda:0')
+287: ppl=tensor(6.7031, device='cuda:0')
+288: ppl=tensor(7.4068, device='cuda:0')
+289: ppl=tensor(6.8867, device='cuda:0')
+290: ppl=tensor(6.4809, device='cuda:0')
+291: ppl=tensor(6.3551, device='cuda:0')
+292: ppl=tensor(6.3841, device='cuda:0')
+293: ppl=tensor(6.5851, device='cuda:0')
+294: ppl=tensor(6.4460, device='cuda:0')
+295: ppl=tensor(6.8249, device='cuda:0')
+296: ppl=tensor(7.1214, device='cuda:0')
+297: ppl=tensor(7.6126, device='cuda:0')
+298: ppl=tensor(5.8984, device='cuda:0')
+299: ppl=tensor(6.4833, device='cuda:0')
+
+0it [00:00, ?it/s][A
+1it [00:00,  3.10it/s][A
+2it [00:00,  2.86it/s][A
+3it [00:00,  3.18it/s][A
+4it [00:01,  3.54it/s][A
+5it [00:01,  3.26it/s][A
+6it [00:01,  3.45it/s][A
+7it [00:02,  3.21it/s][A
+8it [00:02,  3.14it/s][A
+9it [00:02,  3.18it/s][A
+10it [00:03,  3.19it/s][A
+11it [00:03,  3.21it/s][A
+12it [00:03,  3.17it/s][A
+13it [00:04,  3.19it/s][A
+14it [00:04,  3.21it/s][A
+15it [00:04,  3.09it/s][A
+16it [00:05,  3.12it/s][A
+17it [00:05,  3.15it/s][A
+18it [00:05,  3.15it/s][A
+19it [00:06,  3.03it/s][A
+20it [00:06,  3.07it/s][A
+21it [00:06,  3.11it/s][A
+22it [00:06,  3.10it/s][A
+23it [00:07,  3.11it/s][A
+24it [00:07,  3.12it/s][A
+25it [00:07,  3.15it/s][A
+26it [00:08,  3.28it/s][A
+27it [00:08,  3.24it/s][A
+28it [00:08,  3.04it/s][A
+29it [00:09,  3.30it/s][A
+30it [00:09,  3.29it/s][A
+31it [00:09,  3.28it/s][A
+32it [00:10,  3.27it/s][A
+33it [00:10,  3.26it/s][A
+34it [00:10,  3.26it/s][A
+35it [00:10,  3.23it/s][A
+36it [00:11,  3.20it/s][A
+37it [00:11,  3.21it/s][A
+38it [00:11,  3.22it/s][A
+39it [00:12,  3.24it/s][A
+40it [00:12,  3.25it/s][A
+41it [00:12,  3.21it/s][A
+42it [00:13,  3.07it/s][A
+43it [00:13,  3.04it/s][A
+44it [00:13,  3.52it/s][A
+45it [00:14,  3.42it/s][A
+46it [00:14,  3.36it/s][A
+47it [00:14,  3.33it/s][A
+48it [00:14,  3.90it/s][A
+49it [00:14,  4.23it/s][A
+50it [00:15,  3.60it/s][A
+51it [00:15,  3.22it/s][A
+52it [00:16,  3.20it/s][A
+53it [00:16,  3.03it/s][A
+54it [00:16,  3.09it/s][A
+55it [00:17,  3.27it/s][A
+56it [00:17,  3.23it/s][A
+57it [00:17,  3.21it/s][A
+58it [00:17,  3.22it/s][A
+59it [00:18,  3.23it/s][A
+60it [00:18,  3.21it/s][A
+61it [00:18,  3.23it/s][A
+62it [00:19,  3.24it/s][A
+63it [00:19,  3.24it/s][A
+64it [00:19,  3.25it/s][A
+65it [00:20,  3.24it/s][A
+66it [00:20,  3.25it/s][A
+67it [00:20,  3.21it/s][A
+68it [00:21,  3.20it/s][A
+69it [00:21,  3.21it/s][A
+70it [00:21,  3.23it/s][A
+71it [00:21,  3.25it/s][A
+72it [00:22,  3.25it/s][A
+73it [00:22,  3.22it/s][A
+74it [00:22,  3.24it/s][A
+75it [00:23,  3.21it/s][A
+76it [00:23,  3.17it/s][A
+77it [00:23,  3.19it/s][A
+78it [00:24,  3.21it/s][A
+79it [00:24,  3.23it/s][A
+80it [00:24,  3.24it/s][A
+81it [00:25,  3.22it/s][A
+82it [00:25,  3.23it/s][A
+83it [00:25,  3.14it/s][A
+84it [00:26,  3.27it/s][A
+85it [00:26,  3.26it/s][A
+86it [00:26,  3.24it/s][A
+87it [00:26,  3.25it/s][A
+88it [00:27,  3.22it/s][A
+89it [00:27,  3.22it/s][A
+90it [00:27,  3.23it/s][A
+91it [00:28,  3.24it/s][A
+92it [00:28,  3.25it/s][A
+93it [00:28,  3.22it/s][A
+94it [00:29,  3.22it/s][A
+95it [00:29,  3.23it/s][A
+96it [00:29,  3.24it/s][A
+97it [00:30,  3.25it/s][A
+98it [00:30,  3.04it/s][A
+99it [00:30,  3.10it/s][A
+100it [00:31,  3.11it/s][A
+101it [00:31,  3.12it/s][A
+102it [00:31,  3.13it/s][A
+103it [00:31,  3.17it/s][A
+104it [00:32,  3.18it/s][A
+105it [00:32,  3.14it/s][A
+106it [00:32,  3.17it/s][A
+107it [00:33,  3.19it/s][A
+108it [00:33,  3.21it/s][A
+109it [00:33,  3.23it/s][A
+110it [00:34,  3.24it/s][A
+111it [00:34,  3.24it/s][A
+112it [00:34,  3.17it/s][A
+113it [00:35,  3.01it/s][A
+114it [00:35,  3.05it/s][A
+115it [00:35,  2.97it/s][A
+116it [00:36,  3.02it/s][A
+117it [00:36,  3.07it/s][A
+118it [00:36,  3.13it/s][A
+119it [00:37,  3.17it/s][A
+120it [00:37,  3.20it/s][A
+121it [00:37,  3.04it/s][A
+122it [00:38,  3.10it/s][A
+123it [00:38,  3.14it/s][A
+124it [00:38,  3.14it/s][A
+125it [00:39,  3.02it/s][A
+126it [00:39,  3.08it/s][A
+127it [00:39,  3.10it/s][A
+128it [00:39,  3.15it/s][A
+129it [00:40,  3.18it/s][A
+130it [00:40,  3.21it/s][A
+131it [00:40,  3.19it/s][A
+132it [00:41,  3.23it/s][A
+133it [00:41,  3.45it/s][A
+134it [00:41,  3.33it/s][A
+135it [00:42,  3.29it/s][A
+136it [00:42,  3.29it/s][A
+137it [00:42,  3.27it/s][A
+138it [00:42,  3.46it/s][A
+139it [00:43,  3.40it/s][A
+140it [00:43,  4.20it/s][A
+141it [00:43,  3.82it/s][A
+142it [00:43,  4.12it/s][A
+143it [00:44,  3.77it/s][A
+144it [00:44,  3.59it/s][A
+145it [00:44,  3.48it/s][A
+146it [00:45,  3.41it/s][A
+147it [00:45,  3.33it/s][A
+148it [00:45,  3.31it/s][A
+149it [00:46,  3.29it/s][A
+150it [00:46,  3.27it/s][A
+151it [00:46,  3.26it/s][A
+152it [00:46,  3.23it/s][A
+153it [00:47,  3.22it/s][A
+154it [00:47,  3.23it/s][A
+155it [00:47,  3.21it/s][A
+156it [00:48,  3.20it/s][A
+157it [00:48,  3.21it/s][A
+158it [00:48,  3.21it/s][A
+159it [00:49,  3.20it/s][A
+160it [00:49,  3.20it/s][A
+161it [00:49,  3.16it/s][A
+162it [00:50,  3.19it/s][A
+163it [00:50,  3.21it/s][A
+164it [00:50,  3.23it/s][A
+165it [00:51,  3.24it/s][A
+166it [00:51,  3.24it/s][A
+167it [00:51,  3.21it/s][A
+168it [00:51,  3.64it/s][A
+169it [00:52,  3.48it/s][A
+170it [00:52,  3.40it/s][A
+171it [00:52,  3.32it/s][A
+172it [00:53,  3.52it/s][A
+173it [00:53,  3.79it/s][A
+174it [00:53,  3.58it/s][A
+175it [00:53,  3.35it/s][A
+176it [00:54,  3.30it/s][A
+177it [00:54,  3.28it/s][A
+178it [00:54,  3.28it/s][A
+179it [00:55,  3.26it/s][A
+180it [00:55,  3.11it/s][A
+181it [00:55,  3.12it/s][A
+182it [00:56,  3.15it/s][A
+183it [00:56,  3.18it/s][A
+184it [00:56,  3.19it/s][A
+185it [00:57,  3.17it/s][A
+186it [00:57,  3.20it/s][A
+187it [00:57,  3.21it/s][A
+188it [00:58,  3.19it/s][A
+189it [00:58,  3.20it/s][A
+190it [00:58,  3.19it/s][A
+191it [00:58,  3.20it/s][A
+192it [00:59,  3.19it/s][A
+193it [00:59,  3.20it/s][A
+194it [00:59,  3.22it/s][A
+195it [01:00,  3.23it/s][A
+196it [01:00,  3.23it/s][A
+197it [01:00,  3.23it/s][A
+198it [01:01,  3.17it/s][A
+199it [01:01,  3.17it/s][A
+200it [01:01,  3.18it/s][A
+201it [01:02,  3.18it/s][A
+202it [01:02,  3.20it/s][A0: ppl=tensor(4.4248, device='cuda:0')
+1: ppl=tensor(5.0186, device='cuda:0')
+2: ppl=tensor(3.6662, device='cuda:0')
+3: ppl=tensor(4.0375, device='cuda:0')
+4: ppl=tensor(3.9477, device='cuda:0')
+5: ppl=tensor(3.6224, device='cuda:0')
+6: ppl=tensor(5.7388, device='cuda:0')
+7: ppl=tensor(3.9426, device='cuda:0')
+8: ppl=tensor(4.8262, device='cuda:0')
+9: ppl=tensor(3.4094, device='cuda:0')
+10: ppl=tensor(4.0433, device='cuda:0')
+11: ppl=tensor(3.8885, device='cuda:0')
+12: ppl=tensor(4.2043, device='cuda:0')
+13: ppl=tensor(4.4561, device='cuda:0')
+14: ppl=tensor(4.4220, device='cuda:0')
+15: ppl=tensor(3.8166, device='cuda:0')
+16: ppl=tensor(4.8297, device='cuda:0')
+17: ppl=tensor(4.4288, device='cuda:0')
+18: ppl=tensor(7.2383, device='cuda:0')
+19: ppl=tensor(3.6915, device='cuda:0')
+20: ppl=tensor(4.6438, device='cuda:0')
+21: ppl=tensor(4.0736, device='cuda:0')
+22: ppl=tensor(4.2077, device='cuda:0')
+23: ppl=tensor(3.3974, device='cuda:0')
+24: ppl=tensor(4.0667, device='cuda:0')
+25: ppl=tensor(5.5337, device='cuda:0')
+26: ppl=tensor(5.3516, device='cuda:0')
+27: ppl=tensor(4.1916, device='cuda:0')
+28: ppl=tensor(4.4515, device='cuda:0')
+29: ppl=tensor(4.9550, device='cuda:0')
+30: ppl=tensor(4.3075, device='cuda:0')
+31: ppl=tensor(7.2669, device='cuda:0')
+32: ppl=tensor(4.6829, device='cuda:0')
+33: ppl=tensor(4.3960, device='cuda:0')
+34: ppl=tensor(4.7012, device='cuda:0')
+35: ppl=tensor(4.4705, device='cuda:0')
+36: ppl=tensor(4.6510, device='cuda:0')
+37: ppl=tensor(4.3401, device='cuda:0')
+38: ppl=tensor(4.5853, device='cuda:0')
+39: ppl=tensor(5.2437, device='cuda:0')
+40: ppl=tensor(4.6207, device='cuda:0')
+41: ppl=tensor(4.7232, device='cuda:0')
+42: ppl=tensor(4.9120, device='cuda:0')
+43: ppl=tensor(4.7799, device='cuda:0')
+44: ppl=tensor(4.9794, device='cuda:0')
+45: ppl=tensor(4.3596, device='cuda:0')
+46: ppl=tensor(4.1886, device='cuda:0')
+47: ppl=tensor(8.8867, device='cuda:0')
+48: ppl=tensor(4.3959, device='cuda:0')
+49: ppl=tensor(5.3422, device='cuda:0')
+50: ppl=tensor(4.6535, device='cuda:0')
+51: ppl=tensor(4.7744, device='cuda:0')
+52: ppl=tensor(5.7078, device='cuda:0')
+53: ppl=tensor(4.6996, device='cuda:0')
+54: ppl=tensor(3.9799, device='cuda:0')
+55: ppl=tensor(4.5722, device='cuda:0')
+56: ppl=tensor(5.1277, device='cuda:0')
+57: ppl=tensor(4.9260, device='cuda:0')
+58: ppl=tensor(5.2744, device='cuda:0')
+59: ppl=tensor(4.9336, device='cuda:0')
+60: ppl=tensor(5.2053, device='cuda:0')
+61: ppl=tensor(5.3645, device='cuda:0')
+62: ppl=tensor(4.8708, device='cuda:0')
+63: ppl=tensor(6.0246, device='cuda:0')
+64: ppl=tensor(5.9525, device='cuda:0')
+65: ppl=tensor(4.7944, device='cuda:0')
+66: ppl=tensor(4.8655, device='cuda:0')
+67: ppl=tensor(4.5966, device='cuda:0')
+68: ppl=tensor(5.0410, device='cuda:0')
+69: ppl=tensor(5.3018, device='cuda:0')
+70: ppl=tensor(5.7918, device='cuda:0')
+71: ppl=tensor(4.4799, device='cuda:0')
+72: ppl=tensor(4.6306, device='cuda:0')
+73: ppl=tensor(5.2483, device='cuda:0')
+74: ppl=tensor(4.6942, device='cuda:0')
+75: ppl=tensor(4.6302, device='cuda:0')
+76: ppl=tensor(5.6092, device='cuda:0')
+77: ppl=tensor(4.6935, device='cuda:0')
+78: ppl=tensor(5.9208, device='cuda:0')
+79: ppl=tensor(5.4199, device='cuda:0')
+80: ppl=tensor(4.8887, device='cuda:0')
+81: ppl=tensor(5.3289, device='cuda:0')
+82: ppl=tensor(4.9192, device='cuda:0')
+83: ppl=tensor(5.1721, device='cuda:0')
+84: ppl=tensor(5.1355, device='cuda:0')
+85: ppl=tensor(4.8520, device='cuda:0')
+86: ppl=tensor(4.7939, device='cuda:0')
+87: ppl=tensor(4.5111, device='cuda:0')
+88: ppl=tensor(5.3295, device='cuda:0')
+89: ppl=tensor(5.2363, device='cuda:0')
+90: ppl=tensor(5.0954, device='cuda:0')
+91: ppl=tensor(4.6668, device='cuda:0')
+92: ppl=tensor(5.7811, device='cuda:0')
+93: ppl=tensor(4.9394, device='cuda:0')
+94: ppl=tensor(4.8258, device='cuda:0')
+95: ppl=tensor(5.4703, device='cuda:0')
+96: ppl=tensor(5.5949, device='cuda:0')
+97: ppl=tensor(4.6571, device='cuda:0')
+98: ppl=tensor(5.3571, device='cuda:0')
+99: ppl=tensor(5.1991, device='cuda:0')
+100: ppl=tensor(5.3433, device='cuda:0')
+101: ppl=tensor(5.6086, device='cuda:0')
+102: ppl=tensor(5.3978, device='cuda:0')
+103: ppl=tensor(5.5333, device='cuda:0')
+104: ppl=tensor(5.0694, device='cuda:0')
+105: ppl=tensor(5.7931, device='cuda:0')
+106: ppl=tensor(5.4135, device='cuda:0')
+107: ppl=tensor(5.7584, device='cuda:0')
+108: ppl=tensor(5.6983, device='cuda:0')
+109: ppl=tensor(5.0228, device='cuda:0')
+110: ppl=tensor(5.5507, device='cuda:0')
+111: ppl=tensor(5.6005, device='cuda:0')
+112: ppl=tensor(4.7631, device='cuda:0')
+113: ppl=tensor(5.0209, device='cuda:0')
+114: ppl=tensor(5.6203, device='cuda:0')
+115: ppl=tensor(5.4986, device='cuda:0')
+116: ppl=tensor(6.0165, device='cuda:0')
+117: ppl=tensor(5.6367, device='cuda:0')
+118: ppl=tensor(5.4979, device='cuda:0')
+119: ppl=tensor(5.4738, device='cuda:0')
+120: ppl=tensor(6.0978, device='cuda:0')
+121: ppl=tensor(5.1195, device='cuda:0')
+122: ppl=tensor(5.5213, device='cuda:0')
+123: ppl=tensor(6.3860, device='cuda:0')
+124: ppl=tensor(5.5899, device='cuda:0')
+125: ppl=tensor(5.4719, device='cuda:0')
+126: ppl=tensor(6.3967, device='cuda:0')
+127: ppl=tensor(5.5591, device='cuda:0')
+128: ppl=tensor(5.5984, device='cuda:0')
+129: ppl=tensor(5.5669, device='cuda:0')
+130: ppl=tensor(5.7147, device='cuda:0')
+131: ppl=tensor(5.5643, device='cuda:0')
+132: ppl=tensor(5.8525, device='cuda:0')
+133: ppl=tensor(6.0964, device='cuda:0')
+134: ppl=tensor(5.9872, device='cuda:0')
+135: ppl=tensor(5.9005, device='cuda:0')
+136: ppl=tensor(5.5106, device='cuda:0')
+137: ppl=tensor(6.6501, device='cuda:0')
+138: ppl=tensor(5.0999, device='cuda:0')
+139: ppl=tensor(8.3652, device='cuda:0')
+140: ppl=tensor(5.4244, device='cuda:0')
+141: ppl=tensor(8.0190, device='cuda:0')
+142: ppl=tensor(5.5791, device='cuda:0')
+143: ppl=tensor(5.0262, device='cuda:0')
+144: ppl=tensor(5.9602, device='cuda:0')
+145: ppl=tensor(6.1539, device='cuda:0')
+146: ppl=tensor(5.8903, device='cuda:0')
+147: ppl=tensor(5.0900, device='cuda:0')
+148: ppl=tensor(7.1357, device='cuda:0')
+149: ppl=tensor(5.3891, device='cuda:0')
+150: ppl=tensor(5.6325, device='cuda:0')
+151: ppl=tensor(5.6222, device='cuda:0')
+152: ppl=tensor(6.6732, device='cuda:0')
+153: ppl=tensor(6.8351, device='cuda:0')
+154: ppl=tensor(5.8559, device='cuda:0')
+155: ppl=tensor(5.7304, device='cuda:0')
+156: ppl=tensor(5.4241, device='cuda:0')
+157: ppl=tensor(5.9437, device='cuda:0')
+158: ppl=tensor(6.3148, device='cuda:0')
+159: ppl=tensor(5.5745, device='cuda:0')
+160: ppl=tensor(5.3242, device='cuda:0')
+161: ppl=tensor(10.4205, device='cuda:0')
+162: ppl=tensor(5.8370, device='cuda:0')
+163: ppl=tensor(7.5416, device='cuda:0')
+164: ppl=tensor(5.9255, device='cuda:0')
+165: ppl=tensor(6.6524, device='cuda:0')
+166: ppl=tensor(5.9896, device='cuda:0')
+167: ppl=tensor(6.7368, device='cuda:0')
+168: ppl=tensor(6.8609, device='cuda:0')
+169: ppl=tensor(5.9432, device='cuda:0')
+170: ppl=tensor(6.1050, device='cuda:0')
+171: ppl=tensor(5.9627, device='cuda:0')
+172: ppl=tensor(6.7659, device='cuda:0')
+173: ppl=tensor(6.1604, device='cuda:0')
+174: ppl=tensor(5.1171, device='cuda:0')
+175: ppl=tensor(6.2358, device='cuda:0')
+176: ppl=tensor(6.2359, device='cuda:0')
+177: ppl=tensor(6.3988, device='cuda:0')
+178: ppl=tensor(5.8936, device='cuda:0')
+179: ppl=tensor(6.0575, device='cuda:0')
+180: ppl=tensor(6.2780, device='cuda:0')
+181: ppl=tensor(7.4194, device='cuda:0')
+182: ppl=tensor(6.4313, device='cuda:0')
+183: ppl=tensor(6.1972, device='cuda:0')
+184: ppl=tensor(6.2889, device='cuda:0')
+185: ppl=tensor(7.4350, device='cuda:0')
+186: ppl=tensor(6.4134, device='cuda:0')
+187: ppl=tensor(7.7823, device='cuda:0')
+188: ppl=tensor(5.8847, device='cuda:0')
+189: ppl=tensor(6.9731, device='cuda:0')
+190: ppl=tensor(5.4900, device='cuda:0')
+191: ppl=tensor(6.1930, device='cuda:0')
+192: ppl=tensor(5.9696, device='cuda:0')
+193: ppl=tensor(6.7771, device='cuda:0')
+194: ppl=tensor(5.7878, device='cuda:0')
+195: ppl=tensor(6.6638, device='cuda:0')
+196: ppl=tensor(6.9727, device='cuda:0')
+197: ppl=tensor(6.0035, device='cuda:0')
+198: ppl=tensor(6.0231, device='cuda:0')
+199: ppl=tensor(6.3388, device='cuda:0')
+200: ppl=tensor(5.9082, device='cuda:0')
+201: ppl=tensor(5.6286, device='cuda:0')
+
+203it [01:02,  3.20it/s][A
+204it [01:03,  3.19it/s][A
+205it [01:03,  3.21it/s][A
+206it [01:03,  3.22it/s][A
+207it [01:03,  3.24it/s][A
+208it [01:04,  3.24it/s][A
+209it [01:04,  3.25it/s][A
+210it [01:04,  3.24it/s][A
+211it [01:05,  3.24it/s][A
+212it [01:05,  3.21it/s][A
+213it [01:05,  3.45it/s][A
+214it [01:06,  3.24it/s][A
+215it [01:06,  3.24it/s][A
+216it [01:06,  3.24it/s][A
+217it [01:07,  3.24it/s][A
+218it [01:07,  3.48it/s][A
+219it [01:07,  3.40it/s][A
+220it [01:07,  3.31it/s][A
+221it [01:08,  3.30it/s][A
+222it [01:08,  3.29it/s][A
+223it [01:08,  3.27it/s][A
+224it [01:09,  3.25it/s][A
+225it [01:09,  3.24it/s][A
+226it [01:09,  3.23it/s][A
+227it [01:09,  3.44it/s][A
+228it [01:10,  4.16it/s][A
+229it [01:10,  3.84it/s][A
+230it [01:10,  3.47it/s][A
+231it [01:11,  3.35it/s][A
+232it [01:11,  3.41it/s][A
+233it [01:11,  3.17it/s][A
+234it [01:12,  3.18it/s][A
+235it [01:12,  3.19it/s][A
+236it [01:12,  3.20it/s][A
+237it [01:12,  3.19it/s][A
+238it [01:13,  3.15it/s][A
+239it [01:13,  3.16it/s][A
+240it [01:13,  3.50it/s][A
+241it [01:14,  3.41it/s][A
+242it [01:14,  3.35it/s][A
+243it [01:14,  3.32it/s][A
+244it [01:15,  3.28it/s][A
+245it [01:15,  3.21it/s][A
+246it [01:15,  3.17it/s][A
+247it [01:16,  3.16it/s][A
+248it [01:16,  3.19it/s][A
+249it [01:16,  3.20it/s][A
+250it [01:16,  3.17it/s][A
+251it [01:17,  3.43it/s][A
+252it [01:17,  3.40it/s][A
+253it [01:17,  3.28it/s][A
+254it [01:18,  3.27it/s][A
+255it [01:18,  3.30it/s][A
+256it [01:18,  3.26it/s][A
+257it [01:19,  3.22it/s][A
+258it [01:19,  3.23it/s][A
+259it [01:19,  3.28it/s][A
+260it [01:20,  3.26it/s][A
+261it [01:20,  3.26it/s][A
+262it [01:20,  3.26it/s][A
+263it [01:20,  3.25it/s][A
+264it [01:21,  3.24it/s][A
+265it [01:21,  3.21it/s][A
+266it [01:21,  3.22it/s][A
+267it [01:22,  3.20it/s][A
+268it [01:22,  3.19it/s][A
+269it [01:22,  3.20it/s][A
+270it [01:23,  3.22it/s][A
+271it [01:23,  3.23it/s][A
+272it [01:23,  3.23it/s][A
+273it [01:24,  3.36it/s][A
+274it [01:24,  3.33it/s][A
+275it [01:24,  3.29it/s][A
+276it [01:24,  3.27it/s][A
+277it [01:25,  3.26it/s][A
+278it [01:25,  3.23it/s][A
+279it [01:25,  3.21it/s][A
+280it [01:26,  3.22it/s][A
+281it [01:26,  3.33it/s][A
+282it [01:26,  3.31it/s][A
+283it [01:27,  3.29it/s][A
+284it [01:27,  3.37it/s][A
+285it [01:27,  3.33it/s][A
+286it [01:27,  3.30it/s][A
+287it [01:28,  3.74it/s][A
+288it [01:28,  3.58it/s][A
+289it [01:28,  3.48it/s][A
+290it [01:29,  3.40it/s][A
+291it [01:29,  3.26it/s][A
+292it [01:29,  3.25it/s][A
+293it [01:30,  3.24it/s][A
+294it [01:30,  3.24it/s][A
+295it [01:30,  3.24it/s][A
+296it [01:30,  3.24it/s][A
+297it [01:31,  3.22it/s][A
+298it [01:31,  3.22it/s][A
+299it [01:31,  3.16it/s][A
+300it [01:32,  2.96it/s][A300it [01:32,  3.25it/s]
+ 75%|███████▌  | 3/4 [02:03<00:50, 50.94s/it]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
+INFO - The layer lm_head is not quantized.
+Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q2-GS16-DAF-TSF-RP2/gptq_model-2bit-16g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
+202: ppl=tensor(6.9525, device='cuda:0')
+203: ppl=tensor(6.8144, device='cuda:0')
+204: ppl=tensor(6.1241, device='cuda:0')
+205: ppl=tensor(6.5543, device='cuda:0')
+206: ppl=tensor(6.5889, device='cuda:0')
+207: ppl=tensor(6.6926, device='cuda:0')
+208: ppl=tensor(7.1078, device='cuda:0')
+209: ppl=tensor(6.4864, device='cuda:0')
+210: ppl=tensor(7.4550, device='cuda:0')
+211: ppl=tensor(6.4900, device='cuda:0')
+212: ppl=tensor(6.6321, device='cuda:0')
+213: ppl=tensor(6.1189, device='cuda:0')
+214: ppl=tensor(7.1516, device='cuda:0')
+215: ppl=tensor(6.9916, device='cuda:0')
+216: ppl=tensor(8.7493, device='cuda:0')
+217: ppl=tensor(6.1754, device='cuda:0')
+218: ppl=tensor(6.2146, device='cuda:0')
+219: ppl=tensor(6.7684, device='cuda:0')
+220: ppl=tensor(6.7838, device='cuda:0')
+221: ppl=tensor(7.1947, device='cuda:0')
+222: ppl=tensor(6.4676, device='cuda:0')
+223: ppl=tensor(5.4993, device='cuda:0')
+224: ppl=tensor(6.1946, device='cuda:0')
+225: ppl=tensor(7.2334, device='cuda:0')
+226: ppl=tensor(6.9755, device='cuda:0')
+227: ppl=tensor(9.8765, device='cuda:0')
+228: ppl=tensor(6.1985, device='cuda:0')
+229: ppl=tensor(6.2100, device='cuda:0')
+230: ppl=tensor(6.3564, device='cuda:0')
+231: ppl=tensor(6.4820, device='cuda:0')
+232: ppl=tensor(10.2655, device='cuda:0')
+233: ppl=tensor(7.4907, device='cuda:0')
+234: ppl=tensor(6.0969, device='cuda:0')
+235: ppl=tensor(5.8720, device='cuda:0')
+236: ppl=tensor(6.3026, device='cuda:0')
+237: ppl=tensor(6.3733, device='cuda:0')
+238: ppl=tensor(7.0705, device='cuda:0')
+239: ppl=tensor(8.8423, device='cuda:0')
+240: ppl=tensor(6.6459, device='cuda:0')
+241: ppl=tensor(7.9613, device='cuda:0')
+242: ppl=tensor(6.5360, device='cuda:0')
+243: ppl=tensor(6.4217, device='cuda:0')
+244: ppl=tensor(6.6923, device='cuda:0')
+245: ppl=tensor(6.6862, device='cuda:0')
+246: ppl=tensor(7.0313, device='cuda:0')
+247: ppl=tensor(6.8314, device='cuda:0')
+248: ppl=tensor(7.7366, device='cuda:0')
+249: ppl=tensor(6.9435, device='cuda:0')
+250: ppl=tensor(7.2059, device='cuda:0')
+251: ppl=tensor(8.2362, device='cuda:0')
+252: ppl=tensor(8.1330, device='cuda:0')
+253: ppl=tensor(7.6129, device='cuda:0')
+254: ppl=tensor(8.8725, device='cuda:0')
+255: ppl=tensor(6.5960, device='cuda:0')
+256: ppl=tensor(6.8935, device='cuda:0')
+257: ppl=tensor(7.4351, device='cuda:0')
+258: ppl=tensor(7.0504, device='cuda:0')
+259: ppl=tensor(8.0221, device='cuda:0')
+260: ppl=tensor(5.9009, device='cuda:0')
+261: ppl=tensor(8.4349, device='cuda:0')
+262: ppl=tensor(7.2549, device='cuda:0')
+263: ppl=tensor(6.7959, device='cuda:0')
+264: ppl=tensor(6.0791, device='cuda:0')
+265: ppl=tensor(6.5730, device='cuda:0')
+266: ppl=tensor(7.0438, device='cuda:0')
+267: ppl=tensor(6.6784, device='cuda:0')
+268: ppl=tensor(6.6751, device='cuda:0')
+269: ppl=tensor(6.5100, device='cuda:0')
+270: ppl=tensor(6.8672, device='cuda:0')
+271: ppl=tensor(6.9956, device='cuda:0')
+272: ppl=tensor(9.0684, device='cuda:0')
+273: ppl=tensor(8.4733, device='cuda:0')
+274: ppl=tensor(7.3157, device='cuda:0')
+275: ppl=tensor(6.7416, device='cuda:0')
+276: ppl=tensor(7.0109, device='cuda:0')
+277: ppl=tensor(7.1639, device='cuda:0')
+278: ppl=tensor(7.6656, device='cuda:0')
+279: ppl=tensor(7.0961, device='cuda:0')
+280: ppl=tensor(8.1371, device='cuda:0')
+281: ppl=tensor(6.7531, device='cuda:0')
+282: ppl=tensor(6.5885, device='cuda:0')
+283: ppl=tensor(6.5477, device='cuda:0')
+284: ppl=tensor(7.8949, device='cuda:0')
+285: ppl=tensor(8.9155, device='cuda:0')
+286: ppl=tensor(6.7544, device='cuda:0')
+287: ppl=tensor(7.1529, device='cuda:0')
+288: ppl=tensor(8.5840, device='cuda:0')
+289: ppl=tensor(7.6010, device='cuda:0')
+290: ppl=tensor(6.7998, device='cuda:0')
+291: ppl=tensor(6.6441, device='cuda:0')
+292: ppl=tensor(7.9198, device='cuda:0')
+293: ppl=tensor(7.5595, device='cuda:0')
+294: ppl=tensor(6.5660, device='cuda:0')
+295: ppl=tensor(7.6274, device='cuda:0')
+296: ppl=tensor(7.4791, device='cuda:0')
+297: ppl=tensor(7.3990, device='cuda:0')
+298: ppl=tensor(8.0815, device='cuda:0')
+299: ppl=tensor(6.8943, device='cuda:0')
+
+0it [00:00, ?it/s][A
+1it [00:00,  3.34it/s][A
+2it [00:00,  4.20it/s][A
+3it [00:00,  4.08it/s][A
+4it [00:00,  4.28it/s][A
+5it [00:01,  3.76it/s][A
+6it [00:01,  3.89it/s][A
+7it [00:01,  3.57it/s][A
+8it [00:02,  3.92it/s][A
+9it [00:02,  4.36it/s][A
+10it [00:02,  4.70it/s][A
+11it [00:02,  4.99it/s][A
+12it [00:02,  5.04it/s][A
+13it [00:02,  5.24it/s][A
+14it [00:03,  5.39it/s][A
+15it [00:03,  4.39it/s][A
+16it [00:03,  4.69it/s][A
+17it [00:03,  4.97it/s][A
+18it [00:03,  5.09it/s][A
+19it [00:04,  4.23it/s][A
+20it [00:04,  4.52it/s][A
+21it [00:04,  4.80it/s][A
+22it [00:04,  4.91it/s][A
+23it [00:05,  5.02it/s][A
+24it [00:05,  5.15it/s][A
+25it [00:05,  5.29it/s][A
+26it [00:05,  4.80it/s][A
+27it [00:05,  4.96it/s][A
+28it [00:06,  4.07it/s][A
+29it [00:06,  4.18it/s][A
+30it [00:06,  4.55it/s][A
+31it [00:06,  4.86it/s][A
+32it [00:06,  5.11it/s][A
+33it [00:07,  5.30it/s][A
+34it [00:07,  5.43it/s][A
+35it [00:07,  5.46it/s][A
+36it [00:07,  5.46it/s][A
+37it [00:07,  5.52it/s][A
+38it [00:08,  5.59it/s][A
+39it [00:08,  5.66it/s][A
+40it [00:08,  5.70it/s][A
+41it [00:08,  5.61it/s][A
+42it [00:08,  4.45it/s][A
+43it [00:09,  3.97it/s][A
+44it [00:09,  4.42it/s][A
+45it [00:09,  4.71it/s][A
+46it [00:09,  4.96it/s][A
+47it [00:09,  5.18it/s][A
+48it [00:10,  5.59it/s][A
+49it [00:10,  5.62it/s][A
+50it [00:10,  4.38it/s][A
+51it [00:10,  3.74it/s][A
+52it [00:11,  4.11it/s][A
+53it [00:11,  3.66it/s][A
+54it [00:11,  4.10it/s][A
+55it [00:11,  4.09it/s][A
+56it [00:12,  4.40it/s][A
+57it [00:12,  4.68it/s][A
+58it [00:12,  4.97it/s][A
+59it [00:12,  5.16it/s][A
+60it [00:12,  5.26it/s][A
+61it [00:12,  5.42it/s][A
+62it [00:13,  5.51it/s][A
+63it [00:13,  5.60it/s][A
+64it [00:13,  5.64it/s][A
+65it [00:13,  5.66it/s][A
+66it [00:13,  5.71it/s][A
+67it [00:13,  5.63it/s][A
+68it [00:14,  5.58it/s][A
+69it [00:14,  5.64it/s][A
+70it [00:14,  5.68it/s][A
+71it [00:14,  5.76it/s][A
+72it [00:14,  5.74it/s][A
+73it [00:15,  5.66it/s][A
+74it [00:15,  5.67it/s][A
+75it [00:15,  5.61it/s][A
+76it [00:15,  5.49it/s][A
+77it [00:15,  5.54it/s][A
+78it [00:15,  5.62it/s][A
+79it [00:16,  5.68it/s][A
+80it [00:16,  5.71it/s][A
+81it [00:16,  5.64it/s][A
+82it [00:16,  5.68it/s][A
+83it [00:16,  4.57it/s][A
+84it [00:17,  4.35it/s][A
+85it [00:17,  4.66it/s][A
+86it [00:17,  4.92it/s][A
+87it [00:17,  5.16it/s][A
+88it [00:17,  5.26it/s][A
+89it [00:18,  5.37it/s][A
+90it [00:18,  5.48it/s][A
+91it [00:18,  5.57it/s][A
+92it [00:18,  5.64it/s][A
+93it [00:18,  5.59it/s][A
+94it [00:18,  5.62it/s][A
+95it [00:19,  5.67it/s][A
+96it [00:19,  5.70it/s][A
+97it [00:19,  5.73it/s][A
+98it [00:19,  4.39it/s][A
+99it [00:20,  4.70it/s][A
+100it [00:20,  4.90it/s][A
+101it [00:20,  5.02it/s][A
+102it [00:20,  5.15it/s][A
+103it [00:20,  5.33it/s][A
+104it [00:20,  5.42it/s][A
+105it [00:21,  5.33it/s][A
+106it [00:21,  5.42it/s][A
+107it [00:21,  5.53it/s][A
+108it [00:21,  5.60it/s][A
+109it [00:21,  5.65it/s][A
+110it [00:21,  5.70it/s][A
+111it [00:22,  5.73it/s][A
+112it [00:22,  4.65it/s][A
+113it [00:22,  3.96it/s][A
+114it [00:22,  4.29it/s][A
+115it [00:23,  3.81it/s][A
+116it [00:23,  4.16it/s][A
+117it [00:23,  4.52it/s][A
+118it [00:23,  4.84it/s][A
+119it [00:24,  5.09it/s][A
+120it [00:24,  4.51it/s][A
+121it [00:24,  3.89it/s][A
+122it [00:24,  4.29it/s][A
+123it [00:25,  4.63it/s][A
+124it [00:25,  4.85it/s][A
+125it [00:25,  4.10it/s][A
+126it [00:25,  4.44it/s][A
+127it [00:25,  4.71it/s][A
+128it [00:26,  4.99it/s][A
+129it [00:26,  5.21it/s][A
+130it [00:26,  5.37it/s][A
+131it [00:26,  5.39it/s][A
+132it [00:26,  5.54it/s][A
+133it [00:26,  5.19it/s][A
+134it [00:27,  5.18it/s][A
+135it [00:27,  5.31it/s][A
+136it [00:27,  5.46it/s][A
+137it [00:27,  5.52it/s][A
+138it [00:27,  5.09it/s][A
+139it [00:28,  5.26it/s][A
+141it [00:28,  5.96it/s][A
+142it [00:28,  5.82it/s][A
+143it [00:28,  5.70it/s][A
+144it [00:28,  5.70it/s][A
+145it [00:29,  5.72it/s][A
+146it [00:29,  5.74it/s][A
+147it [00:29,  5.67it/s][A
+148it [00:29,  5.70it/s][A
+149it [00:29,  5.72it/s][A
+150it [00:29,  5.70it/s][A
+151it [00:30,  5.73it/s][A
+152it [00:30,  5.65it/s][A
+153it [00:30,  5.64it/s][A
+154it [00:30,  5.69it/s][A
+155it [00:30,  5.59it/s][A
+156it [00:31,  5.56it/s][A
+157it [00:31,  5.62it/s][A
+158it [00:31,  5.64it/s][A
+159it [00:31,  5.59it/s][A
+160it [00:31,  5.61it/s][A
+161it [00:31,  5.48it/s][A
+162it [00:32,  5.58it/s][A
+163it [00:32,  5.64it/s][A
+164it [00:32,  5.69it/s][A
+165it [00:32,  5.71it/s][A
+166it [00:32,  5.74it/s][A
+167it [00:33,  5.65it/s][A
+168it [00:33,  5.68it/s][A
+169it [00:33,  5.60it/s][A
+170it [00:33,  5.62it/s][A
+171it [00:33,  5.58it/s][A
+172it [00:33,  5.14it/s][A
+173it [00:34,  5.08it/s][A
+174it [00:34,  5.17it/s][A
+175it [00:34,  4.34it/s][A
+176it [00:34,  4.64it/s][A
+177it [00:35,  4.91it/s][A
+178it [00:35,  5.15it/s][A
+179it [00:35,  5.29it/s][A
+180it [00:35,  4.32it/s][A
+181it [00:35,  4.57it/s][A
+182it [00:36,  4.86it/s][A
+183it [00:36,  5.10it/s][A
+184it [00:36,  5.26it/s][A
+185it [00:36,  5.32it/s][A
+186it [00:36,  5.46it/s][A
+187it [00:36,  5.51it/s][A
+188it [00:37,  5.50it/s][A
+189it [00:37,  5.54it/s][A
+190it [00:37,  5.52it/s][A
+191it [00:37,  5.56it/s][A
+192it [00:37,  5.54it/s][A0: ppl=tensor(373.9280, device='cuda:0')
+1: ppl=tensor(648.0535, device='cuda:0')
+2: ppl=tensor(705.0364, device='cuda:0')
+3: ppl=tensor(731.3140, device='cuda:0')
+4: ppl=tensor(103.1578, device='cuda:0')
+5: ppl=tensor(370.1377, device='cuda:0')
+6: ppl=tensor(416.3309, device='cuda:0')
+7: ppl=tensor(91.4149, device='cuda:0')
+8: ppl=tensor(1923.1998, device='cuda:0')
+9: ppl=tensor(125.8331, device='cuda:0')
+10: ppl=tensor(162.0316, device='cuda:0')
+11: ppl=tensor(65.8698, device='cuda:0')
+12: ppl=tensor(286.4343, device='cuda:0')
+13: ppl=tensor(236.5819, device='cuda:0')
+14: ppl=tensor(260.5724, device='cuda:0')
+15: ppl=tensor(102.5491, device='cuda:0')
+16: ppl=tensor(178.6690, device='cuda:0')
+17: ppl=tensor(242.8174, device='cuda:0')
+18: ppl=tensor(3031.9583, device='cuda:0')
+19: ppl=tensor(835.8513, device='cuda:0')
+20: ppl=tensor(414.0616, device='cuda:0')
+21: ppl=tensor(193.5658, device='cuda:0')
+22: ppl=tensor(626.0718, device='cuda:0')
+23: ppl=tensor(77.1130, device='cuda:0')
+24: ppl=tensor(225.1751, device='cuda:0')
+25: ppl=tensor(1239.5850, device='cuda:0')
+26: ppl=tensor(669.3724, device='cuda:0')
+27: ppl=tensor(442.7732, device='cuda:0')
+28: ppl=tensor(490.7839, device='cuda:0')
+29: ppl=tensor(450.3465, device='cuda:0')
+30: ppl=tensor(250.2970, device='cuda:0')
+31: ppl=tensor(1167.6025, device='cuda:0')
+32: ppl=tensor(184.7173, device='cuda:0')
+33: ppl=tensor(210.1402, device='cuda:0')
+34: ppl=tensor(114.4859, device='cuda:0')
+35: ppl=tensor(226.6498, device='cuda:0')
+36: ppl=tensor(149.8619, device='cuda:0')
+37: ppl=tensor(604.8890, device='cuda:0')
+38: ppl=tensor(294.5795, device='cuda:0')
+39: ppl=tensor(432.7065, device='cuda:0')
+40: ppl=tensor(339.5162, device='cuda:0')
+41: ppl=tensor(872.5579, device='cuda:0')
+42: ppl=tensor(816.8433, device='cuda:0')
+43: ppl=tensor(2676.3228, device='cuda:0')
+44: ppl=tensor(278.0911, device='cuda:0')
+45: ppl=tensor(162.0982, device='cuda:0')
+46: ppl=tensor(268.0751, device='cuda:0')
+47: ppl=tensor(2978.9729, device='cuda:0')
+48: ppl=tensor(669.8060, device='cuda:0')
+49: ppl=tensor(238.0378, device='cuda:0')
+50: ppl=tensor(478.5726, device='cuda:0')
+51: ppl=tensor(254.8930, device='cuda:0')
+52: ppl=tensor(2740.2095, device='cuda:0')
+53: ppl=tensor(746.0342, device='cuda:0')
+54: ppl=tensor(108.8072, device='cuda:0')
+55: ppl=tensor(197.4541, device='cuda:0')
+56: ppl=tensor(348.2564, device='cuda:0')
+57: ppl=tensor(192.9508, device='cuda:0')
+58: ppl=tensor(1837.7229, device='cuda:0')
+59: ppl=tensor(306.3314, device='cuda:0')
+60: ppl=tensor(251.9481, device='cuda:0')
+61: ppl=tensor(185.1882, device='cuda:0')
+62: ppl=tensor(345.6449, device='cuda:0')
+63: ppl=tensor(431.0531, device='cuda:0')
+64: ppl=tensor(696.0444, device='cuda:0')
+65: ppl=tensor(397.4264, device='cuda:0')
+66: ppl=tensor(199.7714, device='cuda:0')
+67: ppl=tensor(264.8134, device='cuda:0')
+68: ppl=tensor(832.0105, device='cuda:0')
+69: ppl=tensor(481.2702, device='cuda:0')
+70: ppl=tensor(317.2457, device='cuda:0')
+71: ppl=tensor(231.2161, device='cuda:0')
+72: ppl=tensor(393.6118, device='cuda:0')
+73: ppl=tensor(297.5258, device='cuda:0')
+74: ppl=tensor(119.2033, device='cuda:0')
+75: ppl=tensor(166.5115, device='cuda:0')
+76: ppl=tensor(394.5486, device='cuda:0')
+77: ppl=tensor(508.2094, device='cuda:0')
+78: ppl=tensor(21363.3438, device='cuda:0')
+79: ppl=tensor(396.5136, device='cuda:0')
+80: ppl=tensor(226.7054, device='cuda:0')
+81: ppl=tensor(805.1155, device='cuda:0')
+82: ppl=tensor(599.0318, device='cuda:0')
+83: ppl=tensor(701.2444, device='cuda:0')
+84: ppl=tensor(218.8541, device='cuda:0')
+85: ppl=tensor(107.1510, device='cuda:0')
+86: ppl=tensor(186.7817, device='cuda:0')
+87: ppl=tensor(2117.7888, device='cuda:0')
+88: ppl=tensor(366.8344, device='cuda:0')
+89: ppl=tensor(4215.6719, device='cuda:0')
+90: ppl=tensor(1215.9861, device='cuda:0')
+91: ppl=tensor(1311.8036, device='cuda:0')
+92: ppl=tensor(236.9591, device='cuda:0')
+93: ppl=tensor(145.7883, device='cuda:0')
+94: ppl=tensor(573.0247, device='cuda:0')
+95: ppl=tensor(535.1316, device='cuda:0')
+96: ppl=tensor(544.0729, device='cuda:0')
+97: ppl=tensor(196.0669, device='cuda:0')
+98: ppl=tensor(100.0460, device='cuda:0')
+99: ppl=tensor(201.9770, device='cuda:0')
+100: ppl=tensor(368.0290, device='cuda:0')
+101: ppl=tensor(487.3314, device='cuda:0')
+102: ppl=tensor(340.9192, device='cuda:0')
+103: ppl=tensor(303.8364, device='cuda:0')
+104: ppl=tensor(182.3208, device='cuda:0')
+105: ppl=tensor(194.2545, device='cuda:0')
+106: ppl=tensor(588.6849, device='cuda:0')
+107: ppl=tensor(458.2362, device='cuda:0')
+108: ppl=tensor(462.9414, device='cuda:0')
+109: ppl=tensor(1918.4415, device='cuda:0')
+110: ppl=tensor(379.3359, device='cuda:0')
+111: ppl=tensor(213.7830, device='cuda:0')
+112: ppl=tensor(545.6370, device='cuda:0')
+113: ppl=tensor(200.1532, device='cuda:0')
+114: ppl=tensor(220.1253, device='cuda:0')
+115: ppl=tensor(391.2921, device='cuda:0')
+116: ppl=tensor(298.8190, device='cuda:0')
+117: ppl=tensor(352.1577, device='cuda:0')
+118: ppl=tensor(93.5662, device='cuda:0')
+119: ppl=tensor(529.3646, device='cuda:0')
+120: ppl=tensor(282.5456, device='cuda:0')
+121: ppl=tensor(694.6896, device='cuda:0')
+122: ppl=tensor(184.2271, device='cuda:0')
+123: ppl=tensor(404.5455, device='cuda:0')
+124: ppl=tensor(1243.3950, device='cuda:0')
+125: ppl=tensor(1716.4996, device='cuda:0')
+126: ppl=tensor(213.4869, device='cuda:0')
+127: ppl=tensor(252.7693, device='cuda:0')
+128: ppl=tensor(256.8511, device='cuda:0')
+129: ppl=tensor(492.1891, device='cuda:0')
+130: ppl=tensor(161.2808, device='cuda:0')
+131: ppl=tensor(1064.7798, device='cuda:0')
+132: ppl=tensor(494.9821, device='cuda:0')
+133: ppl=tensor(2529.0608, device='cuda:0')
+134: ppl=tensor(384.0927, device='cuda:0')
+135: ppl=tensor(160.4059, device='cuda:0')
+136: ppl=tensor(263.3178, device='cuda:0')
+137: ppl=tensor(868.2411, device='cuda:0')
+138: ppl=tensor(623.2385, device='cuda:0')
+139: ppl=tensor(1577.5299, device='cuda:0')
+140: ppl=tensor(373.6914, device='cuda:0')
+141: ppl=tensor(5588.7368, device='cuda:0')
+142: ppl=tensor(282.9695, device='cuda:0')
+143: ppl=tensor(287.3843, device='cuda:0')
+144: ppl=tensor(233.2799, device='cuda:0')
+145: ppl=tensor(496.9559, device='cuda:0')
+146: ppl=tensor(251.5611, device='cuda:0')
+147: ppl=tensor(157.9168, device='cuda:0')
+148: ppl=tensor(12855.3271, device='cuda:0')
+149: ppl=tensor(445.2308, device='cuda:0')
+150: ppl=tensor(296.7715, device='cuda:0')
+151: ppl=tensor(2104.3623, device='cuda:0')
+152: ppl=tensor(501.8744, device='cuda:0')
+153: ppl=tensor(401.5610, device='cuda:0')
+154: ppl=tensor(334.0142, device='cuda:0')
+155: ppl=tensor(297.1490, device='cuda:0')
+156: ppl=tensor(214.3849, device='cuda:0')
+157: ppl=tensor(308.1552, device='cuda:0')
+158: ppl=tensor(315.2986, device='cuda:0')
+159: ppl=tensor(270.6399, device='cuda:0')
+160: ppl=tensor(238.1506, device='cuda:0')
+161: ppl=tensor(145.6078, device='cuda:0')
+162: ppl=tensor(376.8252, device='cuda:0')
+163: ppl=tensor(506.5988, device='cuda:0')
+164: ppl=tensor(412.5567, device='cuda:0')
+165: ppl=tensor(292.2196, device='cuda:0')
+166: ppl=tensor(257.2229, device='cuda:0')
+167: ppl=tensor(308.0593, device='cuda:0')
+168: ppl=tensor(404.0449, device='cuda:0')
+169: ppl=tensor(327.1841, device='cuda:0')
+170: ppl=tensor(125.8350, device='cuda:0')
+171: ppl=tensor(3135.0691, device='cuda:0')
+172: ppl=tensor(469.8112, device='cuda:0')
+173: ppl=tensor(354.6830, device='cuda:0')
+174: ppl=tensor(145.6430, device='cuda:0')
+175: ppl=tensor(381.6747, device='cuda:0')
+176: ppl=tensor(780.2747, device='cuda:0')
+177: ppl=tensor(586.7979, device='cuda:0')
+178: ppl=tensor(313.8991, device='cuda:0')
+179: ppl=tensor(255.8661, device='cuda:0')
+180: ppl=tensor(298.5595, device='cuda:0')
+181: ppl=tensor(6210.5220, device='cuda:0')
+182: ppl=tensor(550.2186, device='cuda:0')
+183: ppl=tensor(223.7552, device='cuda:0')
+184: ppl=tensor(280.1451, device='cuda:0')
+185: ppl=tensor(528.3615, device='cuda:0')
+186: ppl=tensor(539.9877, device='cuda:0')
+187: ppl=tensor(1825.1310, device='cuda:0')
+188: ppl=tensor(487.1773, device='cuda:0')
+189: ppl=tensor(408.8304, device='cuda:0')
+190: ppl=tensor(521.9811, device='cuda:0')
+191: ppl=tensor(439.5433, device='cuda:0')
+
+193it [00:38,  5.58it/s][A
+194it [00:38,  5.65it/s][A
+195it [00:38,  5.69it/s][A
+196it [00:38,  5.68it/s][A
+197it [00:38,  5.67it/s][A
+198it [00:38,  5.51it/s][A
+199it [00:39,  5.48it/s][A
+200it [00:39,  5.53it/s][A
+201it [00:39,  5.56it/s][A
+202it [00:39,  5.60it/s][A
+203it [00:39,  5.62it/s][A
+204it [00:39,  5.58it/s][A
+205it [00:40,  5.63it/s][A
+206it [00:40,  5.67it/s][A
+207it [00:40,  5.71it/s][A
+208it [00:40,  5.72it/s][A
+209it [00:40,  5.74it/s][A
+210it [00:41,  5.69it/s][A
+211it [00:41,  5.69it/s][A
+212it [00:41,  5.62it/s][A
+213it [00:41,  5.23it/s][A
+214it [00:41,  4.30it/s][A
+215it [00:42,  4.64it/s][A
+216it [00:42,  4.90it/s][A
+217it [00:42,  5.14it/s][A
+218it [00:42,  4.95it/s][A
+219it [00:42,  5.13it/s][A
+220it [00:43,  5.21it/s][A
+221it [00:43,  5.37it/s][A
+222it [00:43,  5.49it/s][A
+223it [00:43,  5.54it/s][A
+224it [00:43,  5.58it/s][A
+225it [00:43,  5.60it/s][A
+226it [00:44,  5.61it/s][A
+227it [00:44,  5.16it/s][A
+228it [00:44,  5.88it/s][A
+229it [00:44,  5.83it/s][A
+230it [00:44,  4.57it/s][A
+231it [00:45,  4.11it/s][A
+232it [00:45,  4.03it/s][A
+233it [00:45,  3.64it/s][A
+234it [00:46,  4.04it/s][A
+235it [00:46,  4.43it/s][A
+236it [00:46,  4.11it/s][A
+237it [00:46,  4.42it/s][A
+238it [00:46,  4.63it/s][A
+239it [00:47,  4.86it/s][A
+240it [00:47,  4.92it/s][A
+241it [00:47,  5.10it/s][A
+242it [00:47,  5.26it/s][A
+243it [00:47,  5.40it/s][A
+244it [00:47,  5.47it/s][A
+245it [00:48,  5.38it/s][A
+246it [00:48,  5.32it/s][A
+247it [00:48,  5.37it/s][A
+248it [00:48,  5.48it/s][A
+249it [00:48,  5.54it/s][A
+250it [00:49,  4.63it/s][A
+251it [00:49,  4.61it/s][A
+252it [00:49,  4.26it/s][A
+253it [00:49,  3.90it/s][A
+254it [00:50,  4.31it/s][A
+255it [00:50,  4.08it/s][A
+256it [00:50,  4.40it/s][A
+257it [00:50,  4.67it/s][A
+258it [00:50,  4.95it/s][A
+259it [00:51,  4.48it/s][A
+260it [00:51,  4.76it/s][A
+261it [00:51,  5.02it/s][A
+262it [00:51,  5.23it/s][A
+263it [00:51,  5.36it/s][A
+264it [00:52,  5.45it/s][A
+265it [00:52,  5.44it/s][A
+266it [00:52,  5.53it/s][A
+267it [00:52,  5.52it/s][A
+268it [00:52,  5.50it/s][A
+269it [00:53,  5.58it/s][A
+270it [00:53,  5.64it/s][A
+271it [00:53,  5.68it/s][A
+272it [00:53,  5.68it/s][A
+273it [00:53,  5.05it/s][A
+274it [00:53,  5.23it/s][A
+275it [00:54,  5.35it/s][A
+276it [00:54,  5.44it/s][A
+277it [00:54,  5.53it/s][A
+278it [00:54,  5.51it/s][A
+279it [00:54,  5.50it/s][A
+280it [00:55,  5.58it/s][A
+281it [00:55,  4.93it/s][A
+282it [00:55,  5.14it/s][A
+283it [00:55,  5.32it/s][A
+284it [00:55,  4.76it/s][A
+285it [00:56,  5.01it/s][A
+286it [00:56,  5.18it/s][A
+287it [00:56,  5.38it/s][A
+288it [00:56,  5.47it/s][A
+289it [00:56,  5.55it/s][A
+290it [00:56,  5.59it/s][A
+291it [00:57,  5.40it/s][A
+292it [00:57,  5.47it/s][A
+293it [00:57,  5.53it/s][A
+294it [00:57,  5.57it/s][A
+295it [00:57,  5.61it/s][A
+296it [00:58,  5.66it/s][A
+297it [00:58,  5.61it/s][A
+298it [00:58,  5.61it/s][A
+299it [00:58,  4.62it/s][A
+300it [00:59,  3.85it/s][A300it [00:59,  5.08it/s]
+100%|██████████| 4/4 [03:04<00:00, 54.64s/it]100%|██████████| 4/4 [03:04<00:00, 46.00s/it]
+192: ppl=tensor(366.1393, device='cuda:0')
+193: ppl=tensor(1215.0482, device='cuda:0')
+194: ppl=tensor(13689.3320, device='cuda:0')
+195: ppl=tensor(340.9836, device='cuda:0')
+196: ppl=tensor(257.2536, device='cuda:0')
+197: ppl=tensor(307.4430, device='cuda:0')
+198: ppl=tensor(132.0212, device='cuda:0')
+199: ppl=tensor(381.7300, device='cuda:0')
+200: ppl=tensor(129.4467, device='cuda:0')
+201: ppl=tensor(862.2694, device='cuda:0')
+202: ppl=tensor(360.3707, device='cuda:0')
+203: ppl=tensor(577.4432, device='cuda:0')
+204: ppl=tensor(3307.5085, device='cuda:0')
+205: ppl=tensor(506.5186, device='cuda:0')
+206: ppl=tensor(1003.3737, device='cuda:0')
+207: ppl=tensor(612.1874, device='cuda:0')
+208: ppl=tensor(295.9461, device='cuda:0')
+209: ppl=tensor(147.7073, device='cuda:0')
+210: ppl=tensor(960.2501, device='cuda:0')
+211: ppl=tensor(508.7173, device='cuda:0')
+212: ppl=tensor(622.8782, device='cuda:0')
+213: ppl=tensor(1182.2000, device='cuda:0')
+214: ppl=tensor(285.5547, device='cuda:0')
+215: ppl=tensor(149.2482, device='cuda:0')
+216: ppl=tensor(1148.3726, device='cuda:0')
+217: ppl=tensor(481.8845, device='cuda:0')
+218: ppl=tensor(366.4746, device='cuda:0')
+219: ppl=tensor(484.5427, device='cuda:0')
+220: ppl=tensor(105.5407, device='cuda:0')
+221: ppl=tensor(93.4587, device='cuda:0')
+222: ppl=tensor(178.1852, device='cuda:0')
+223: ppl=tensor(263.8265, device='cuda:0')
+224: ppl=tensor(329.6125, device='cuda:0')
+225: ppl=tensor(1092.5933, device='cuda:0')
+226: ppl=tensor(5738.9751, device='cuda:0')
+227: ppl=tensor(1206.6273, device='cuda:0')
+228: ppl=tensor(390.5155, device='cuda:0')
+229: ppl=tensor(598.7334, device='cuda:0')
+230: ppl=tensor(1975.3615, device='cuda:0')
+231: ppl=tensor(2792.4636, device='cuda:0')
+232: ppl=tensor(1033.1777, device='cuda:0')
+233: ppl=tensor(9689.0439, device='cuda:0')
+234: ppl=tensor(159.1176, device='cuda:0')
+235: ppl=tensor(595.1568, device='cuda:0')
+236: ppl=tensor(825.8712, device='cuda:0')
+237: ppl=tensor(89.0302, device='cuda:0')
+238: ppl=tensor(431.2073, device='cuda:0')
+239: ppl=tensor(261.6160, device='cuda:0')
+240: ppl=tensor(385.9985, device='cuda:0')
+241: ppl=tensor(777.8934, device='cuda:0')
+242: ppl=tensor(636.0826, device='cuda:0')
+243: ppl=tensor(471.9204, device='cuda:0')
+244: ppl=tensor(206.0435, device='cuda:0')
+245: ppl=tensor(481.3549, device='cuda:0')
+246: ppl=tensor(545.2377, device='cuda:0')
+247: ppl=tensor(1211.6342, device='cuda:0')
+248: ppl=tensor(225.7904, device='cuda:0')
+249: ppl=tensor(534.3786, device='cuda:0')
+250: ppl=tensor(438.8989, device='cuda:0')
+251: ppl=tensor(278.9146, device='cuda:0')
+252: ppl=tensor(617.2740, device='cuda:0')
+253: ppl=tensor(1123.7948, device='cuda:0')
+254: ppl=tensor(313.1406, device='cuda:0')
+255: ppl=tensor(1166.3695, device='cuda:0')
+256: ppl=tensor(328.5682, device='cuda:0')
+257: ppl=tensor(358.8741, device='cuda:0')
+258: ppl=tensor(635.3348, device='cuda:0')
+259: ppl=tensor(273.3879, device='cuda:0')
+260: ppl=tensor(250.6072, device='cuda:0')
+261: ppl=tensor(1119.8242, device='cuda:0')
+262: ppl=tensor(203.0876, device='cuda:0')
+263: ppl=tensor(402.5614, device='cuda:0')
+264: ppl=tensor(71.6296, device='cuda:0')
+265: ppl=tensor(1036.3196, device='cuda:0')
+266: ppl=tensor(295.3637, device='cuda:0')
+267: ppl=tensor(314.4565, device='cuda:0')
+268: ppl=tensor(300.8679, device='cuda:0')
+269: ppl=tensor(210.3716, device='cuda:0')
+270: ppl=tensor(821.7853, device='cuda:0')
+271: ppl=tensor(10956.2393, device='cuda:0')
+272: ppl=tensor(2252.0259, device='cuda:0')
+273: ppl=tensor(641.9363, device='cuda:0')
+274: ppl=tensor(161.3226, device='cuda:0')
+275: ppl=tensor(277.2806, device='cuda:0')
+276: ppl=tensor(282.9115, device='cuda:0')
+277: ppl=tensor(218.6334, device='cuda:0')
+278: ppl=tensor(522.5638, device='cuda:0')
+279: ppl=tensor(1079.5862, device='cuda:0')
+280: ppl=tensor(1212.4612, device='cuda:0')
+281: ppl=tensor(226.8129, device='cuda:0')
+282: ppl=tensor(89.6880, device='cuda:0')
+283: ppl=tensor(1308.3241, device='cuda:0')
+284: ppl=tensor(821.6063, device='cuda:0')
+285: ppl=tensor(257.8927, device='cuda:0')
+286: ppl=tensor(216.2252, device='cuda:0')
+287: ppl=tensor(962.5358, device='cuda:0')
+288: ppl=tensor(278.6052, device='cuda:0')
+289: ppl=tensor(796.0092, device='cuda:0')
+290: ppl=tensor(207.9096, device='cuda:0')
+291: ppl=tensor(3005.5132, device='cuda:0')
+292: ppl=tensor(377.3794, device='cuda:0')
+293: ppl=tensor(774.3056, device='cuda:0')
+294: ppl=tensor(164.7165, device='cuda:0')
+295: ppl=tensor(494.2896, device='cuda:0')
+296: ppl=tensor(255.0292, device='cuda:0')
+297: ppl=tensor(125.1813, device='cuda:0')
+298: ppl=tensor(528.3188, device='cuda:0')
+299: ppl=tensor(604.0189, device='cuda:0')
