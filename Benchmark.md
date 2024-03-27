@@ -15,8 +15,8 @@ Batch size is always 1
 
 
 blue: most commonly used configuration
-* (INT8) Embeddings, Normalization and final Head layers are kept in higher precision (~ 131M + 266K + 131M = 262M in Mistral-7B i.e. 3.6%).
-* (FP4/NF4) Same but ~7% of model params because of 4 bit model implementation (less total params but same number of higher precision).
+_* (INT8) Embeddings, Normalization and final Head layers are kept in higher precision (~ 131M + 266K + 131M = 262M in Mistral-7B i.e. 3.6%).
+_* (FP4/NF4) Same but ~7% of model params because of 4 bit model implementation (less total params but same number of higher precision).
 ** Cast in FP16 during quantization.
 *** LLM.int8() mixed-computation implementation.
 **** Info is from Aug22, but couldn't find a more recent update
