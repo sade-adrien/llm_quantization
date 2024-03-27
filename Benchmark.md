@@ -16,12 +16,19 @@ Batch size is always 1
 
 blue: most commonly used configuration
 _* (INT8) Embeddings, Normalization and final Head layers are kept in higher precision (~ 131M + 266K + 131M = 262M in Mistral-7B i.e. 3.6%).
+
 _* (FP4/NF4) Same but ~7% of model params because of 4 bit model implementation (less total params but same number of higher precision).
+
 ** Cast in FP16 during quantization.
+
 *** LLM.int8() mixed-computation implementation.
+
 **** Info is from Aug22, but couldn't find a more recent update
+
 ***** For GPTQ models, damping is .1%
+
 ^ exllama 2 is said to be an improvement mostly for EXL2 model format. Through EXL2 format this kernel can be efficiently used for different quantization (2, 3, 4, 5, 6 and 8 bit and averages)
+
 ^^ A 3-bit specialized CUDA kernel was developed in the original GPTQ repository (https://github.com/IST-DASLab/gptq.git) but it doesn't seem to be available through AutoGPT (or HF). Unfortunatelly, the original GPTQ repository is only compatible with Bloom and OPT models.
 
 
