@@ -1,8 +1,8 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAndBytesConfig#, QuantoConfig
-#from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
+from auto_gptq import AutoGPTQForCausalLM, BaseQuantizeConfig
 from llama_cpp import Llama, llama_get_logits
 from torch.nn import CrossEntropyLoss
-from awq import AutoAWQForCausalLM
+# from awq import AutoAWQForCausalLM
 from scipy.special import softmax
 from tqdm import tqdm
 import numpy as np
@@ -63,28 +63,31 @@ checkpoint = "mistralai/Mistral-7B-Instruct-v0.2"
 #     'mistral-7b-instruct-v0.2-GPTQM-Q2-GS8-DAT-TST-C4',
 # ]
 
-# list_configs_AutoGPTQ = [
-#     'Mistral-7B-Instruct-v0.2-GPTQ-4bit',
-#     'mistral-7b-instruct-v0.2-GPTQM2-Q4-GS128-DAF-TSF-RP2',
-#     'mistral-7b-instruct-v0.2-GPTQM2-Q3-GS32-DAF-TSF-RP2',
-#     'mistral-7b-instruct-v0.2-GPTQM2-Q2-GS16-DAF-TSF-RP2',
+list_configs_AutoGPTQ = [
+    # 'Mistral-7B-Instruct-v0.2-GPTQ-4bit',
+    # 'mistral-7b-instruct-v0.2-GPTQM2-Q4-GS128-DAF-TSF-RP2',
+    # 'mistral-7b-instruct-v0.2-GPTQM2-Q3-GS32-DAF-TSF-RP2',
+    # 'mistral-7b-instruct-v0.2-GPTQM2-Q2-GS16-DAF-TSF-RP2',
+    'mistral-7b-instruct-v0.2-GPTQM2-Q4-GS512-DAF-TSF-RP2',
+    'mistral-7b-instruct-v0.2-GPTQM2-Q4-GS32-DAF-TSF-RP2',
+    'mistral-7b-instruct-v0.2-GPTQM2-Q4-GSNone-DAF-TSF-RP2',
+]
+
+# list_configs_HF_AutoAWQ = [
+#     "Mistral-7B-Instruct-v0.2-AWQ-4bit",
 # ]
 
-list_configs_HF_AutoAWQ = [
-    "Mistral-7B-Instruct-v0.2-AWQ-4bit",
-]
-
-list_configs_AutoAWQ = [
-    #(model_path, use_exllama2, fuse_layers)
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMM", True, False),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMM", True, True),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMV", False, False),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMV", False, True),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF", False, False),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF", False, True),
-    ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-Marlin", False, False),
-
-]
+# list_configs_AutoAWQ = [
+#     #(model_path, use_exllama2, fuse_layers)
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMM", True, False),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMM", True, True),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMV", False, False),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMV", False, True),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF", False, False),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF", False, True),
+#     ("mistral-7b-instruct-v0.2-AWQM-Q4-GS128-Marlin", False, False),
+# 
+# ]
 
 def main():
     #### base llmint8 and qlora config
@@ -143,59 +146,59 @@ def main():
         # del model
         # torch.cuda.empty_cache()
 
-    # for model_name in tqdm(list_configs_AutoGPTQ):
-        # framework = 'AutoGPTQ'
-        # model = AutoGPTQForCausalLM.from_quantized(model_name,
-                                            # use_marlin = False,
-                                            # disable_exllama = True,
-                                            # disable_exllamav2 = False,
-                                            # device=device,
-                                            # )
-        # tokenizer = AutoTokenizer.from_pretrained(model_name)
-
-        # ppl, _ = evaluate_ppl(model, tokenizer)
-        # 
-        # with open('./results_ppl.txt', 'a') as f:
-            # model_config = f"{framework=}, {model_name=}, {ppl=}\n"
-            # f.write(model_config)
-        # 
-        # del model
-        # torch.cuda.empty_cache()
-
-    for model_name in list_configs_HF_AutoAWQ:
-        framework = 'HF_AutoAWQ'
+    for model_name in tqdm(list_configs_AutoGPTQ):
+        framework = 'AutoGPTQ'
+        model = AutoGPTQForCausalLM.from_quantized(model_name,
+                                            use_marlin = False,
+                                            disable_exllama = True,
+                                            disable_exllamav2 = False,
+                                            device=device,
+                                            )
         tokenizer = AutoTokenizer.from_pretrained(model_name)
-        model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device)
 
         ppl, _ = evaluate_ppl(model, tokenizer)
-    
+        
         with open('./results_ppl.txt', 'a') as f:
             model_config = f"{framework=}, {model_name=}, {ppl=}\n"
             f.write(model_config)
         
         del model
         torch.cuda.empty_cache()
-    
-    for config in list_configs_AutoAWQ:
-        framework = 'AutoAWQ'
-        model_name, use_exllama2, fuse_layers = config
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
-        model = AutoAWQForCausalLM.from_quantized(model_name, 
-                                            fuse_layers=fuse_layers,
-                                            use_exllama=False,
-                                            use_exllama_v2=use_exllama2,
-                                            max_seq_len=None,
-                                            device_map={'': device},
-                                            )
 
-        ppl, _ = evaluate_ppl(model, tokenizer)
+    # for model_name in list_configs_HF_AutoAWQ:
+    #     framework = 'HF_AutoAWQ'
+    #     tokenizer = AutoTokenizer.from_pretrained(model_name)
+    #     model = AutoModelForCausalLM.from_pretrained(model_name, device_map=device)
+
+    #     ppl, _ = evaluate_ppl(model, tokenizer)
     
-        with open('./results_ppl.txt', 'a') as f:
-            model_config = f"{framework=}, {model_name=}, {use_exllama2=}, {fuse_layers=}, {ppl=}\n"
-            f.write(model_config)
+    #     with open('./results_ppl.txt', 'a') as f:
+    #         model_config = f"{framework=}, {model_name=}, {ppl=}\n"
+    #         f.write(model_config)
         
-        del model
-        torch.cuda.empty_cache()
+    #     del model
+    #     torch.cuda.empty_cache()
+    
+    # for config in list_configs_AutoAWQ:
+    #     framework = 'AutoAWQ'
+    #     model_name, use_exllama2, fuse_layers = config
+    #     tokenizer = AutoTokenizer.from_pretrained(model_name)
+    #     model = AutoAWQForCausalLM.from_quantized(model_name, 
+    #                                         fuse_layers=fuse_layers,
+    #                                         use_exllama=False,
+    #                                         use_exllama_v2=use_exllama2,
+    #                                         max_seq_len=None,
+    #                                         device_map={'': device},
+    #                                         )
+
+    #     ppl, _ = evaluate_ppl(model, tokenizer)
+    
+    #     with open('./results_ppl.txt', 'a') as f:
+    #         model_config = f"{framework=}, {model_name=}, {use_exllama2=}, {fuse_layers=}, {ppl=}\n"
+    #         f.write(model_config)
+        
+    #     del model
+    #     torch.cuda.empty_cache()
 
 
 

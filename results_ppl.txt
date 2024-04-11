@@ -34,3 +34,6 @@ framework='AutoAWQ', model_name='mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMV', u
 framework='AutoAWQ', model_name='mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF', use_exllama2=False, fuse_layers=False, ppl=tensor(5.2757, device='cuda:0')
 framework='AutoAWQ', model_name='mistral-7b-instruct-v0.2-AWQM-Q4-GS128-GEMVF', use_exllama2=False, fuse_layers=True, ppl=tensor(5.6376, device='cuda:0')
 framework='AutoAWQ', model_name='mistral-7b-instruct-v0.2-AWQM-Q4-GS128-Marlin', use_exllama2=False, fuse_layers=False, ppl=tensor(5.3254, device='cuda:0')
+framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GS512-DAF-TSF-RP2', ppl=tensor(5.4355, device='cuda:0')
+framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GS32-DAF-TSF-RP2', ppl=tensor(5.2747, device='cuda:0')
+framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GSNone-DAF-TSF-RP2', ppl=tensor(5.8418, device='cuda:0')
