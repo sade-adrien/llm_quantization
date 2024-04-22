@@ -1,0 +1,8 @@
+lm-eval \
+    --model hf \
+    --model_args "pretrained=meta-llama/Meta-Llama-3-8B, \
+                dtype=float16" \
+    --tasks gsm8k \
+    --device cuda:1 \
+    --batch_size auto \
+    --limit 300

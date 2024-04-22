@@ -1,4 +1,5 @@
-mistral-*
-Mistral-*
+models/
 AutoGPTQ/
 AutoAWQ_kernels/
+fine-tuning/models/
+fine-tuning/wandb/
