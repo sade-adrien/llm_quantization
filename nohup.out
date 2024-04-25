@@ -1,1225 +1,0 @@
-/home/et/miniconda3/envs/quantization/lib/python3.12/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
-  warnings.warn(
-  0%|          | 0/3 [00:00<?, ?it/s]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
-INFO - The layer lm_head is not quantized.
-Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q4-GS512-DAF-TSF-RP2/gptq_model-4bit-512g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
-
-0it [00:00, ?it/s][A
-1it [00:00,  1.53it/s][A
-2it [00:01,  1.80it/s][A
-5it [00:01,  5.46it/s][A
-8it [00:01,  5.16it/s][A
-11it [00:01,  7.69it/s][A
-13it [00:02,  5.79it/s][A
-16it [00:02,  8.16it/s][A
-19it [00:02, 10.57it/s][A
-22it [00:03,  8.76it/s][A
-24it [00:03, 10.11it/s][A
-27it [00:03, 12.51it/s][A
-30it [00:03, 14.93it/s][A
-33it [00:03, 17.05it/s][A
-36it [00:03, 18.14it/s][A
-39it [00:03, 19.61it/s][A
-42it [00:04, 20.62it/s][A
-45it [00:04, 22.12it/s][A
-48it [00:04, 22.36it/s][A
-51it [00:04, 23.89it/s][A
-54it [00:04, 23.77it/s][A
-57it [00:04, 23.20it/s][A
-60it [00:04, 22.97it/s][A
-63it [00:04, 23.38it/s][A
-66it [00:05, 23.56it/s][A
-69it [00:05, 22.71it/s][A
-72it [00:05, 23.33it/s][A
-75it [00:05, 22.64it/s][A
-78it [00:05, 22.12it/s][A
-81it [00:05, 22.30it/s][A
-84it [00:05, 23.43it/s][A
-87it [00:06, 23.48it/s][A
-90it [00:06, 23.08it/s][A
-93it [00:06, 23.06it/s][A
-96it [00:06, 23.32it/s][A
-99it [00:06, 23.89it/s][A
-102it [00:06, 22.48it/s][A
-105it [00:07, 12.17it/s][A
-108it [00:07, 14.19it/s][A
-111it [00:07, 16.23it/s][A
-114it [00:07, 18.02it/s][A
-117it [00:07, 19.24it/s][A
-120it [00:07, 20.81it/s][A
-123it [00:07, 21.88it/s][A
-126it [00:08, 22.25it/s][A
-129it [00:08, 22.44it/s][A
-132it [00:08, 22.69it/s][A
-135it [00:08, 22.37it/s][A
-138it [00:08, 23.05it/s][A
-141it [00:08, 23.24it/s][A
-144it [00:08, 23.39it/s][A
-147it [00:08, 23.15it/s][A
-150it [00:09, 23.47it/s][A
-153it [00:09, 23.11it/s][A
-156it [00:09, 22.48it/s][A
-159it [00:09, 22.40it/s][A
-162it [00:09, 21.79it/s][A
-165it [00:09, 22.56it/s][A
-168it [00:09, 22.94it/s][A
-171it [00:10, 22.27it/s][A
-174it [00:10, 22.94it/s][A
-177it [00:10, 23.32it/s][A
-180it [00:10, 23.74it/s][A
-183it [00:10, 23.35it/s][A
-186it [00:10, 23.02it/s][A
-189it [00:10, 22.64it/s][A
-192it [00:10, 22.08it/s][A
-195it [00:11, 22.73it/s][A
-198it [00:11, 21.88it/s][A
-201it [00:11, 21.77it/s][A0: ppl=tensor(3.3018, device='cuda:0')
-1: ppl=tensor(4.0397, device='cuda:0')
-2: ppl=tensor(2.9633, device='cuda:0')
-3: ppl=tensor(3.0946, device='cuda:0')
-4: ppl=tensor(3.3744, device='cuda:0')
-5: ppl=tensor(3.8740, device='cuda:0')
-6: ppl=tensor(4.6717, device='cuda:0')
-7: ppl=tensor(3.4452, device='cuda:0')
-8: ppl=tensor(3.9331, device='cuda:0')
-9: ppl=tensor(3.1368, device='cuda:0')
-10: ppl=tensor(3.5847, device='cuda:0')
-11: ppl=tensor(3.7129, device='cuda:0')
-12: ppl=tensor(3.8085, device='cuda:0')
-13: ppl=tensor(3.8971, device='cuda:0')
-14: ppl=tensor(4.6895, device='cuda:0')
-15: ppl=tensor(3.6481, device='cuda:0')
-16: ppl=tensor(3.9154, device='cuda:0')
-17: ppl=tensor(4.1488, device='cuda:0')
-18: ppl=tensor(4.7858, device='cuda:0')
-19: ppl=tensor(3.4158, device='cuda:0')
-20: ppl=tensor(4.3493, device='cuda:0')
-21: ppl=tensor(3.7217, device='cuda:0')
-22: ppl=tensor(3.6350, device='cuda:0')
-23: ppl=tensor(3.2871, device='cuda:0')
-24: ppl=tensor(3.5875, device='cuda:0')
-25: ppl=tensor(4.9429, device='cuda:0')
-26: ppl=tensor(4.7458, device='cuda:0')
-27: ppl=tensor(3.6942, device='cuda:0')
-28: ppl=tensor(4.3544, device='cuda:0')
-29: ppl=tensor(4.2463, device='cuda:0')
-30: ppl=tensor(3.8535, device='cuda:0')
-31: ppl=tensor(5.3432, device='cuda:0')
-32: ppl=tensor(4.3628, device='cuda:0')
-33: ppl=tensor(3.9430, device='cuda:0')
-34: ppl=tensor(4.1055, device='cuda:0')
-35: ppl=tensor(4.1523, device='cuda:0')
-36: ppl=tensor(4.6600, device='cuda:0')
-37: ppl=tensor(4.3657, device='cuda:0')
-38: ppl=tensor(4.3072, device='cuda:0')
-39: ppl=tensor(4.0432, device='cuda:0')
-40: ppl=tensor(4.1713, device='cuda:0')
-41: ppl=tensor(3.9905, device='cuda:0')
-42: ppl=tensor(4.3596, device='cuda:0')
-43: ppl=tensor(4.4988, device='cuda:0')
-44: ppl=tensor(3.9218, device='cuda:0')
-45: ppl=tensor(3.9484, device='cuda:0')
-46: ppl=tensor(4.4236, device='cuda:0')
-47: ppl=tensor(5.1548, device='cuda:0')
-48: ppl=tensor(4.1033, device='cuda:0')
-49: ppl=tensor(4.4019, device='cuda:0')
-50: ppl=tensor(4.2287, device='cuda:0')
-51: ppl=tensor(4.4140, device='cuda:0')
-52: ppl=tensor(4.4196, device='cuda:0')
-53: ppl=tensor(4.2904, device='cuda:0')
-54: ppl=tensor(4.2008, device='cuda:0')
-55: ppl=tensor(4.1448, device='cuda:0')
-56: ppl=tensor(4.6019, device='cuda:0')
-57: ppl=tensor(4.7764, device='cuda:0')
-58: ppl=tensor(4.5182, device='cuda:0')
-59: ppl=tensor(4.2226, device='cuda:0')
-60: ppl=tensor(4.6167, device='cuda:0')
-61: ppl=tensor(4.4706, device='cuda:0')
-62: ppl=tensor(4.3924, device='cuda:0')
-63: ppl=tensor(5.0705, device='cuda:0')
-64: ppl=tensor(4.8494, device='cuda:0')
-65: ppl=tensor(4.7787, device='cuda:0')
-66: ppl=tensor(4.6822, device='cuda:0')
-67: ppl=tensor(4.3470, device='cuda:0')
-68: ppl=tensor(4.3085, device='cuda:0')
-69: ppl=tensor(4.9463, device='cuda:0')
-70: ppl=tensor(5.3245, device='cuda:0')
-71: ppl=tensor(4.2298, device='cuda:0')
-72: ppl=tensor(4.6235, device='cuda:0')
-73: ppl=tensor(4.2178, device='cuda:0')
-74: ppl=tensor(4.5765, device='cuda:0')
-75: ppl=tensor(4.3390, device='cuda:0')
-76: ppl=tensor(4.6715, device='cuda:0')
-77: ppl=tensor(4.6579, device='cuda:0')
-78: ppl=tensor(5.2483, device='cuda:0')
-79: ppl=tensor(5.2434, device='cuda:0')
-80: ppl=tensor(4.5138, device='cuda:0')
-81: ppl=tensor(4.9082, device='cuda:0')
-82: ppl=tensor(4.2152, device='cuda:0')
-83: ppl=tensor(4.9859, device='cuda:0')
-84: ppl=tensor(4.8732, device='cuda:0')
-85: ppl=tensor(4.7233, device='cuda:0')
-86: ppl=tensor(4.4627, device='cuda:0')
-87: ppl=tensor(4.5039, device='cuda:0')
-88: ppl=tensor(4.7516, device='cuda:0')
-89: ppl=tensor(4.9701, device='cuda:0')
-90: ppl=tensor(4.5220, device='cuda:0')
-91: ppl=tensor(4.5734, device='cuda:0')
-92: ppl=tensor(4.8548, device='cuda:0')
-93: ppl=tensor(4.7869, device='cuda:0')
-94: ppl=tensor(4.5258, device='cuda:0')
-95: ppl=tensor(5.2216, device='cuda:0')
-96: ppl=tensor(5.0852, device='cuda:0')
-97: ppl=tensor(4.4546, device='cuda:0')
-98: ppl=tensor(4.7381, device='cuda:0')
-99: ppl=tensor(4.8997, device='cuda:0')
-100: ppl=tensor(5.1659, device='cuda:0')
-101: ppl=tensor(4.8996, device='cuda:0')
-102: ppl=tensor(5.1669, device='cuda:0')
-103: ppl=tensor(5.2967, device='cuda:0')
-104: ppl=tensor(4.7062, device='cuda:0')
-105: ppl=tensor(4.9917, device='cuda:0')
-106: ppl=tensor(4.7744, device='cuda:0')
-107: ppl=tensor(4.9726, device='cuda:0')
-108: ppl=tensor(5.0616, device='cuda:0')
-109: ppl=tensor(4.5515, device='cuda:0')
-110: ppl=tensor(5.2142, device='cuda:0')
-111: ppl=tensor(5.0647, device='cuda:0')
-112: ppl=tensor(4.9052, device='cuda:0')
-113: ppl=tensor(4.8112, device='cuda:0')
-114: ppl=tensor(4.8770, device='cuda:0')
-115: ppl=tensor(5.2560, device='cuda:0')
-116: ppl=tensor(5.2448, device='cuda:0')
-117: ppl=tensor(4.8835, device='cuda:0')
-118: ppl=tensor(5.5236, device='cuda:0')
-119: ppl=tensor(6.1902, device='cuda:0')
-120: ppl=tensor(4.9556, device='cuda:0')
-121: ppl=tensor(5.4423, device='cuda:0')
-122: ppl=tensor(4.8143, device='cuda:0')
-123: ppl=tensor(5.4407, device='cuda:0')
-124: ppl=tensor(4.8748, device='cuda:0')
-125: ppl=tensor(5.2876, device='cuda:0')
-126: ppl=tensor(5.6727, device='cuda:0')
-127: ppl=tensor(4.8253, device='cuda:0')
-128: ppl=tensor(5.1450, device='cuda:0')
-129: ppl=tensor(5.3307, device='cuda:0')
-130: ppl=tensor(4.9402, device='cuda:0')
-131: ppl=tensor(5.2107, device='cuda:0')
-132: ppl=tensor(6.0541, device='cuda:0')
-133: ppl=tensor(5.0343, device='cuda:0')
-134: ppl=tensor(5.4919, device='cuda:0')
-135: ppl=tensor(5.5219, device='cuda:0')
-136: ppl=tensor(5.0380, device='cuda:0')
-137: ppl=tensor(5.6295, device='cuda:0')
-138: ppl=tensor(4.9999, device='cuda:0')
-139: ppl=tensor(8.3240, device='cuda:0')
-140: ppl=tensor(5.4231, device='cuda:0')
-141: ppl=tensor(5.8807, device='cuda:0')
-142: ppl=tensor(5.4202, device='cuda:0')
-143: ppl=tensor(4.8196, device='cuda:0')
-144: ppl=tensor(5.4197, device='cuda:0')
-145: ppl=tensor(5.3705, device='cuda:0')
-146: ppl=tensor(5.6560, device='cuda:0')
-147: ppl=tensor(4.8906, device='cuda:0')
-148: ppl=tensor(5.2548, device='cuda:0')
-149: ppl=tensor(5.2921, device='cuda:0')
-150: ppl=tensor(5.4776, device='cuda:0')
-151: ppl=tensor(5.2866, device='cuda:0')
-152: ppl=tensor(5.7145, device='cuda:0')
-153: ppl=tensor(5.7353, device='cuda:0')
-154: ppl=tensor(5.1480, device='cuda:0')
-155: ppl=tensor(5.3611, device='cuda:0')
-156: ppl=tensor(5.3628, device='cuda:0')
-157: ppl=tensor(5.4976, device='cuda:0')
-158: ppl=tensor(5.7385, device='cuda:0')
-159: ppl=tensor(5.1270, device='cuda:0')
-160: ppl=tensor(5.4260, device='cuda:0')
-161: ppl=tensor(7.5789, device='cuda:0')
-162: ppl=tensor(5.4151, device='cuda:0')
-163: ppl=tensor(7.0279, device='cuda:0')
-164: ppl=tensor(5.9960, device='cuda:0')
-165: ppl=tensor(5.9507, device='cuda:0')
-166: ppl=tensor(5.9770, device='cuda:0')
-167: ppl=tensor(5.2287, device='cuda:0')
-168: ppl=tensor(6.3376, device='cuda:0')
-169: ppl=tensor(5.8556, device='cuda:0')
-170: ppl=tensor(5.8944, device='cuda:0')
-171: ppl=tensor(5.7664, device='cuda:0')
-172: ppl=tensor(6.1250, device='cuda:0')
-173: ppl=tensor(6.0370, device='cuda:0')
-174: ppl=tensor(5.2657, device='cuda:0')
-175: ppl=tensor(5.9887, device='cuda:0')
-176: ppl=tensor(6.3173, device='cuda:0')
-177: ppl=tensor(6.6996, device='cuda:0')
-178: ppl=tensor(5.3904, device='cuda:0')
-179: ppl=tensor(5.7083, device='cuda:0')
-180: ppl=tensor(5.8211, device='cuda:0')
-181: ppl=tensor(5.7122, device='cuda:0')
-182: ppl=tensor(6.0239, device='cuda:0')
-183: ppl=tensor(5.6821, device='cuda:0')
-184: ppl=tensor(5.8192, device='cuda:0')
-185: ppl=tensor(6.2477, device='cuda:0')
-186: ppl=tensor(5.6996, device='cuda:0')
-187: ppl=tensor(5.9902, device='cuda:0')
-188: ppl=tensor(5.7710, device='cuda:0')
-189: ppl=tensor(5.5419, device='cuda:0')
-190: ppl=tensor(5.3488, device='cuda:0')
-191: ppl=tensor(6.0987, device='cuda:0')
-192: ppl=tensor(5.5325, device='cuda:0')
-193: ppl=tensor(5.2292, device='cuda:0')
-194: ppl=tensor(5.3420, device='cuda:0')
-195: ppl=tensor(6.1265, device='cuda:0')
-196: ppl=tensor(5.6885, device='cuda:0')
-197: ppl=tensor(5.5821, device='cuda:0')
-198: ppl=tensor(5.9888, device='cuda:0')
-199: ppl=tensor(5.9184, device='cuda:0')
-200: ppl=tensor(5.4446, device='cuda:0')
-201: ppl=tensor(5.2263, device='cuda:0')
-
-204it [00:11, 21.84it/s][A
-207it [00:11, 22.55it/s][A
-210it [00:11, 22.96it/s][A
-213it [00:11, 23.05it/s][A
-216it [00:12, 23.65it/s][A
-219it [00:12, 24.13it/s][A
-222it [00:12, 23.60it/s][A
-225it [00:12, 23.24it/s][A
-228it [00:12, 23.86it/s][A
-231it [00:12, 24.62it/s][A
-234it [00:12, 25.04it/s][A
-237it [00:12, 24.52it/s][A
-240it [00:13, 23.15it/s][A
-243it [00:13, 23.31it/s][A
-246it [00:13, 21.52it/s][A
-249it [00:13, 21.66it/s][A
-252it [00:13, 23.27it/s][A
-255it [00:13, 24.20it/s][A
-258it [00:13, 23.21it/s][A
-261it [00:13, 23.69it/s][A
-264it [00:14, 23.70it/s][A
-267it [00:14, 22.82it/s][A
-270it [00:14, 22.79it/s][A
-273it [00:14, 23.48it/s][A
-276it [00:14, 23.44it/s][A
-279it [00:14, 22.71it/s][A
-282it [00:14, 23.44it/s][A
-285it [00:14, 24.06it/s][A
-288it [00:15, 24.56it/s][A
-291it [00:15, 22.87it/s][A
-294it [00:15, 22.83it/s][A
-297it [00:15, 22.74it/s][A
-300it [00:15, 23.61it/s][A300it [00:15, 19.21it/s]
- 33%|███▎      | 1/3 [00:21<00:43, 21.57s/it]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
-INFO - The layer lm_head is not quantized.
-Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q4-GS32-DAF-TSF-RP2/gptq_model-4bit-32g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
-202: ppl=tensor(6.2811, device='cuda:0')
-203: ppl=tensor(5.5385, device='cuda:0')
-204: ppl=tensor(5.5718, device='cuda:0')
-205: ppl=tensor(6.2049, device='cuda:0')
-206: ppl=tensor(6.8562, device='cuda:0')
-207: ppl=tensor(6.4191, device='cuda:0')
-208: ppl=tensor(6.4028, device='cuda:0')
-209: ppl=tensor(6.1716, device='cuda:0')
-210: ppl=tensor(6.5579, device='cuda:0')
-211: ppl=tensor(6.1783, device='cuda:0')
-212: ppl=tensor(5.6121, device='cuda:0')
-213: ppl=tensor(5.7416, device='cuda:0')
-214: ppl=tensor(6.2558, device='cuda:0')
-215: ppl=tensor(6.3119, device='cuda:0')
-216: ppl=tensor(7.0247, device='cuda:0')
-217: ppl=tensor(6.5751, device='cuda:0')
-218: ppl=tensor(6.1283, device='cuda:0')
-219: ppl=tensor(5.9709, device='cuda:0')
-220: ppl=tensor(6.2662, device='cuda:0')
-221: ppl=tensor(5.9543, device='cuda:0')
-222: ppl=tensor(5.7264, device='cuda:0')
-223: ppl=tensor(5.5330, device='cuda:0')
-224: ppl=tensor(6.0062, device='cuda:0')
-225: ppl=tensor(6.3155, device='cuda:0')
-226: ppl=tensor(6.4524, device='cuda:0')
-227: ppl=tensor(6.6661, device='cuda:0')
-228: ppl=tensor(5.9874, device='cuda:0')
-229: ppl=tensor(5.8294, device='cuda:0')
-230: ppl=tensor(6.2103, device='cuda:0')
-231: ppl=tensor(5.6751, device='cuda:0')
-232: ppl=tensor(9.0584, device='cuda:0')
-233: ppl=tensor(6.5588, device='cuda:0')
-234: ppl=tensor(6.0355, device='cuda:0')
-235: ppl=tensor(5.9717, device='cuda:0')
-236: ppl=tensor(6.1632, device='cuda:0')
-237: ppl=tensor(6.3572, device='cuda:0')
-238: ppl=tensor(6.3999, device='cuda:0')
-239: ppl=tensor(9.0115, device='cuda:0')
-240: ppl=tensor(7.8273, device='cuda:0')
-241: ppl=tensor(6.6184, device='cuda:0')
-242: ppl=tensor(6.2781, device='cuda:0')
-243: ppl=tensor(5.8041, device='cuda:0')
-244: ppl=tensor(6.3647, device='cuda:0')
-245: ppl=tensor(5.9157, device='cuda:0')
-246: ppl=tensor(6.1211, device='cuda:0')
-247: ppl=tensor(6.1916, device='cuda:0')
-248: ppl=tensor(6.4449, device='cuda:0')
-249: ppl=tensor(6.4711, device='cuda:0')
-250: ppl=tensor(6.1456, device='cuda:0')
-251: ppl=tensor(7.4880, device='cuda:0')
-252: ppl=tensor(6.1424, device='cuda:0')
-253: ppl=tensor(6.6315, device='cuda:0')
-254: ppl=tensor(8.2061, device='cuda:0')
-255: ppl=tensor(5.8894, device='cuda:0')
-256: ppl=tensor(6.4710, device='cuda:0')
-257: ppl=tensor(6.5739, device='cuda:0')
-258: ppl=tensor(6.9333, device='cuda:0')
-259: ppl=tensor(6.2199, device='cuda:0')
-260: ppl=tensor(5.8861, device='cuda:0')
-261: ppl=tensor(6.5313, device='cuda:0')
-262: ppl=tensor(5.4685, device='cuda:0')
-263: ppl=tensor(6.3659, device='cuda:0')
-264: ppl=tensor(5.5657, device='cuda:0')
-265: ppl=tensor(6.2881, device='cuda:0')
-266: ppl=tensor(6.2064, device='cuda:0')
-267: ppl=tensor(6.6742, device='cuda:0')
-268: ppl=tensor(6.7734, device='cuda:0')
-269: ppl=tensor(6.4484, device='cuda:0')
-270: ppl=tensor(6.2240, device='cuda:0')
-271: ppl=tensor(5.9337, device='cuda:0')
-272: ppl=tensor(8.0542, device='cuda:0')
-273: ppl=tensor(6.9150, device='cuda:0')
-274: ppl=tensor(6.5175, device='cuda:0')
-275: ppl=tensor(6.1498, device='cuda:0')
-276: ppl=tensor(6.1588, device='cuda:0')
-277: ppl=tensor(6.5919, device='cuda:0')
-278: ppl=tensor(7.0823, device='cuda:0')
-279: ppl=tensor(6.2984, device='cuda:0')
-280: ppl=tensor(6.7206, device='cuda:0')
-281: ppl=tensor(7.2639, device='cuda:0')
-282: ppl=tensor(6.6093, device='cuda:0')
-283: ppl=tensor(6.1173, device='cuda:0')
-284: ppl=tensor(7.2580, device='cuda:0')
-285: ppl=tensor(7.0619, device='cuda:0')
-286: ppl=tensor(7.0021, device='cuda:0')
-287: ppl=tensor(6.2118, device='cuda:0')
-288: ppl=tensor(7.2257, device='cuda:0')
-289: ppl=tensor(6.5238, device='cuda:0')
-290: ppl=tensor(6.5386, device='cuda:0')
-291: ppl=tensor(6.2013, device='cuda:0')
-292: ppl=tensor(6.4704, device='cuda:0')
-293: ppl=tensor(6.2635, device='cuda:0')
-294: ppl=tensor(6.5449, device='cuda:0')
-295: ppl=tensor(6.6997, device='cuda:0')
-296: ppl=tensor(7.2037, device='cuda:0')
-297: ppl=tensor(7.4298, device='cuda:0')
-298: ppl=tensor(6.4650, device='cuda:0')
-299: ppl=tensor(6.5962, device='cuda:0')
-
-0it [00:00, ?it/s][A
-1it [00:00,  1.91it/s][A
-4it [00:00,  7.73it/s][A
-6it [00:01,  5.23it/s][A
-8it [00:01,  7.25it/s][A
-10it [00:01,  5.30it/s][A
-12it [00:01,  6.98it/s][A
-15it [00:02, 10.00it/s][A
-18it [00:02, 12.54it/s][A
-21it [00:02, 14.86it/s][A
-23it [00:02, 11.14it/s][A
-26it [00:02, 13.55it/s][A
-29it [00:02, 15.88it/s][A
-32it [00:03, 17.86it/s][A
-35it [00:03, 19.12it/s][A
-38it [00:03, 19.94it/s][A
-41it [00:03, 20.62it/s][A
-44it [00:03, 22.41it/s][A
-47it [00:03, 22.69it/s][A
-50it [00:03, 23.53it/s][A
-53it [00:03, 23.71it/s][A
-56it [00:04, 23.39it/s][A
-59it [00:04, 23.04it/s][A
-62it [00:04, 22.85it/s][A
-65it [00:04, 23.16it/s][A
-68it [00:04, 22.41it/s][A
-71it [00:04, 23.10it/s][A
-74it [00:04, 22.85it/s][A
-77it [00:04, 21.66it/s][A
-80it [00:05, 22.40it/s][A
-83it [00:05, 22.66it/s][A
-86it [00:05, 23.16it/s][A
-89it [00:05, 22.82it/s][A
-92it [00:05, 23.30it/s][A
-95it [00:05, 22.94it/s][A
-98it [00:05, 23.56it/s][A
-101it [00:06, 22.68it/s][A
-104it [00:06, 22.45it/s][A
-107it [00:06, 21.58it/s][A
-110it [00:06, 22.29it/s][A
-113it [00:06, 23.36it/s][A
-116it [00:06, 22.71it/s][A
-119it [00:06, 23.02it/s][A
-122it [00:06, 23.88it/s][A
-125it [00:07, 23.54it/s][A
-128it [00:07, 23.16it/s][A
-131it [00:07, 22.92it/s][A
-134it [00:07, 22.81it/s][A
-137it [00:07, 22.90it/s][A
-140it [00:07, 23.87it/s][A
-143it [00:07, 23.30it/s][A
-146it [00:07, 23.49it/s][A
-149it [00:08, 23.24it/s][A
-152it [00:08, 22.86it/s][A
-155it [00:08, 22.59it/s][A
-158it [00:08, 22.41it/s][A
-161it [00:08, 21.31it/s][A
-164it [00:08, 22.12it/s][A
-167it [00:08, 22.24it/s][A
-170it [00:09, 22.41it/s][A
-173it [00:09, 22.90it/s][A
-176it [00:09, 22.88it/s][A
-179it [00:09, 22.97it/s][A
-182it [00:09, 23.00it/s][A
-185it [00:09, 22.76it/s][A
-188it [00:09, 22.48it/s][A
-191it [00:09, 22.25it/s][A
-194it [00:10, 22.26it/s][A
-197it [00:10, 22.60it/s][A
-200it [00:10, 21.32it/s][A0: ppl=tensor(3.3350, device='cuda:0')
-1: ppl=tensor(3.1433, device='cuda:0')
-2: ppl=tensor(2.8806, device='cuda:0')
-3: ppl=tensor(3.0666, device='cuda:0')
-4: ppl=tensor(3.3475, device='cuda:0')
-5: ppl=tensor(3.2234, device='cuda:0')
-6: ppl=tensor(4.2220, device='cuda:0')
-7: ppl=tensor(3.3892, device='cuda:0')
-8: ppl=tensor(3.7543, device='cuda:0')
-9: ppl=tensor(3.0954, device='cuda:0')
-10: ppl=tensor(3.4703, device='cuda:0')
-11: ppl=tensor(3.4701, device='cuda:0')
-12: ppl=tensor(3.9741, device='cuda:0')
-13: ppl=tensor(3.6688, device='cuda:0')
-14: ppl=tensor(4.5597, device='cuda:0')
-15: ppl=tensor(3.5946, device='cuda:0')
-16: ppl=tensor(3.3830, device='cuda:0')
-17: ppl=tensor(3.9475, device='cuda:0')
-18: ppl=tensor(4.2911, device='cuda:0')
-19: ppl=tensor(3.3263, device='cuda:0')
-20: ppl=tensor(3.7397, device='cuda:0')
-21: ppl=tensor(3.6326, device='cuda:0')
-22: ppl=tensor(3.5849, device='cuda:0')
-23: ppl=tensor(3.2453, device='cuda:0')
-24: ppl=tensor(3.6577, device='cuda:0')
-25: ppl=tensor(4.6908, device='cuda:0')
-26: ppl=tensor(4.5078, device='cuda:0')
-27: ppl=tensor(3.6353, device='cuda:0')
-28: ppl=tensor(3.6716, device='cuda:0')
-29: ppl=tensor(4.0333, device='cuda:0')
-30: ppl=tensor(3.7820, device='cuda:0')
-31: ppl=tensor(4.5769, device='cuda:0')
-32: ppl=tensor(3.8215, device='cuda:0')
-33: ppl=tensor(3.9873, device='cuda:0')
-34: ppl=tensor(4.1471, device='cuda:0')
-35: ppl=tensor(4.1050, device='cuda:0')
-36: ppl=tensor(4.5290, device='cuda:0')
-37: ppl=tensor(4.3338, device='cuda:0')
-38: ppl=tensor(4.4555, device='cuda:0')
-39: ppl=tensor(4.1153, device='cuda:0')
-40: ppl=tensor(4.0651, device='cuda:0')
-41: ppl=tensor(3.8085, device='cuda:0')
-42: ppl=tensor(3.8679, device='cuda:0')
-43: ppl=tensor(4.4915, device='cuda:0')
-44: ppl=tensor(3.9408, device='cuda:0')
-45: ppl=tensor(4.0790, device='cuda:0')
-46: ppl=tensor(3.9564, device='cuda:0')
-47: ppl=tensor(4.5907, device='cuda:0')
-48: ppl=tensor(4.1327, device='cuda:0')
-49: ppl=tensor(4.1525, device='cuda:0')
-50: ppl=tensor(4.1304, device='cuda:0')
-51: ppl=tensor(4.2868, device='cuda:0')
-52: ppl=tensor(4.3585, device='cuda:0')
-53: ppl=tensor(3.9854, device='cuda:0')
-54: ppl=tensor(4.0166, device='cuda:0')
-55: ppl=tensor(4.1719, device='cuda:0')
-56: ppl=tensor(4.6800, device='cuda:0')
-57: ppl=tensor(4.8213, device='cuda:0')
-58: ppl=tensor(4.5602, device='cuda:0')
-59: ppl=tensor(4.2016, device='cuda:0')
-60: ppl=tensor(4.4617, device='cuda:0')
-61: ppl=tensor(4.5073, device='cuda:0')
-62: ppl=tensor(4.3371, device='cuda:0')
-63: ppl=tensor(4.7890, device='cuda:0')
-64: ppl=tensor(4.7613, device='cuda:0')
-65: ppl=tensor(4.5702, device='cuda:0')
-66: ppl=tensor(4.3753, device='cuda:0')
-67: ppl=tensor(4.2239, device='cuda:0')
-68: ppl=tensor(4.1098, device='cuda:0')
-69: ppl=tensor(4.5438, device='cuda:0')
-70: ppl=tensor(5.0557, device='cuda:0')
-71: ppl=tensor(4.1140, device='cuda:0')
-72: ppl=tensor(4.2782, device='cuda:0')
-73: ppl=tensor(4.3220, device='cuda:0')
-74: ppl=tensor(4.4772, device='cuda:0')
-75: ppl=tensor(4.2966, device='cuda:0')
-76: ppl=tensor(4.6531, device='cuda:0')
-77: ppl=tensor(4.8337, device='cuda:0')
-78: ppl=tensor(5.1228, device='cuda:0')
-79: ppl=tensor(5.0261, device='cuda:0')
-80: ppl=tensor(4.3404, device='cuda:0')
-81: ppl=tensor(4.6114, device='cuda:0')
-82: ppl=tensor(4.2503, device='cuda:0')
-83: ppl=tensor(5.2229, device='cuda:0')
-84: ppl=tensor(4.7469, device='cuda:0')
-85: ppl=tensor(4.5746, device='cuda:0')
-86: ppl=tensor(4.3282, device='cuda:0')
-87: ppl=tensor(4.4170, device='cuda:0')
-88: ppl=tensor(4.5439, device='cuda:0')
-89: ppl=tensor(4.8538, device='cuda:0')
-90: ppl=tensor(4.4824, device='cuda:0')
-91: ppl=tensor(4.4758, device='cuda:0')
-92: ppl=tensor(4.5146, device='cuda:0')
-93: ppl=tensor(4.7378, device='cuda:0')
-94: ppl=tensor(4.4297, device='cuda:0')
-95: ppl=tensor(5.1582, device='cuda:0')
-96: ppl=tensor(4.8440, device='cuda:0')
-97: ppl=tensor(4.3783, device='cuda:0')
-98: ppl=tensor(4.5281, device='cuda:0')
-99: ppl=tensor(4.6337, device='cuda:0')
-100: ppl=tensor(4.7896, device='cuda:0')
-101: ppl=tensor(4.7436, device='cuda:0')
-102: ppl=tensor(4.6921, device='cuda:0')
-103: ppl=tensor(4.8045, device='cuda:0')
-104: ppl=tensor(4.6702, device='cuda:0')
-105: ppl=tensor(5.0046, device='cuda:0')
-106: ppl=tensor(4.7111, device='cuda:0')
-107: ppl=tensor(4.8051, device='cuda:0')
-108: ppl=tensor(4.7671, device='cuda:0')
-109: ppl=tensor(4.4314, device='cuda:0')
-110: ppl=tensor(5.0910, device='cuda:0')
-111: ppl=tensor(4.9178, device='cuda:0')
-112: ppl=tensor(4.6729, device='cuda:0')
-113: ppl=tensor(4.6538, device='cuda:0')
-114: ppl=tensor(4.7394, device='cuda:0')
-115: ppl=tensor(5.1191, device='cuda:0')
-116: ppl=tensor(5.0566, device='cuda:0')
-117: ppl=tensor(4.8497, device='cuda:0')
-118: ppl=tensor(5.0819, device='cuda:0')
-119: ppl=tensor(5.5161, device='cuda:0')
-120: ppl=tensor(4.9797, device='cuda:0')
-121: ppl=tensor(4.7915, device='cuda:0')
-122: ppl=tensor(4.6211, device='cuda:0')
-123: ppl=tensor(5.1482, device='cuda:0')
-124: ppl=tensor(4.7932, device='cuda:0')
-125: ppl=tensor(5.3129, device='cuda:0')
-126: ppl=tensor(5.4242, device='cuda:0')
-127: ppl=tensor(4.7631, device='cuda:0')
-128: ppl=tensor(4.9096, device='cuda:0')
-129: ppl=tensor(5.0065, device='cuda:0')
-130: ppl=tensor(4.9879, device='cuda:0')
-131: ppl=tensor(4.7832, device='cuda:0')
-132: ppl=tensor(5.8019, device='cuda:0')
-133: ppl=tensor(4.8996, device='cuda:0')
-134: ppl=tensor(5.3961, device='cuda:0')
-135: ppl=tensor(5.0730, device='cuda:0')
-136: ppl=tensor(5.0035, device='cuda:0')
-137: ppl=tensor(5.6219, device='cuda:0')
-138: ppl=tensor(4.8046, device='cuda:0')
-139: ppl=tensor(8.8533, device='cuda:0')
-140: ppl=tensor(5.0943, device='cuda:0')
-141: ppl=tensor(5.0292, device='cuda:0')
-142: ppl=tensor(5.0575, device='cuda:0')
-143: ppl=tensor(5.0392, device='cuda:0')
-144: ppl=tensor(5.5635, device='cuda:0')
-145: ppl=tensor(5.2968, device='cuda:0')
-146: ppl=tensor(5.2509, device='cuda:0')
-147: ppl=tensor(4.5676, device='cuda:0')
-148: ppl=tensor(5.1261, device='cuda:0')
-149: ppl=tensor(5.4029, device='cuda:0')
-150: ppl=tensor(5.1521, device='cuda:0')
-151: ppl=tensor(5.2745, device='cuda:0')
-152: ppl=tensor(5.3671, device='cuda:0')
-153: ppl=tensor(5.7205, device='cuda:0')
-154: ppl=tensor(5.1966, device='cuda:0')
-155: ppl=tensor(5.2401, device='cuda:0')
-156: ppl=tensor(5.6224, device='cuda:0')
-157: ppl=tensor(5.6062, device='cuda:0')
-158: ppl=tensor(5.5163, device='cuda:0')
-159: ppl=tensor(5.0868, device='cuda:0')
-160: ppl=tensor(5.3827, device='cuda:0')
-161: ppl=tensor(6.1712, device='cuda:0')
-162: ppl=tensor(5.5170, device='cuda:0')
-163: ppl=tensor(5.8738, device='cuda:0')
-164: ppl=tensor(5.7710, device='cuda:0')
-165: ppl=tensor(5.6353, device='cuda:0')
-166: ppl=tensor(6.0597, device='cuda:0')
-167: ppl=tensor(5.3829, device='cuda:0')
-168: ppl=tensor(6.1098, device='cuda:0')
-169: ppl=tensor(5.6987, device='cuda:0')
-170: ppl=tensor(5.4984, device='cuda:0')
-171: ppl=tensor(5.9364, device='cuda:0')
-172: ppl=tensor(5.7149, device='cuda:0')
-173: ppl=tensor(5.8860, device='cuda:0')
-174: ppl=tensor(5.1855, device='cuda:0')
-175: ppl=tensor(5.7089, device='cuda:0')
-176: ppl=tensor(5.7054, device='cuda:0')
-177: ppl=tensor(6.5525, device='cuda:0')
-178: ppl=tensor(5.4275, device='cuda:0')
-179: ppl=tensor(5.5021, device='cuda:0')
-180: ppl=tensor(5.6337, device='cuda:0')
-181: ppl=tensor(5.4839, device='cuda:0')
-182: ppl=tensor(5.7676, device='cuda:0')
-183: ppl=tensor(5.3763, device='cuda:0')
-184: ppl=tensor(5.6712, device='cuda:0')
-185: ppl=tensor(5.6133, device='cuda:0')
-186: ppl=tensor(5.6079, device='cuda:0')
-187: ppl=tensor(6.0163, device='cuda:0')
-188: ppl=tensor(5.7356, device='cuda:0')
-189: ppl=tensor(5.3730, device='cuda:0')
-190: ppl=tensor(5.2709, device='cuda:0')
-191: ppl=tensor(5.9013, device='cuda:0')
-192: ppl=tensor(5.5191, device='cuda:0')
-193: ppl=tensor(5.0243, device='cuda:0')
-194: ppl=tensor(5.1919, device='cuda:0')
-195: ppl=tensor(5.9687, device='cuda:0')
-196: ppl=tensor(5.4839, device='cuda:0')
-197: ppl=tensor(5.4878, device='cuda:0')
-198: ppl=tensor(6.2452, device='cuda:0')
-199: ppl=tensor(5.8383, device='cuda:0')
-200: ppl=tensor(5.7834, device='cuda:0')
-201: ppl=tensor(5.1529, device='cuda:0')
-
-203it [00:10, 21.74it/s][A
-206it [00:10, 21.93it/s][A
-209it [00:10, 22.60it/s][A
-212it [00:10, 22.30it/s][A
-215it [00:11, 23.42it/s][A
-218it [00:11, 23.88it/s][A
-221it [00:11, 23.28it/s][A
-224it [00:11, 23.25it/s][A
-227it [00:11, 23.56it/s][A
-230it [00:11, 24.13it/s][A
-233it [00:11, 25.07it/s][A
-236it [00:11, 24.86it/s][A
-239it [00:12, 22.58it/s][A
-242it [00:12, 23.10it/s][A
-245it [00:12, 22.22it/s][A
-248it [00:12, 21.30it/s][A
-251it [00:12, 22.54it/s][A
-254it [00:12, 23.56it/s][A
-257it [00:12, 22.99it/s][A
-260it [00:12, 23.50it/s][A
-263it [00:13, 23.64it/s][A
-266it [00:13, 23.04it/s][A
-269it [00:13, 22.36it/s][A
-272it [00:13, 22.82it/s][A
-275it [00:13, 23.36it/s][A
-278it [00:13, 22.86it/s][A
-281it [00:13, 23.01it/s][A
-284it [00:14, 23.64it/s][A
-287it [00:14, 23.99it/s][A
-290it [00:14, 23.88it/s][A
-293it [00:14, 22.15it/s][A
-296it [00:14, 22.54it/s][A
-299it [00:14, 22.67it/s][A300it [00:14, 20.38it/s]
- 67%|██████▋   | 2/3 [00:41<00:20, 20.67s/it]WARNING - ignoring unknown parameter in quantize_config.json: quant_method.
-INFO - You passed a model that is compatible with the Marlin int4*fp16 GPTQ kernel but use_marlin is False. We recommend using `use_marlin=True` to use the optimized Marlin kernels for inference. Example: `model = AutoGPTQForCausalLM.from_quantized(..., use_marlin=True)`.
-INFO - The layer lm_head is not quantized.
-Some weights of the model checkpoint at mistral-7b-instruct-v0.2-GPTQM2-Q4-GSNone-DAF-TSF-RP2/gptq_model-4bit--1g.safetensors were not used when initializing MistralForCausalLM: set(). This may or may not be an issue - make sure that the checkpoint does not have unnecessary parameters, or that the model definition correctly corresponds to the checkpoint.
-202: ppl=tensor(6.1043, device='cuda:0')
-203: ppl=tensor(5.9244, device='cuda:0')
-204: ppl=tensor(5.3619, device='cuda:0')
-205: ppl=tensor(6.3544, device='cuda:0')
-206: ppl=tensor(6.4911, device='cuda:0')
-207: ppl=tensor(6.3212, device='cuda:0')
-208: ppl=tensor(6.2164, device='cuda:0')
-209: ppl=tensor(5.7979, device='cuda:0')
-210: ppl=tensor(6.8605, device='cuda:0')
-211: ppl=tensor(6.0028, device='cuda:0')
-212: ppl=tensor(5.8416, device='cuda:0')
-213: ppl=tensor(5.7515, device='cuda:0')
-214: ppl=tensor(6.3174, device='cuda:0')
-215: ppl=tensor(5.9468, device='cuda:0')
-216: ppl=tensor(6.6829, device='cuda:0')
-217: ppl=tensor(6.5964, device='cuda:0')
-218: ppl=tensor(6.2077, device='cuda:0')
-219: ppl=tensor(5.5628, device='cuda:0')
-220: ppl=tensor(6.2745, device='cuda:0')
-221: ppl=tensor(6.0652, device='cuda:0')
-222: ppl=tensor(5.9264, device='cuda:0')
-223: ppl=tensor(5.5332, device='cuda:0')
-224: ppl=tensor(5.7529, device='cuda:0')
-225: ppl=tensor(5.9939, device='cuda:0')
-226: ppl=tensor(6.1478, device='cuda:0')
-227: ppl=tensor(6.3448, device='cuda:0')
-228: ppl=tensor(5.7868, device='cuda:0')
-229: ppl=tensor(5.7895, device='cuda:0')
-230: ppl=tensor(5.4242, device='cuda:0')
-231: ppl=tensor(5.9475, device='cuda:0')
-232: ppl=tensor(7.1829, device='cuda:0')
-233: ppl=tensor(6.2810, device='cuda:0')
-234: ppl=tensor(5.9220, device='cuda:0')
-235: ppl=tensor(5.7198, device='cuda:0')
-236: ppl=tensor(5.9197, device='cuda:0')
-237: ppl=tensor(5.9527, device='cuda:0')
-238: ppl=tensor(6.3775, device='cuda:0')
-239: ppl=tensor(8.2440, device='cuda:0')
-240: ppl=tensor(7.1259, device='cuda:0')
-241: ppl=tensor(6.2171, device='cuda:0')
-242: ppl=tensor(6.6319, device='cuda:0')
-243: ppl=tensor(5.9529, device='cuda:0')
-244: ppl=tensor(6.0427, device='cuda:0')
-245: ppl=tensor(5.6544, device='cuda:0')
-246: ppl=tensor(6.3014, device='cuda:0')
-247: ppl=tensor(5.9225, device='cuda:0')
-248: ppl=tensor(6.2000, device='cuda:0')
-249: ppl=tensor(6.3098, device='cuda:0')
-250: ppl=tensor(6.6925, device='cuda:0')
-251: ppl=tensor(7.7019, device='cuda:0')
-252: ppl=tensor(6.1831, device='cuda:0')
-253: ppl=tensor(6.6686, device='cuda:0')
-254: ppl=tensor(7.4507, device='cuda:0')
-255: ppl=tensor(5.8388, device='cuda:0')
-256: ppl=tensor(6.6152, device='cuda:0')
-257: ppl=tensor(6.4327, device='cuda:0')
-258: ppl=tensor(6.8621, device='cuda:0')
-259: ppl=tensor(5.9877, device='cuda:0')
-260: ppl=tensor(5.9109, device='cuda:0')
-261: ppl=tensor(6.2728, device='cuda:0')
-262: ppl=tensor(5.7069, device='cuda:0')
-263: ppl=tensor(6.3070, device='cuda:0')
-264: ppl=tensor(5.3630, device='cuda:0')
-265: ppl=tensor(5.9309, device='cuda:0')
-266: ppl=tensor(6.1506, device='cuda:0')
-267: ppl=tensor(6.2841, device='cuda:0')
-268: ppl=tensor(6.3320, device='cuda:0')
-269: ppl=tensor(6.0217, device='cuda:0')
-270: ppl=tensor(6.1161, device='cuda:0')
-271: ppl=tensor(6.1942, device='cuda:0')
-272: ppl=tensor(7.5957, device='cuda:0')
-273: ppl=tensor(7.1443, device='cuda:0')
-274: ppl=tensor(6.7230, device='cuda:0')
-275: ppl=tensor(5.9152, device='cuda:0')
-276: ppl=tensor(6.3392, device='cuda:0')
-277: ppl=tensor(6.7578, device='cuda:0')
-278: ppl=tensor(6.6737, device='cuda:0')
-279: ppl=tensor(6.0307, device='cuda:0')
-280: ppl=tensor(6.4353, device='cuda:0')
-281: ppl=tensor(6.6526, device='cuda:0')
-282: ppl=tensor(6.5521, device='cuda:0')
-283: ppl=tensor(6.2006, device='cuda:0')
-284: ppl=tensor(6.8040, device='cuda:0')
-285: ppl=tensor(6.9965, device='cuda:0')
-286: ppl=tensor(7.0277, device='cuda:0')
-287: ppl=tensor(6.9512, device='cuda:0')
-288: ppl=tensor(6.8185, device='cuda:0')
-289: ppl=tensor(6.1409, device='cuda:0')
-290: ppl=tensor(6.4269, device='cuda:0')
-291: ppl=tensor(6.1124, device='cuda:0')
-292: ppl=tensor(6.5277, device='cuda:0')
-293: ppl=tensor(6.5241, device='cuda:0')
-294: ppl=tensor(6.0369, device='cuda:0')
-295: ppl=tensor(6.4655, device='cuda:0')
-296: ppl=tensor(6.8897, device='cuda:0')
-297: ppl=tensor(7.2004, device='cuda:0')
-298: ppl=tensor(6.2751, device='cuda:0')
-299: ppl=tensor(6.0893, device='cuda:0')
-
-0it [00:00, ?it/s][A
-1it [00:00,  2.09it/s][A
-4it [00:00,  8.25it/s][A
-6it [00:01,  5.35it/s][A
-8it [00:01,  7.41it/s][A
-10it [00:01,  5.37it/s][A
-12it [00:01,  7.09it/s][A
-15it [00:02, 10.16it/s][A
-18it [00:02, 12.74it/s][A
-21it [00:02, 15.10it/s][A
-24it [00:02, 11.54it/s][A
-27it [00:02, 13.77it/s][A
-30it [00:02, 16.26it/s][A
-33it [00:03, 18.21it/s][A
-36it [00:03, 19.05it/s][A
-39it [00:03, 20.37it/s][A
-42it [00:03, 21.23it/s][A
-45it [00:03, 22.64it/s][A
-48it [00:03, 22.86it/s][A
-51it [00:03, 24.33it/s][A
-54it [00:03, 24.11it/s][A
-57it [00:04, 23.44it/s][A
-60it [00:04, 23.20it/s][A
-63it [00:04, 23.61it/s][A
-66it [00:04, 23.77it/s][A
-69it [00:04, 22.87it/s][A
-72it [00:04, 23.51it/s][A
-75it [00:04, 22.80it/s][A
-78it [00:04, 22.24it/s][A
-81it [00:05, 22.42it/s][A
-84it [00:05, 23.57it/s][A
-87it [00:05, 23.64it/s][A
-90it [00:05, 23.23it/s][A
-93it [00:05, 23.22it/s][A
-96it [00:05, 23.30it/s][A
-99it [00:05, 23.94it/s][A
-102it [00:05, 22.54it/s][A
-105it [00:06, 21.80it/s][A
-108it [00:06, 22.38it/s][A
-111it [00:06, 23.02it/s][A
-114it [00:06, 23.42it/s][A
-117it [00:06, 23.26it/s][A
-120it [00:06, 23.99it/s][A
-123it [00:06, 24.31it/s][A
-126it [00:06, 23.97it/s][A
-129it [00:07, 23.70it/s][A
-132it [00:07, 23.62it/s][A
-135it [00:07, 23.03it/s][A
-138it [00:07, 23.58it/s][A
-141it [00:07, 23.67it/s][A
-144it [00:07, 23.73it/s][A
-147it [00:07, 23.46it/s][A
-150it [00:08, 23.74it/s][A
-153it [00:08, 23.32it/s][A
-156it [00:08, 22.65it/s][A
-159it [00:08, 22.56it/s][A
-162it [00:08, 21.95it/s][A
-165it [00:08, 22.75it/s][A
-168it [00:08, 23.18it/s][A
-171it [00:08, 22.48it/s][A
-174it [00:09, 23.14it/s][A
-177it [00:09, 23.52it/s][A
-180it [00:09, 23.94it/s][A
-183it [00:09, 23.57it/s][A
-186it [00:09, 23.21it/s][A
-189it [00:09, 22.81it/s][A
-192it [00:09, 22.22it/s][A
-195it [00:09, 22.87it/s][A
-198it [00:10, 22.00it/s][A
-201it [00:10, 21.91it/s][A0: ppl=tensor(4.2077, device='cuda:0')
-1: ppl=tensor(3.6965, device='cuda:0')
-2: ppl=tensor(3.6339, device='cuda:0')
-3: ppl=tensor(4.5735, device='cuda:0')
-4: ppl=tensor(4.0251, device='cuda:0')
-5: ppl=tensor(4.6071, device='cuda:0')
-6: ppl=tensor(6.0199, device='cuda:0')
-7: ppl=tensor(3.6912, device='cuda:0')
-8: ppl=tensor(4.2111, device='cuda:0')
-9: ppl=tensor(3.3516, device='cuda:0')
-10: ppl=tensor(4.1649, device='cuda:0')
-11: ppl=tensor(3.7417, device='cuda:0')
-12: ppl=tensor(4.0258, device='cuda:0')
-13: ppl=tensor(4.0417, device='cuda:0')
-14: ppl=tensor(4.1603, device='cuda:0')
-15: ppl=tensor(3.6166, device='cuda:0')
-16: ppl=tensor(4.4351, device='cuda:0')
-17: ppl=tensor(4.5458, device='cuda:0')
-18: ppl=tensor(5.4443, device='cuda:0')
-19: ppl=tensor(3.6564, device='cuda:0')
-20: ppl=tensor(4.1645, device='cuda:0')
-21: ppl=tensor(4.0095, device='cuda:0')
-22: ppl=tensor(4.1780, device='cuda:0')
-23: ppl=tensor(3.3683, device='cuda:0')
-24: ppl=tensor(3.9142, device='cuda:0')
-25: ppl=tensor(6.2212, device='cuda:0')
-26: ppl=tensor(5.0769, device='cuda:0')
-27: ppl=tensor(3.9416, device='cuda:0')
-28: ppl=tensor(3.9729, device='cuda:0')
-29: ppl=tensor(4.0161, device='cuda:0')
-30: ppl=tensor(4.2535, device='cuda:0')
-31: ppl=tensor(6.0910, device='cuda:0')
-32: ppl=tensor(5.0177, device='cuda:0')
-33: ppl=tensor(4.0829, device='cuda:0')
-34: ppl=tensor(4.3087, device='cuda:0')
-35: ppl=tensor(4.3585, device='cuda:0')
-36: ppl=tensor(4.7766, device='cuda:0')
-37: ppl=tensor(4.3907, device='cuda:0')
-38: ppl=tensor(5.0808, device='cuda:0')
-39: ppl=tensor(4.5236, device='cuda:0')
-40: ppl=tensor(4.3910, device='cuda:0')
-41: ppl=tensor(4.5415, device='cuda:0')
-42: ppl=tensor(5.0451, device='cuda:0')
-43: ppl=tensor(5.9813, device='cuda:0')
-44: ppl=tensor(4.7289, device='cuda:0')
-45: ppl=tensor(4.4960, device='cuda:0')
-46: ppl=tensor(4.2737, device='cuda:0')
-47: ppl=tensor(11.5795, device='cuda:0')
-48: ppl=tensor(5.5282, device='cuda:0')
-49: ppl=tensor(5.0241, device='cuda:0')
-50: ppl=tensor(4.6913, device='cuda:0')
-51: ppl=tensor(4.7435, device='cuda:0')
-52: ppl=tensor(4.4104, device='cuda:0')
-53: ppl=tensor(4.3339, device='cuda:0')
-54: ppl=tensor(3.7107, device='cuda:0')
-55: ppl=tensor(4.1913, device='cuda:0')
-56: ppl=tensor(4.7636, device='cuda:0')
-57: ppl=tensor(4.9923, device='cuda:0')
-58: ppl=tensor(4.7028, device='cuda:0')
-59: ppl=tensor(4.7891, device='cuda:0')
-60: ppl=tensor(4.9517, device='cuda:0')
-61: ppl=tensor(4.9222, device='cuda:0')
-62: ppl=tensor(5.0190, device='cuda:0')
-63: ppl=tensor(5.5056, device='cuda:0')
-64: ppl=tensor(4.9467, device='cuda:0')
-65: ppl=tensor(4.8136, device='cuda:0')
-66: ppl=tensor(4.7658, device='cuda:0')
-67: ppl=tensor(4.4316, device='cuda:0')
-68: ppl=tensor(4.7616, device='cuda:0')
-69: ppl=tensor(4.8811, device='cuda:0')
-70: ppl=tensor(5.4412, device='cuda:0')
-71: ppl=tensor(4.3156, device='cuda:0')
-72: ppl=tensor(4.7221, device='cuda:0')
-73: ppl=tensor(4.7772, device='cuda:0')
-74: ppl=tensor(4.7269, device='cuda:0')
-75: ppl=tensor(4.7317, device='cuda:0')
-76: ppl=tensor(4.7161, device='cuda:0')
-77: ppl=tensor(4.5765, device='cuda:0')
-78: ppl=tensor(5.6441, device='cuda:0')
-79: ppl=tensor(5.4355, device='cuda:0')
-80: ppl=tensor(4.7107, device='cuda:0')
-81: ppl=tensor(5.7037, device='cuda:0')
-82: ppl=tensor(4.9815, device='cuda:0')
-83: ppl=tensor(5.4410, device='cuda:0')
-84: ppl=tensor(5.3433, device='cuda:0')
-85: ppl=tensor(4.4128, device='cuda:0')
-86: ppl=tensor(4.8702, device='cuda:0')
-87: ppl=tensor(4.9910, device='cuda:0')
-88: ppl=tensor(5.0022, device='cuda:0')
-89: ppl=tensor(4.8867, device='cuda:0')
-90: ppl=tensor(5.6397, device='cuda:0')
-91: ppl=tensor(4.6263, device='cuda:0')
-92: ppl=tensor(5.0145, device='cuda:0')
-93: ppl=tensor(5.0411, device='cuda:0')
-94: ppl=tensor(4.7948, device='cuda:0')
-95: ppl=tensor(6.6911, device='cuda:0')
-96: ppl=tensor(5.1704, device='cuda:0')
-97: ppl=tensor(4.8885, device='cuda:0')
-98: ppl=tensor(5.8079, device='cuda:0')
-99: ppl=tensor(4.9672, device='cuda:0')
-100: ppl=tensor(5.4136, device='cuda:0')
-101: ppl=tensor(5.3421, device='cuda:0')
-102: ppl=tensor(5.1848, device='cuda:0')
-103: ppl=tensor(5.8796, device='cuda:0')
-104: ppl=tensor(4.8892, device='cuda:0')
-105: ppl=tensor(5.1619, device='cuda:0')
-106: ppl=tensor(5.0992, device='cuda:0')
-107: ppl=tensor(5.3427, device='cuda:0')
-108: ppl=tensor(6.0661, device='cuda:0')
-109: ppl=tensor(5.2151, device='cuda:0')
-110: ppl=tensor(6.0330, device='cuda:0')
-111: ppl=tensor(5.5485, device='cuda:0')
-112: ppl=tensor(4.8856, device='cuda:0')
-113: ppl=tensor(4.7464, device='cuda:0')
-114: ppl=tensor(4.7251, device='cuda:0')
-115: ppl=tensor(5.3292, device='cuda:0')
-116: ppl=tensor(5.6289, device='cuda:0')
-117: ppl=tensor(5.3037, device='cuda:0')
-118: ppl=tensor(5.7561, device='cuda:0')
-119: ppl=tensor(5.8977, device='cuda:0')
-120: ppl=tensor(6.2672, device='cuda:0')
-121: ppl=tensor(4.9137, device='cuda:0')
-122: ppl=tensor(5.0542, device='cuda:0')
-123: ppl=tensor(7.7543, device='cuda:0')
-124: ppl=tensor(5.4523, device='cuda:0')
-125: ppl=tensor(5.7107, device='cuda:0')
-126: ppl=tensor(5.8154, device='cuda:0')
-127: ppl=tensor(5.8813, device='cuda:0')
-128: ppl=tensor(4.8806, device='cuda:0')
-129: ppl=tensor(5.5672, device='cuda:0')
-130: ppl=tensor(5.1784, device='cuda:0')
-131: ppl=tensor(5.3128, device='cuda:0')
-132: ppl=tensor(6.5433, device='cuda:0')
-133: ppl=tensor(5.2748, device='cuda:0')
-134: ppl=tensor(5.3167, device='cuda:0')
-135: ppl=tensor(5.3869, device='cuda:0')
-136: ppl=tensor(5.8400, device='cuda:0')
-137: ppl=tensor(6.4331, device='cuda:0')
-138: ppl=tensor(4.8357, device='cuda:0')
-139: ppl=tensor(7.4369, device='cuda:0')
-140: ppl=tensor(5.6947, device='cuda:0')
-141: ppl=tensor(7.9428, device='cuda:0')
-142: ppl=tensor(5.6475, device='cuda:0')
-143: ppl=tensor(5.1713, device='cuda:0')
-144: ppl=tensor(5.9041, device='cuda:0')
-145: ppl=tensor(5.8283, device='cuda:0')
-146: ppl=tensor(5.8254, device='cuda:0')
-147: ppl=tensor(4.8819, device='cuda:0')
-148: ppl=tensor(6.9216, device='cuda:0')
-149: ppl=tensor(5.1742, device='cuda:0')
-150: ppl=tensor(6.3287, device='cuda:0')
-151: ppl=tensor(5.8290, device='cuda:0')
-152: ppl=tensor(6.0045, device='cuda:0')
-153: ppl=tensor(5.9476, device='cuda:0')
-154: ppl=tensor(5.6080, device='cuda:0')
-155: ppl=tensor(5.6076, device='cuda:0')
-156: ppl=tensor(5.4943, device='cuda:0')
-157: ppl=tensor(5.4429, device='cuda:0')
-158: ppl=tensor(6.0092, device='cuda:0')
-159: ppl=tensor(5.3157, device='cuda:0')
-160: ppl=tensor(5.7617, device='cuda:0')
-161: ppl=tensor(7.9109, device='cuda:0')
-162: ppl=tensor(5.9613, device='cuda:0')
-163: ppl=tensor(7.5986, device='cuda:0')
-164: ppl=tensor(5.6492, device='cuda:0')
-165: ppl=tensor(6.0936, device='cuda:0')
-166: ppl=tensor(6.1514, device='cuda:0')
-167: ppl=tensor(5.5267, device='cuda:0')
-168: ppl=tensor(6.5426, device='cuda:0')
-169: ppl=tensor(6.0216, device='cuda:0')
-170: ppl=tensor(6.0654, device='cuda:0')
-171: ppl=tensor(6.6625, device='cuda:0')
-172: ppl=tensor(5.6357, device='cuda:0')
-173: ppl=tensor(6.3147, device='cuda:0')
-174: ppl=tensor(5.7734, device='cuda:0')
-175: ppl=tensor(5.9786, device='cuda:0')
-176: ppl=tensor(6.0992, device='cuda:0')
-177: ppl=tensor(7.3034, device='cuda:0')
-178: ppl=tensor(5.2683, device='cuda:0')
-179: ppl=tensor(5.9377, device='cuda:0')
-180: ppl=tensor(5.8879, device='cuda:0')
-181: ppl=tensor(6.1545, device='cuda:0')
-182: ppl=tensor(6.1443, device='cuda:0')
-183: ppl=tensor(6.5252, device='cuda:0')
-184: ppl=tensor(6.4421, device='cuda:0')
-185: ppl=tensor(7.2080, device='cuda:0')
-186: ppl=tensor(6.1276, device='cuda:0')
-187: ppl=tensor(7.0766, device='cuda:0')
-188: ppl=tensor(5.8748, device='cuda:0')
-189: ppl=tensor(6.2060, device='cuda:0')
-190: ppl=tensor(5.4993, device='cuda:0')
-191: ppl=tensor(6.2008, device='cuda:0')
-192: ppl=tensor(5.5619, device='cuda:0')
-193: ppl=tensor(5.7395, device='cuda:0')
-194: ppl=tensor(5.7103, device='cuda:0')
-195: ppl=tensor(6.4331, device='cuda:0')
-196: ppl=tensor(6.3965, device='cuda:0')
-197: ppl=tensor(5.7922, device='cuda:0')
-198: ppl=tensor(6.0474, device='cuda:0')
-199: ppl=tensor(6.1304, device='cuda:0')
-200: ppl=tensor(5.8868, device='cuda:0')
-201: ppl=tensor(6.2297, device='cuda:0')
-
-204it [00:10, 21.98it/s][A
-207it [00:10, 22.70it/s][A
-210it [00:10, 23.12it/s][A
-213it [00:10, 23.00it/s][A
-216it [00:10, 23.65it/s][A
-219it [00:11, 24.20it/s][A
-222it [00:11, 23.68it/s][A
-225it [00:11, 23.55it/s][A
-228it [00:11, 24.16it/s][A
-231it [00:11, 24.87it/s][A
-234it [00:11, 25.27it/s][A
-237it [00:11, 24.71it/s][A
-240it [00:11, 23.31it/s][A
-243it [00:12, 23.48it/s][A
-246it [00:12, 21.62it/s][A
-249it [00:12, 21.81it/s][A
-252it [00:12, 23.43it/s][A
-255it [00:12, 24.37it/s][A
-258it [00:12, 23.38it/s][A
-261it [00:12, 23.90it/s][A
-264it [00:12, 23.86it/s][A
-267it [00:13, 22.95it/s][A
-270it [00:13, 22.89it/s][A
-273it [00:13, 23.58it/s][A
-276it [00:13, 23.54it/s][A
-279it [00:13, 22.78it/s][A
-282it [00:13, 23.54it/s][A
-285it [00:13, 24.18it/s][A
-288it [00:13, 24.70it/s][A
-291it [00:14, 22.98it/s][A
-294it [00:14, 22.86it/s][A
-297it [00:14, 22.80it/s][A
-300it [00:14, 23.70it/s][A300it [00:14, 20.72it/s]
-100%|██████████| 3/3 [01:00<00:00, 19.78s/it]100%|██████████| 3/3 [01:00<00:00, 20.11s/it]
-202: ppl=tensor(6.7895, device='cuda:0')
-203: ppl=tensor(6.3451, device='cuda:0')
-204: ppl=tensor(5.5813, device='cuda:0')
-205: ppl=tensor(6.3682, device='cuda:0')
-206: ppl=tensor(7.8585, device='cuda:0')
-207: ppl=tensor(7.2279, device='cuda:0')
-208: ppl=tensor(6.6129, device='cuda:0')
-209: ppl=tensor(6.2386, device='cuda:0')
-210: ppl=tensor(7.5907, device='cuda:0')
-211: ppl=tensor(6.0620, device='cuda:0')
-212: ppl=tensor(6.0812, device='cuda:0')
-213: ppl=tensor(5.4320, device='cuda:0')
-214: ppl=tensor(6.6620, device='cuda:0')
-215: ppl=tensor(6.4335, device='cuda:0')
-216: ppl=tensor(10.2560, device='cuda:0')
-217: ppl=tensor(6.4938, device='cuda:0')
-218: ppl=tensor(6.8319, device='cuda:0')
-219: ppl=tensor(6.1295, device='cuda:0')
-220: ppl=tensor(7.2709, device='cuda:0')
-221: ppl=tensor(6.4542, device='cuda:0')
-222: ppl=tensor(6.9279, device='cuda:0')
-223: ppl=tensor(5.6157, device='cuda:0')
-224: ppl=tensor(6.0742, device='cuda:0')
-225: ppl=tensor(7.7009, device='cuda:0')
-226: ppl=tensor(7.3383, device='cuda:0')
-227: ppl=tensor(6.3253, device='cuda:0')
-228: ppl=tensor(6.3588, device='cuda:0')
-229: ppl=tensor(5.7683, device='cuda:0')
-230: ppl=tensor(6.8268, device='cuda:0')
-231: ppl=tensor(6.4605, device='cuda:0')
-232: ppl=tensor(10.2893, device='cuda:0')
-233: ppl=tensor(6.9840, device='cuda:0')
-234: ppl=tensor(5.9777, device='cuda:0')
-235: ppl=tensor(6.0126, device='cuda:0')
-236: ppl=tensor(6.2336, device='cuda:0')
-237: ppl=tensor(6.1621, device='cuda:0')
-238: ppl=tensor(7.3654, device='cuda:0')
-239: ppl=tensor(8.3545, device='cuda:0')
-240: ppl=tensor(7.5825, device='cuda:0')
-241: ppl=tensor(7.3939, device='cuda:0')
-242: ppl=tensor(6.5221, device='cuda:0')
-243: ppl=tensor(6.2541, device='cuda:0')
-244: ppl=tensor(6.5555, device='cuda:0')
-245: ppl=tensor(7.3126, device='cuda:0')
-246: ppl=tensor(7.2963, device='cuda:0')
-247: ppl=tensor(6.3536, device='cuda:0')
-248: ppl=tensor(7.7921, device='cuda:0')
-249: ppl=tensor(6.3485, device='cuda:0')
-250: ppl=tensor(7.2185, device='cuda:0')
-251: ppl=tensor(6.8599, device='cuda:0')
-252: ppl=tensor(6.5538, device='cuda:0')
-253: ppl=tensor(7.7394, device='cuda:0')
-254: ppl=tensor(8.4210, device='cuda:0')
-255: ppl=tensor(6.1898, device='cuda:0')
-256: ppl=tensor(7.1342, device='cuda:0')
-257: ppl=tensor(6.8784, device='cuda:0')
-258: ppl=tensor(7.6685, device='cuda:0')
-259: ppl=tensor(7.1777, device='cuda:0')
-260: ppl=tensor(5.7127, device='cuda:0')
-261: ppl=tensor(7.2936, device='cuda:0')
-262: ppl=tensor(6.6637, device='cuda:0')
-263: ppl=tensor(6.5506, device='cuda:0')
-264: ppl=tensor(5.8696, device='cuda:0')
-265: ppl=tensor(6.4341, device='cuda:0')
-266: ppl=tensor(5.8718, device='cuda:0')
-267: ppl=tensor(6.7522, device='cuda:0')
-268: ppl=tensor(6.8516, device='cuda:0')
-269: ppl=tensor(6.2918, device='cuda:0')
-270: ppl=tensor(6.9497, device='cuda:0')
-271: ppl=tensor(6.8128, device='cuda:0')
-272: ppl=tensor(7.7366, device='cuda:0')
-273: ppl=tensor(7.1799, device='cuda:0')
-274: ppl=tensor(7.2173, device='cuda:0')
-275: ppl=tensor(6.1683, device='cuda:0')
-276: ppl=tensor(6.6845, device='cuda:0')
-277: ppl=tensor(6.5314, device='cuda:0')
-278: ppl=tensor(7.3107, device='cuda:0')
-279: ppl=tensor(6.5495, device='cuda:0')
-280: ppl=tensor(11.0750, device='cuda:0')
-281: ppl=tensor(7.2192, device='cuda:0')
-282: ppl=tensor(6.9445, device='cuda:0')
-283: ppl=tensor(6.0940, device='cuda:0')
-284: ppl=tensor(7.3034, device='cuda:0')
-285: ppl=tensor(7.8591, device='cuda:0')
-286: ppl=tensor(6.7773, device='cuda:0')
-287: ppl=tensor(7.2357, device='cuda:0')
-288: ppl=tensor(8.1132, device='cuda:0')
-289: ppl=tensor(6.6933, device='cuda:0')
-290: ppl=tensor(6.6562, device='cuda:0')
-291: ppl=tensor(6.8626, device='cuda:0')
-292: ppl=tensor(6.5759, device='cuda:0')
-293: ppl=tensor(7.4004, device='cuda:0')
-294: ppl=tensor(6.7096, device='cuda:0')
-295: ppl=tensor(7.0549, device='cuda:0')
-296: ppl=tensor(7.9181, device='cuda:0')
-297: ppl=tensor(7.3576, device='cuda:0')
-298: ppl=tensor(7.9338, device='cuda:0')
-299: ppl=tensor(6.5834, device='cuda:0')

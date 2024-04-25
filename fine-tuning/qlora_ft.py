@@ -16,29 +16,29 @@ TASK = 'gsm8k' # ['boolq', 'hellaswag', 'gsm8k']
 
 
 ################################### pure QLoRA #############################################
-# checkpoint = "mistralai/Mistral-7B-v0.1"
-# tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast = False)
-# tokenizer.pad_token = tokenizer.eos_token
-# quantization_config = BitsAndBytesConfig(load_in_4bit=True,
-#                                         bnb_4bit_compute_dtype=torch.bfloat16,
-#                                         bnb_4bit_quant_type='nf4',
-#                                         bnb_4bit_use_double_quant=False,
-#                                         )
-# model = AutoModelForCausalLM.from_pretrained(checkpoint,
-#                                              torch_dtype = torch.bfloat16,       
-#                                              device_map=device,
-#                                              cache_dir='/mnt/esperanto/et/huggingface/hub',
-#                                              quantization_config=quantization_config,
-#                                             )
+checkpoint = "mistralai/Mistral-7B-v0.1"
+tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast = False)
+tokenizer.pad_token = tokenizer.eos_token
+quantization_config = BitsAndBytesConfig(load_in_4bit=True,
+                                        bnb_4bit_compute_dtype=torch.bfloat16,
+                                        bnb_4bit_quant_type='nf4',
+                                        bnb_4bit_use_double_quant=False,
+                                        )
+model = AutoModelForCausalLM.from_pretrained(checkpoint,
+                                             torch_dtype = torch.bfloat16,       
+                                             device_map=device,
+                                             cache_dir='/mnt/esperanto/et/huggingface/hub',
+                                             quantization_config=quantization_config,
+                                            )
 
 
 ################################### AWQ + LoRA #############################################
-QUANTIZED_MODEL_ID = f"./models/mistral-7b-v0.1-AWQ-Q4-GS128-GEMM"
-model = AutoModelForCausalLM.from_pretrained(QUANTIZED_MODEL_ID,
-                                            device_map={'': device},
-                                        )
-tokenizer = AutoTokenizer.from_pretrained(QUANTIZED_MODEL_ID)
-tokenizer.pad_token = tokenizer.eos_token
+# QUANTIZED_MODEL_ID = f"./models/mistral-7b-v0.1-AWQ-Q4-GS128-GEMM"
+# model = AutoModelForCausalLM.from_pretrained(QUANTIZED_MODEL_ID,
+#                                             device_map={'': device},
+#                                         )
+# tokenizer = AutoTokenizer.from_pretrained(QUANTIZED_MODEL_ID)
+# tokenizer.pad_token = tokenizer.eos_token
 
 
 
