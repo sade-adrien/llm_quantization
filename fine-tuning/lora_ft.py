@@ -1,12 +1,12 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorWithPadding
-from torch.utils.data import DataLoader
+
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = '1'
+
+from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer
 from peft import LoraConfig, get_peft_model
 from datasets import load_dataset
 import torch
 import re
-import os
-
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 
 device = 'cuda:0'
 

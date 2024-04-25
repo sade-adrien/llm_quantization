@@ -1,6 +1,6 @@
 lm-eval \
     --model hf \
-    --model_args "pretrained=meta-llama/Meta-Llama-3-8B, \
+    --model_args "pretrained=microsoft/Phi-3-mini-4k-instruct,trust_remote_code=True, \
                 dtype=float16" \
     --tasks gsm8k \
     --device cuda:1 \

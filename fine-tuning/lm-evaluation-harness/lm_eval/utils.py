@@ -57,6 +57,7 @@ def handle_arg_string(arg):
     #### adrien's add
     elif arg.startswith("BitsAndBytesConfig"):
         from transformers import BitsAndBytesConfig
+        import torch
         return eval(arg)
     elif arg.startswith("GPTQConfig"):
         from transformers import GPTQConfig
