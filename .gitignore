@@ -4,3 +4,6 @@ AutoAWQ_kernels/
 fine-tuning/models/
 fine-tuning/wandb/
 fine-tuning/llm-quantization-utils
+data/
+AQLM/
+wandb/

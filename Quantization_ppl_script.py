@@ -205,7 +205,7 @@ def main():
     #     torch.cuda.empty_cache()
 
     for model_name in tqdm(list_configs_AQLM):
-        framework = 'HF-AQLM'
+        framework = 'AQLM'
         model = AutoModelForCausalLM.from_pretrained(model_name,
                                             trust_remote_code=True, 
                                             torch_dtype=torch.float16,

@@ -37,4 +37,4 @@ framework='AutoAWQ', model_name='mistral-7b-instruct-v0.2-AWQM-Q4-GS128-Marlin',
 framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GS512-DAF-TSF-RP2', ppl=tensor(5.4355, device='cuda:0')
 framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GS32-DAF-TSF-RP2', ppl=tensor(5.2747, device='cuda:0')
 framework='AutoGPTQ', model_name='mistral-7b-instruct-v0.2-GPTQM2-Q4-GSNone-DAF-TSF-RP2', ppl=tensor(5.8418, device='cuda:0')
-framework='HF-AQLM', model_name='ISTA-DASLab/Mistral-7B-Instruct-v0.2-AQLM-2Bit-2x8', ppl=tensor(8.6088, device='cuda:0')
+framework='AQLM', model_name='ISTA-DASLab/Mistral-7B-Instruct-v0.2-AQLM-2Bit-2x8', ppl=tensor(8.6088, device='cuda:0')
