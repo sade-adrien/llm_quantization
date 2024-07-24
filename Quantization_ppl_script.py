@@ -90,7 +90,8 @@ checkpoint = "mistralai/Mistral-7B-Instruct-v0.2"
 # ]
 
 list_configs_AQLM = [
-    'ISTA-DASLab/Mistral-7B-Instruct-v0.2-AQLM-2Bit-2x8',
+    #'ISTA-DASLab/Mistral-7B-Instruct-v0.2-AQLM-2Bit-2x8',
+    './models/Mistral-7B-Instruct-v0.2-AQLM-2bits-1x16',
 ]
 
 def main():
