@@ -4,13 +4,14 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, BitsAn
 from torch.nn import CrossEntropyLoss
 # from awq import AutoAWQForCausalLM
 from scipy.special import softmax
+from peft import PeftModel
 from tqdm import tqdm
 import numpy as np
 #import quanto
 import torch
 import json
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 device = 'cuda:0'
 checkpoint = "mistralai/Mistral-7B-Instruct-v0.2"
@@ -34,11 +35,11 @@ checkpoint = "mistralai/Mistral-7B-Instruct-v0.2"
 #                             bnb_4bit_quant_type="nf4",
 #                             bnb_4bit_compute_dtype=torch.float16,
 #                             )),
-#     (torch.float16, BitsAndBytesConfig(load_in_4bit=True,
-#                             bnb_4bit_use_double_quant=True,
-#                             bnb_4bit_quant_type="nf4",
-#                             bnb_4bit_compute_dtype=torch.float16,
-#                             )),
+    # (torch.bfloat16, BitsAndBytesConfig(load_in_4bit=True,
+    #                         bnb_4bit_use_double_quant=False,
+    #                         bnb_4bit_quant_type="nf4",
+    #                         bnb_4bit_compute_dtype=torch.bfloat16,
+    #                         )),
 #     (torch.float32, QuantoConfig(weights='float8')),
 #     (torch.float32, QuantoConfig(weights='int8')),
 #     (torch.float32, QuantoConfig(weights='int4')),
@@ -89,14 +90,22 @@ checkpoint = "mistralai/Mistral-7B-Instruct-v0.2"
 # 
 # ]
 
-list_configs_AQLM = [
+# list_configs_AQLM = [
     #'ISTA-DASLab/Mistral-7B-Instruct-v0.2-AQLM-2Bit-2x8',
-    './models/Mistral-7B-Instruct-v0.2-AQLM-2bits-1x16',
+    # './models/Mistral-7B-Instruct-v0.2-AQLM-2bits-1x16',
+# ]
+
+list_configs_LoftQ = [
+    # './models/Mistral-7B-Instruct-v0.2-LoftQ-4bit-64rank',
+    # './models/Mistral-7B-Instruct-v0.2-LoftQ-4bit-16rank',
+    # './models/Mistral-7B-Instruct-v0.2-LoftQ-2bit-64rank',
+    './models/Mistral-7B-Instruct-v0.2-LoftQ-2bit-16rank',
 ]
 
+
 def main():
-    #### base llmint8 and qlora config
-    # for config in tqdm(list_configs):
+    #### base llmint8 and qlora config and quanto
+    # for config in tqdm(list_configs_HF_BASE_LLMINT8_QLORA):
     #     torch_dtype, quantization_config = config
 
     #     tokenizer = AutoTokenizer.from_pretrained(checkpoint, use_fast = False)
@@ -205,14 +214,42 @@ def main():
     #     del model
     #     torch.cuda.empty_cache()
 
-    for model_name in tqdm(list_configs_AQLM):
-        framework = 'AQLM'
+    # for model_name in tqdm(list_configs_AQLM):
+    #     framework = 'AQLM'
+    #     model = AutoModelForCausalLM.from_pretrained(model_name,
+    #                                         trust_remote_code=True, 
+    #                                         torch_dtype=torch.float16,
+    #                                         device_map=device,
+    #                                     )
+    #     tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    #     ppl, _ = evaluate_ppl(model, tokenizer)
+        
+    #     with open('./results_ppl.txt', 'a') as f:
+    #         model_config = f"{framework=}, {model_name=}, {ppl=}\n"
+    #         f.write(model_config)
+        
+    #     del model
+    #     torch.cuda.empty_cache()
+
+    for model_name in tqdm(list_configs_LoftQ):
+        framework = 'LoftQ'
         model = AutoModelForCausalLM.from_pretrained(model_name,
-                                            trust_remote_code=True, 
-                                            torch_dtype=torch.float16,
-                                            device_map=device,
-                                        )
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
+                                                    device_map=device,
+                                                    torch_dtype=torch.bfloat16,
+                                                    quantization_config=BitsAndBytesConfig(load_in_4bit=True,
+                                                                                        bnb_4bit_compute_dtype=torch.bfloat16,
+                                                                                        bnb_4bit_use_double_quant=False,
+                                                                                        bnb_4bit_quant_type='nf4'
+                                                                                        ),
+                                                    cache_dir='/mnt/esperanto/et/huggingface/hub',
+                                                    )
+        model = PeftModel.from_pretrained(model,
+                                        model_name,
+                                        subfolder="loftq_init",
+                                        is_trainable=True,
+                                    )
+        tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir='/mnt/esperanto/et/huggingface/hub',)
 
         ppl, _ = evaluate_ppl(model, tokenizer)
         
@@ -222,7 +259,6 @@ def main():
         
         del model
         torch.cuda.empty_cache()
-
 
 
 def evaluate_ppl(model, tokenizer):
